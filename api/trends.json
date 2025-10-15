@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T02:19:29.910646+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2025-10-16T03:13:09.111401+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
@@ -81,8 +81,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 03时13分]"
         },
         {
           "title": "金十图示：2025年10月15日（周三）美股热门股票行情一览（美股盘中）",
@@ -109,6 +109,35 @@
       ]
     },
     {
+      "keyword_group": "财报 季报 年报",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "今年首份科创板三季报交卷！多公司经营“报喜”",
+          "url": "https://www.cls.cn/detail/2170598",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 03时13分]"
+        },
+        {
+          "title": "国产算力芯片龙头海光信息Q3营收、归母净利双双创新高！| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3757247",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 03时13分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -122,23 +151,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财报 季报 年报",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "今年首份科创板三季报交卷！多公司经营“报喜”",
-          "url": "https://www.cls.cn/detail/2170598",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 02时19分]"
         }
       ]
     }
