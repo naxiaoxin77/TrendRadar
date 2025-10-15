@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T10:25:20.042110+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2025-10-15T11:35:51.852890+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "ranks": [
             12,
             11,
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 10时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 11时35分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
@@ -50,11 +51,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时13分 ~ 10时25分]"
+          "appearance_count": 5,
+          "time_info": "[07时13分 ~ 11时35分]"
         },
         {
           "title": "澳股、美股稀土板块持续飙涨 投机资金狂赌“美政府入股”逻辑",
@@ -216,7 +218,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -345,7 +347,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -403,7 +405,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -414,7 +416,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         }
@@ -447,11 +449,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 10时25分]"
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 11时35分]"
         }
       ]
     }
