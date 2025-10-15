@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T18:02:27.875614+08:00",
-  "total_titles_processed": 1721,
+  "generated_at": "2025-10-15T18:14:54.035935+08:00",
+  "total_titles_processed": 1724,
   "failed_sources": [],
   "trends": [
     {
@@ -147,6 +147,18 @@
           "time_info": "[01时15分 ~ 03时10分]"
         },
         {
+          "title": "台积电美股盘前涨超4.5%，开盘势创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/2988089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 18时14分]"
+        },
+        {
           "title": "周二（10月14日）纽约尾盘，标普500股指期货最终跌0.16%，道指期货涨0.43%，纳斯达克100股指期货跌0.69%。 罗素2000股指期货涨1.17%。",
           "url": "https://wallstreetcn.com/livenews/2987714",
           "source": "华尔街见闻-快讯",
@@ -169,18 +181,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时25分 ~ 17时17分]"
-        },
-        {
-          "title": "台积电美股盘前涨超4.5%，开盘势创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/2988089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时02分]"
         },
         {
           "title": "标普500指数初步收跌0.1%，科技板块跌1.5%，可选消费板块跌0.3%，金融板块涨1.1%。 纳斯达克100指数初步收跌0.7%，成分股中，英特尔、英伟达、Strategy（MSTR）、博通、Arm控股、亚马逊、特斯拉至多跌超4%，霍尼韦尔、特许通讯、爱彼迎、Atlassian则至少涨超2%。 Salesforce初步收跌3.5%，高盛跌2%，摩根大通跌1.9%，和英伟达领跌道指成分股，霍尼韦尔、美国运通、卡特彼勒、沃尔玛则涨超2%领跑。",
