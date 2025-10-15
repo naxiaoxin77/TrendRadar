@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T19:13:06.196678+08:00",
-  "total_titles_processed": 1834,
+  "generated_at": "2025-10-15T20:28:28.459092+08:00",
+  "total_titles_processed": 1947,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
@@ -58,6 +58,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时16分 ~ 11时35分]"
+        },
+        {
+          "title": "纳斯达克100指数期货涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/2988240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "澳股、美股稀土板块持续飙涨 投机资金狂赌“美政府入股”逻辑",
@@ -288,7 +299,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -428,7 +439,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
