@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T16:19:00.138831+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2025-10-16T16:27:48.104934+08:00",
+  "total_titles_processed": 1524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
@@ -34,6 +34,18 @@
           "time_info": "[07时13分 ~ 13时15分]"
         },
         {
+          "title": "港股收盘：恒生指数收跌0.09%，恒生科技指数收跌1.18%。汽车股走低，蔚来跌约9%，小鹏汽车跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/2988836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时27分]"
+        },
+        {
           "title": "金十图示：2025年10月15日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251016040819160800",
           "source": "金十数据",
@@ -54,17 +66,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
-        },
-        {
-          "title": "港股收盘：恒生指数收跌0.09%，恒生科技指数收跌1.18%。汽车股走低，蔚来跌约9%，小鹏汽车跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/2988836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
         },
         {
           "title": "标普500指数初步收涨0.3%，房地产、公用事业、电信、科技板块至多涨约1.4%，原材料和工业板块则跌0.5%。 纳斯达克100指数初步收涨0.6%，成分股中，AMD初步收涨8.8%，科磊、拉姆研究、应用材料、英特尔、核电概念股CEG至多涨5.5%紧随其后，Axon跌8.7%，MercadoLibre跌5%，Bookings跌3.4%，霍尼韦尔、新思科技、PayPal跌幅靠前。 Travelers Companies Inc.初步收跌2.4%，Salesforce跌1.4%，和霍尼韦尔领跌道指成分股，思科、卡特彼勒、安进、摩根大通、耐克、IBM、沃尔玛则至少收涨约1%。",
@@ -137,6 +138,18 @@
           "time_info": "[05时13分 ~ 06时12分]"
         },
         {
+          "title": "美股盘前，科技股走高，台积电涨超2%，公司Q3净利润创历史新高，超预期增长39%，资本支出达97亿美元，阿斯麦涨1.5%，英伟达、博通均涨超1%。Salesforce盘前涨超4%，此前公司预测营收将超预期。",
+          "url": "https://wallstreetcn.com/livenews/2988829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时27分]"
+        },
+        {
           "title": "纳斯达克生物科技指数收涨1.6%，表现好于美股大盘指数。 成分股奥麦罗制药（OMER）收涨154.27%，该公司与诺和诺德围绕Zaltenibart达成许可协议；Sana Biotechnology涨33.03%，Absci涨28.21%，Recursion Pharmaceuticals涨15.62%，Xeris Pharmaceuticals涨14.04%。 Q32 Bio则收跌5.68%表现倒数第三，Esperion跌6.67%，EyePoint Pharmaceuticals跌10.79%。",
           "url": "https://wallstreetcn.com/livenews/2988410",
           "source": "华尔街见闻-快讯",
@@ -158,17 +171,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时56分 ~ 08时57分]"
-        },
-        {
-          "title": "美股盘前，科技股走高，台积电涨超2%，公司Q3净利润创历史新高，超预期增长39%，资本支出达97亿美元，阿斯麦涨1.5%，英伟达、博通均涨超1%。Salesforce盘前涨超4%，此前公司预测营收将超预期。",
-          "url": "https://wallstreetcn.com/livenews/2988829",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
         },
         {
           "title": "金十图示：2025年10月15日（周三）美股热门股票行情一览（美股盘中）",
@@ -224,6 +226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        },
+        {
+          "title": "美股盘前，AI芯片股普涨，台积电(TSM.N)涨2.4%，Q3净利润创历史新高；博通(AVGO.O)涨1.46%，英伟达(NVDA.O)、AMD(AMD.O)涨超1%。蔚来汽车(NIO.N)盘前跌6.6%。",
+          "url": "https://flash.jin10.com/detail/20251016160116214800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.70%，报8252.41点。 热门中概股里，新东方初步收涨约10%，文远知行、小鹏、台积电、百胜中国、网易、百度、京东至多涨超4%。 ETF中，富时中国3倍做多ETF（YINN）收涨2.81%，中概互联网指数ETF（KWEB）收涨1.30%，中国科技指数ETF（CQQQ）收涨1.09%。 德银嘉实沪深300指数ETF（ASHR）收涨1.18%，XtrackersHarvest中证50（ASHS）收涨0.92%。",
@@ -348,6 +361,67 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "澳新银行将其年底黄金价格预测上调至4400美元/盎司，预计到2026年6月金价将达到峰值，接近4600美元/盎司；预计白银价格在2026年6月达到57.5美元/盎司的峰值。",
+          "url": "https://wallstreetcn.com/livenews/2988528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "澳新银行将今年底黄金价格预测上调至每盎司4400美元，预计到2026年6月将达到近每盎司4600美元的峰值。",
+          "url": "https://flash.jin10.com/detail/20251016084128181800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "金十整理：现货黄金连续4个交易日创新高，各大投行黄金价格预期一览",
+          "url": "https://flash.jin10.com/detail/20251016114935655800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
+          "title": "澳新银行：黄金本轮涨势更多受结构性因素支撑 高位价格可能会维持更久",
+          "url": "https://flash.jin10.com/detail/20251016160020734800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "印度央行行长：黄金价格上涨助力印度央行储备增长。",
+          "url": "https://flash.jin10.com/detail/20251015222750293800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "财报 季报 年报",
       "match_count": 5,
       "titles": [
@@ -363,8 +437,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时12分 ~ 16时19分]"
+          "appearance_count": 17,
+          "time_info": "[03时12分 ~ 16时27分]"
         },
         {
           "title": "今年首份科创板三季报交卷！多公司经营“报喜”",
@@ -416,56 +490,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时50分 ~ 16时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "澳新银行将其年底黄金价格预测上调至4400美元/盎司，预计到2026年6月金价将达到峰值，接近4600美元/盎司；预计白银价格在2026年6月达到57.5美元/盎司的峰值。",
-          "url": "https://wallstreetcn.com/livenews/2988528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "澳新银行将今年底黄金价格预测上调至每盎司4400美元，预计到2026年6月将达到近每盎司4600美元的峰值。",
-          "url": "https://flash.jin10.com/detail/20251016084128181800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "金十整理：现货黄金连续4个交易日创新高，各大投行黄金价格预期一览",
-          "url": "https://flash.jin10.com/detail/20251016114935655800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        },
-        {
-          "title": "印度央行行长：黄金价格上涨助力印度央行储备增长。",
-          "url": "https://flash.jin10.com/detail/20251015222750293800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
         }
       ]
     },
