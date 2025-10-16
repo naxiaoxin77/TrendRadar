@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T04:18:25.255915+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2025-10-17T06:14:12.551962+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "标普500指数跌幅扩大至1%，11个板块全线溃败，金融板块重挫2.65%，能源和可选消费板块也至多跌1.6%。 费城银行指数跌3.4%，地区银行指数跌幅扩大至将近7%。 道指下跌436点跌幅0.94%，纳指跌234点跌幅1%，纳斯达克综100指数跌幅扩大至1%，半导体指数跌0.4%，罗素2000指数跌1.5%。",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -47,9 +47,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "美股三大期指集体走高 台积电业绩领芯片股普涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2171914",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时27分 ~ 06时14分]"
         },
         {
           "title": "景顺中国科技ETF成为美国投资者独宠的中概股基金",
@@ -62,18 +74,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 02时28分]"
-        },
-        {
-          "title": "美股三大期指集体走高 台积电业绩领芯片股普涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2171914",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 04时18分]"
         },
         {
           "title": "台积电强劲业绩带动AI乐观情绪，美股三大股指集体上涨，科技股盘前多数走高，金银维持强势，加密货币震荡",
@@ -93,7 +93,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -104,7 +104,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -115,7 +115,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -129,6 +129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "周四（10月16日）纽约尾盘，标普500股指期货最终下跌0.77%，道指期货跌0.73%，纳斯达克100股指期货跌0.50%。 罗素2000股指期货跌2.22%。",
+          "url": "https://wallstreetcn.com/livenews/2989204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "金十图示：2025年10月16日（周四）美股热门股票行情一览（美股盘中）",
@@ -151,23 +162,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "美国总统特朗普宣称，与德国默沙东（Merck KGaA）围绕（在美国市场）降低生育药物价格达成一份协议，该公司将获得关税宽限。 礼来制药美股盘后跌2.7%，诺和诺德ADR跌2.8%。",
+          "url": "https://wallstreetcn.com/livenews/2989196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "小盘股指ETF收跌2.1%，领跌美股大类资产类ETF，黄金ETF则涨超2.3%",
+          "url": "https://wallstreetcn.com/livenews/2989195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌约1.5%，英伟达涨1.1%为半导体板块“护盘”",
+          "url": "https://wallstreetcn.com/livenews/2989194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "区域银行ETF暴跌6.2%，和银行业ETF领跌美股行业ETF，标普金融板块也收跌超2.7%",
+          "url": "https://wallstreetcn.com/livenews/2989192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
           "url": "https://wallstreetcn.com/articles/3757299",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 04时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 06时14分]"
+        },
+        {
+          "title": "两年期美债收益率跌超7个基点，投资者关注美联储年内降息前景和美国银行业信用危机",
+          "url": "https://wallstreetcn.com/livenews/2989216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "10年期美债收益率再次跌破4%整数心里关口",
@@ -195,8 +262,19 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "白银和黄金价格创历史新高，美国银行业信用危机催生新的避险需求。",
+          "url": "https://wallstreetcn.com/livenews/2989215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
         {
           "title": "是什么一直支持黄金价格一路飙升",
           "url": "https://www.toutiao.com/trending/7561799628442570266/",
@@ -207,6 +285,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 00时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Meta Google",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Meta Platforms(META.O)拟敲定近300亿美元融资方案，用于其路易斯安那州乡村地区的数据中心项目。",
+          "url": "https://flash.jin10.com/detail/20251017055335400800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         }
       ]
     },
