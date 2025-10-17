@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T16:22:35.009026+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2025-10-17T18:16:49.053980+08:00",
+  "total_titles_processed": 1391,
   "failed_sources": [],
   "trends": [
     {
@@ -96,7 +96,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -162,7 +162,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -173,7 +173,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -184,7 +184,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -217,7 +217,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -250,7 +250,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -302,7 +302,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -312,8 +312,22 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时04分 ~ 18时16分]"
+        },
+        {
+          "title": "美债、黄金大涨！美国信贷“蟑螂”成群出没 区域银行危机再现？",
+          "url": "https://www.cls.cn/detail/2172233",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            7,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时04分 ~ 16时22分]"
+          "time_info": "[10时59分 ~ 18时16分]"
         },
         {
           "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
@@ -326,19 +340,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时28分 ~ 06时14分]"
-        },
-        {
-          "title": "美债、黄金大涨！美国信贷“蟑螂”成群出没 区域银行危机再现？",
-          "url": "https://www.cls.cn/detail/2172233",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时59分 ~ 16时22分]"
         },
         {
           "title": "机构：美债收益率下行开始，或预示市场情绪将发生重大转变",
@@ -375,6 +376,17 @@
           "time_info": "[12时19分 ~ 14时21分]"
         },
         {
+          "title": "美银行业“暴雷”加剧市场紧张情绪，全球股市集体下挫，欧美银行股大跌，美债、金银强势",
+          "url": "https://wallstreetcn.com/articles/3757385",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "10年期美债收益率再次跌破4%整数心里关口",
           "url": "https://flash.jin10.com/detail/20251017015227360800",
           "source": "金十数据",
@@ -399,47 +411,8 @@
       ]
     },
     {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "A股三大指数集体下跌",
-          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%B8%8B%E8%B7%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "A股三大指数集体下跌",
-          "url": "https://www.douyin.com/hot/2272758",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "上证指数早盘收报3877.20点，跌1.00%。 深证成指早盘收报12825.85点，跌1.99%。 创业板指早盘收报2965.47点，跌2.37%。 沪深300早盘收报4559.93点，跌1.27%。 科创50早盘收报1379.46点，跌2.62%。 中证500早盘收报7100.73点，跌1.81%。 中证1000早盘收报7265.62点，跌1.84%。",
-          "url": "https://wallstreetcn.com/livenews/2989426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "白银和黄金价格创历史新高，美国银行业信用危机催生新的避险需求。",
@@ -462,6 +435,78 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 00时20分]"
+        },
+        {
+          "title": "汇丰银行：预计2027年黄金平均价格为3950美元/盎司（此前预期为3600美元/盎司），2028年为3630美元/盎司（此前预期为3330美元/盎司）。",
+          "url": "https://flash.jin10.com/detail/20251017173700585800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "汇丰银行：黄金价格或将在2026年上半年达到每盎司5000美元的高位。",
+          "url": "https://flash.jin10.com/detail/20251017173409413800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "汇丰银行：预计2026年黄金价格可能高达每盎司5000美元。",
+          "url": "https://flash.jin10.com/detail/20251017173201747800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "A股三大指数集体下跌",
+          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%B8%8B%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "A股三大指数集体下跌",
+          "url": "https://www.douyin.com/hot/2272758",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "上证指数早盘收报3877.20点，跌1.00%。 深证成指早盘收报12825.85点，跌1.99%。 创业板指早盘收报2965.47点，跌2.37%。 沪深300早盘收报4559.93点，跌1.27%。 科创50早盘收报1379.46点，跌2.62%。 中证500早盘收报7100.73点，跌1.81%。 中证1000早盘收报7265.62点，跌1.84%。",
+          "url": "https://wallstreetcn.com/livenews/2989426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         }
       ]
     },
