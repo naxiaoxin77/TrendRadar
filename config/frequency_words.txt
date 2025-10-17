@@ -68,6 +68,5 @@ A股
 季报
 年报
 
-'vibe marketing'
-'GEO'
-'content automation'
+vibe marketing
+content automation
