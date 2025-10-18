@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T02:20:18.238645+08:00",
-  "total_titles_processed": 355,
+  "generated_at": "2025-10-19T04:16:20.167748+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时16分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时16分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -39,8 +39,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时16分]"
         }
       ]
     },
@@ -53,11 +53,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E9%80%9A%E8%AF%9D%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 04时16分]"
         }
       ]
     },
@@ -73,8 +74,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时16分]"
         }
       ]
     }
