@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T20:27:03.683206+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2025-10-18T22:14:03.367286+08:00",
+  "total_titles_processed": 1425,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时01分 ~ 20时27分]"
+          "appearance_count": 13,
+          "time_info": "[09时01分 ~ 22时14分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -69,6 +69,18 @@
           "time_info": "04时17分"
         },
         {
+          "title": "“恐慌指数”飙升：美股平静期宣告结束？",
+          "url": "https://www.cls.cn/detail/2173450",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时14分 ~ 22时14分]"
+        },
+        {
           "title": "美元大逻辑的关键验证：下一次美股大跌",
           "url": "https://wallstreetcn.com/articles/3757381",
           "source": "华尔街见闻",
@@ -82,18 +94,6 @@
           "time_info": "[09时01分 ~ 14时22分]"
         },
         {
-          "title": "“恐慌指数”飙升：美股平静期宣告结束？",
-          "url": "https://www.cls.cn/detail/2173450",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 20时27分]"
-        },
-        {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
           "url": "https://wallstreetcn.com/articles/3757414",
           "source": "华尔街见闻",
@@ -102,8 +102,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 20时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 22时14分]"
         },
         {
           "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股收盘）",
@@ -300,8 +300,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 20时27分]"
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 22时14分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -337,11 +337,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E9%80%9A%E8%AF%9D%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
+          "appearance_count": 4,
+          "time_info": "[20时26分 ~ 22时14分]"
         },
         {
           "title": "黄金价格“抛物线式”上涨",
