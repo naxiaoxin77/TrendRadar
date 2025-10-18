@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T00:16:34.555823+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-19T02:20:18.238645+08:00",
+  "total_titles_processed": 355,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.cls.cn/detail/2173368",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 02时20分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
           "url": "https://wallstreetcn.com/articles/3757414",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 02时20分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -37,8 +39,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 02时20分]"
         }
       ]
     },
@@ -71,8 +73,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 02时20分]"
         }
       ]
     }
