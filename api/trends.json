@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T04:16:20.167748+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2025-10-19T06:14:03.057947+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -54,11 +54,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             30,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 06时14分]"
         }
       ]
     },
@@ -74,8 +75,25 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 06时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财报 季报 年报",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "龙头6天3板！A股三季报行情如火如荼，9家上市公司净利最高同比预增超400%",
+          "url": "https://www.cls.cn/detail/2173112",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 06时14分]"
         }
       ]
     }
