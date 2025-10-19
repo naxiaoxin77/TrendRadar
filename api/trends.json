@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T12:20:39.075944+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2025-10-19T14:23:17.149209+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 12时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 14时23分]"
+        },
+        {
+          "title": "“恐慌指数”飙升：美股平静期宣告结束？",
+          "url": "https://www.cls.cn/detail/2173450",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 14时23分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -34,28 +46,17 @@
           "time_info": "[00时16分 ~ 09时13分]"
         },
         {
-          "title": "“恐慌指数”飙升：美股平静期宣告结束？",
-          "url": "https://www.cls.cn/detail/2173450",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 11时12分]"
-        },
-        {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
           "url": "https://flash.jin10.com/detail/20251019091747896800",
           "source": "金十数据",
           "ranks": [
             11,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 12时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时12分 ~ 14时23分]"
         }
       ]
     },
@@ -109,8 +110,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时13分 ~ 12时20分]"
+          "appearance_count": 7,
+          "time_info": "[06时13分 ~ 14时23分]"
         }
       ]
     }
