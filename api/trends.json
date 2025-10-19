@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T14:23:17.149209+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2025-10-19T16:18:19.026884+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 14时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 16时18分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -107,11 +107,12 @@
           "ranks": [
             13,
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时13分 ~ 14时23分]"
+          "appearance_count": 8,
+          "time_info": "[06时13分 ~ 16时18分]"
         }
       ]
     }
