@@ -88,5 +88,3 @@ platforms:
     name: "MKTNews"
   - id: "hackernews"
     name: "Hacker News"
-  - id: "xueqiu-hotstock"
-    name: "雪球"
