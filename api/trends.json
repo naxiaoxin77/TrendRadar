@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T14:24:51.999137+08:00",
-  "total_titles_processed": 1141,
+  "generated_at": "2025-10-21T16:22:47.921957+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
@@ -113,6 +113,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "现货黄金向下触及4280美元/盎司，日内跌约1.8%。 现货白银日内跌幅扩大至4%，现报50.20美元/盎司。 美股黄金概念股盘前下跌，哈莫尼黄金、泛美白银跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/2991121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "周一（10月20日）纽约尾盘，标普500股指期货最终上涨1.17%，道指期货涨1.22%，纳斯达克100股指期货涨1.37%。 罗素2000股指期货涨2.06%。",
@@ -244,8 +255,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 14时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 16时22分]"
         },
         {
           "title": "【早报】密集发布！多家行业龙头公司三季报出炉；苹果股价暴涨创新高",
@@ -259,6 +270,17 @@
           "time_info": "[09时07分 ~ 14时24分]"
         },
         {
+          "title": "中国经济“三季报”成绩与信号",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E2%80%9C%E4%B8%89%E5%AD%A3%E6%8A%A5%E2%80%9D%E6%88%90%E7%BB%A9%E4%B8%8E%E4%BF%A1%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 16时22分]"
+        },
+        {
           "title": "科大讯飞Q3净利润1.7亿元，同比增长202.40%，大模型订单领跑行业| 财报见闻",
           "url": "https://wallstreetcn.com/articles/3757501",
           "source": "华尔街见闻",
@@ -269,17 +291,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时05分 ~ 14时24分]"
-        },
-        {
-          "title": "中国经济“三季报”成绩与信号",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E2%80%9C%E4%B8%89%E5%AD%A3%E6%8A%A5%E2%80%9D%E6%88%90%E7%BB%A9%E4%B8%8E%E4%BF%A1%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
         },
         {
           "title": "齐昂银行财报好于预期 地区银行信贷担忧再缓解",
@@ -307,7 +318,7 @@
     },
     {
       "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收涨2.4%。 热门中概股里，房多多初步收涨约10%，蔚来、阿里巴巴、文远知行、网易至多涨超4%，拼多多、百胜中国、腾讯、新东方、京东、百度、小米等至多涨超2%。",
@@ -344,6 +355,17 @@
           "time_info": "[12时17分 ~ 12时18分]"
         },
         {
+          "title": "咖啡机界的劳京东1元拍卖",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%92%96%E5%95%A1%E6%9C%BA%E7%95%8C%E7%9A%84%E5%8A%B3%E4%BA%AC%E4%B8%9C1%E5%85%83%E6%8B%8D%E5%8D%96%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26flag%3D1%26realpos%3D20%26stream_entry_id%3D31%26pos%3D21%26lcate%3D5001%26band_rank%3D20%26q%3D%2523%25E5%2592%2596%25E5%2595%25A1%25E6%259C%25BA%25E7%2595%258C%25E7%259A%2584%25E5%258A%25B3%25E4%25BA%25AC%25E4%25B8%259C1%25E5%2585%2583%25E6%258B%258D%25E5%258D%2596%2523%26display_time%3D1761034847%26pre_seqid%3D17610348476040147410934",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "恒生科技指数日内涨幅扩大至2%。阿里巴巴涨超3%，快手、商汤、联想集团涨超2%。",
           "url": "https://wallstreetcn.com/livenews/2990932",
           "source": "华尔街见闻-快讯",
@@ -353,6 +375,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "乘联分会秘书长崔东树：电池企业的竞争格局形成宁德时代和比亚迪两者相对较强的特征",
+          "url": "https://wallstreetcn.com/livenews/2991059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
+          "title": "港股收盘，恒生指数收涨0.65%，恒生科技指数收涨1.26%。蓝思科技涨近5%，比亚迪电子涨超3%；哔哩哔哩涨超8%，中芯国际涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/2991125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "比亚迪8艘巨轮组成汽车“出海舰队”",
+          "url": "https://wallstreetcn.com/livenews/2991028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         }
       ]
     },
@@ -379,7 +440,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -394,34 +455,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时30分 ~ 06时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "乘联分会秘书长崔东树：电池企业的竞争格局形成宁德时代和比亚迪两者相对较强的特征",
-          "url": "https://wallstreetcn.com/livenews/2991059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
-          "title": "比亚迪8艘巨轮组成汽车“出海舰队”",
-          "url": "https://wallstreetcn.com/livenews/2991028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
         }
       ]
     },
@@ -470,7 +503,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         }
