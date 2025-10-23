@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T14:24:07.284258+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2025-10-23T16:21:00.879339+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "“爆炸式”上涨！美股散户大军再次“逼空”Beyond Meat，4天爆拉1300%！",
@@ -15,11 +15,23 @@
             10,
             8,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 14时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 16时21分]"
+        },
+        {
+          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 16时21分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -31,17 +43,6 @@
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时07分 ~ 14时24分]"
-        },
-        {
-          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
-          "url": "https://wallstreetcn.com/articles/3757644",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
           "time_info": "[09时07分 ~ 14时24分]"
         },
         {
@@ -123,6 +124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "诺基亚美股盘前上涨9.7%。诺基亚第三季度调整后营业利润4.35亿欧元，预估3.242亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/2992438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "周三（10月22日）纽约尾盘，标普500股指期货最终跌0.51%，道指期货跌0.84%，纳斯达克100股指期货跌0.97%。 罗素2000股指期货跌1.40%。",
@@ -216,8 +228,19 @@
     },
     {
       "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "配送员电动车挂满货物疑似超载？山姆、京东、美团回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31823866",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 16时21分]"
+        },
         {
           "title": "超7800万！京东“国民好车”001号拍出天价",
           "url": "https://www.cls.cn/detail/2177412",
@@ -247,17 +270,6 @@
           "time_info": "[00时19分 ~ 11时00分]"
         },
         {
-          "title": "配送员电动车挂满货物疑似超载？山姆、京东、美团回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31823866",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 14时24分]"
-        },
-        {
           "title": "京东001号车1元起拍7819万成交",
           "url": "https://www.toutiao.com/trending/7563992349597224475/",
           "source": "今日头条",
@@ -279,6 +291,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时23分 ~ 14时24分]"
+        },
+        {
+          "title": "超轻无人机京东首发",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%B6%85%E8%BD%BB%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BA%AC%E4%B8%9C%E9%A6%96%E5%8F%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26pos%3D19%26band_rank%3D18%26flag%3D1%26dgr%3D0%26q%3D%2523%25E8%25B6%2585%25E8%25BD%25BB%25E6%2597%25A0%25E4%25BA%25BA%25E6%259C%25BA%25E4%25BA%25AC%25E4%25B8%259C%25E9%25A6%2596%25E5%258F%2591%2523%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26realpos%3D18%26display_time%3D1761207548%26pre_seqid%3D176120754829803673496136",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
         },
         {
           "title": "京东拍卖送英雄联盟门票KPL门票",
@@ -303,6 +326,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "美股盘前，特斯拉延续跌势，现跌超3%，马斯克下调机器人和Robotaxi目标。量子计算概念股普涨，Quantum Computing上涨13%。Moderna下跌超4%，此前公司因试验受挫而暂停开发预防出生缺陷的疫苗。美股中概股盘前多数上涨，理想汽车、百度涨2%，京东、蔚来、阿里巴巴涨1%，拼多多涨0.7%，小鹏汽车跌0.2%，携程跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/2992436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "京东K90",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9CK90%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26realpos%3D20%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D20%26stream_entry_id%3D31%26cate%3D5001%26flag%3D1%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259CK90%2523%26pos%3D21%26display_time%3D1761193027%26pre_seqid%3D17611930279100368568862",
           "source": "微博",
@@ -320,9 +354,87 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米集团 泡泡玛特 POP MART",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "港股收盘，恒生指数收涨0.72%，恒生科技指数收涨0.48%。泡泡玛特收跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/2992448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "泡泡玛特日内跌幅扩大至10%，创4月份来最大单日跌幅。",
+          "url": "https://wallstreetcn.com/livenews/2992235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "泡泡玛特盘中跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/2992232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "A股收评：三大指数全线收红",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%85%A8%E7%BA%BF%E6%94%B6%E7%BA%A2",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
+        },
+        {
+          "title": "A股三大指数全线收红",
+          "url": "https://www.toutiao.com/trending/7563960812440682538/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
+        },
+        {
+          "title": "上证指数早盘收报3888.08点，跌0.66%。 深证成指早盘收报12883.89点，跌0.87%。 创业板指早盘收报3025.58点，跌1.10%。 沪深300早盘收报4565.79点，跌0.58%。 科创50早盘收报1382.49点，跌1.63%。 中证500早盘收报7057.93点，跌0.99%。 中证1000早盘收报7218.45点，跌1.28%。",
+          "url": "https://wallstreetcn.com/livenews/2992294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         }
       ]
     },
@@ -381,18 +493,6 @@
           "time_info": "[00时19分 ~ 11时00分]"
         },
         {
-          "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3757681",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时00分 ~ 14时24分]"
-        },
-        {
           "title": "特斯拉Q3财报会实录：宏大“画饼”盖不住财报拉胯 机器人和Robotaxi目标下调令人担忧",
           "url": "https://www.cls.cn/detail/2177813",
           "source": "财联社热门",
@@ -401,36 +501,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 14时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米集团 泡泡玛特 POP MART",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "泡泡玛特日内跌幅扩大至10%，创4月份来最大单日跌幅。",
-          "url": "https://wallstreetcn.com/livenews/2992235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 16时21分]"
         },
         {
-          "title": "泡泡玛特盘中跌超9%。",
-          "url": "https://wallstreetcn.com/livenews/2992232",
-          "source": "华尔街见闻-快讯",
+          "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3757681",
+          "source": "华尔街见闻",
           "ranks": [
-            29
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
+          "appearance_count": 4,
+          "time_info": "[11时00分 ~ 16时21分]"
         }
       ]
     },
@@ -493,8 +577,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美债安全神话褪色投资者该如何布局",
+          "url": "https://www.toutiao.com/trending/7564297895256526382/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
+        },
         {
           "title": "短中期美债收益率跌超1个基点",
           "url": "https://wallstreetcn.com/livenews/2992056",
@@ -505,23 +600,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上证指数早盘收报3888.08点，跌0.66%。 深证成指早盘收报12883.89点，跌0.87%。 创业板指早盘收报3025.58点，跌1.10%。 沪深300早盘收报4565.79点，跌0.58%。 科创50早盘收报1382.49点，跌1.63%。 中证500早盘收报7057.93点，跌0.99%。 中证1000早盘收报7218.45点，跌1.28%。",
-          "url": "https://wallstreetcn.com/livenews/2992294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时19分"
         }
       ]
     }
