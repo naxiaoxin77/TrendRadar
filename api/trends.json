@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T18:17:12.501712+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2025-10-23T20:32:09.272276+08:00",
+  "total_titles_processed": 1562,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时07分 ~ 18时17分]"
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 20时32分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -235,11 +235,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31823866",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时07分 ~ 18时17分]"
+          "appearance_count": 11,
+          "time_info": "[09时07分 ~ 20时32分]"
         },
         {
           "title": "超7800万！京东“国民好车”001号拍出天价",
@@ -286,11 +287,12 @@
           "url": "https://www.cls.cn/detail/2178051",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 18时17分]"
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 20时32分]"
         },
         {
           "title": "京东上新直播",
@@ -430,11 +432,12 @@
           "url": "https://www.zhihu.com/question/1964629313476358315",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 18时17分]"
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 20时32分]"
         },
         {
           "title": "美媒：Meta将削减人工智能部门约600个职位",
@@ -563,8 +566,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时00分 ~ 18时17分]"
+          "appearance_count": 6,
+          "time_info": "[11时00分 ~ 20时32分]"
         },
         {
           "title": "特斯拉Q3财报会实录：宏大“画饼”盖不住财报拉胯 机器人和Robotaxi目标下调令人担忧",
