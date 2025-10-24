@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T09:01:48.906746+08:00",
-  "total_titles_processed": 682,
+  "generated_at": "2025-10-24T10:59:10.447563+08:00",
+  "total_titles_processed": 822,
   "failed_sources": [],
   "trends": [
     {
@@ -33,26 +33,28 @@
           "time_info": "[00时19分 ~ 06时14分]"
         },
         {
-          "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
-          "url": "https://wallstreetcn.com/articles/3757722",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
           "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
           "url": "https://www.cls.cn/detail/2179010",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 10时59分]"
+        },
+        {
+          "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
+          "url": "https://wallstreetcn.com/articles/3757722",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 10时59分]"
         },
         {
           "title": "美股涨幅扩大，纳斯达克中国金龙指数涨超2%，纳指上涨1%，标普500指数上涨0.6%，道指涨0.3%。",
@@ -156,7 +158,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         }
@@ -228,11 +230,12 @@
           "url": "https://wallstreetcn.com/articles/3757703",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 10时59分]"
         }
       ]
     },
@@ -250,6 +253,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "交易员为今晚的美国CPI数据做准备，现货金银价格在亚盘小幅走低，黄金多头小心谨慎，白银多头大步迈进，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251024103858767800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         }
       ]
     },
