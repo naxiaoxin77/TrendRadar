@@ -58,6 +58,7 @@ A股
 +汇率
 
 招股书
+融资
 
 财报
 季报
@@ -65,3 +66,4 @@ A股
 
 vibe marketing
 content marketing
+startup
