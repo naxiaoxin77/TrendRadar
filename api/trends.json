@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T14:23:26.666095+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2025-10-24T16:20:24.413095+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
@@ -19,6 +19,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时01分 ~ 14时23分]"
+        },
+        {
+          "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
+          "url": "https://wallstreetcn.com/articles/3757722",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 16时20分]"
         },
         {
           "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
@@ -46,16 +58,26 @@
           "time_info": "[00时19分 ~ 06时14分]"
         },
         {
-          "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
-          "url": "https://wallstreetcn.com/articles/3757722",
-          "source": "华尔街见闻",
+          "title": "美股黄金概念股盘前下挫，纽蒙特矿业(NEM.N)跌6.8%，科尔黛伦矿业(CDE.N)跌4.5%，金罗斯黄金(KGC.N)、金田(GFI.N)、哈莫尼黄金(HMY.N)和巴里克黄金(GOLD.N)跌逾2%。",
+          "url": "https://flash.jin10.com/detail/20251024161101799800",
+          "source": "金十数据",
           "ranks": [
-            3,
             2
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 14时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "美股黄金股盘前下挫，科尔黛伦矿业跌超4%，金田、哈莫尼黄金跌逾2%。 现货黄金失守4060美元/盎司，日内跌超1.6%。",
+          "url": "https://wallstreetcn.com/livenews/2993213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "美股涨幅扩大，纳斯达克中国金龙指数涨超2%，纳指上涨1%，标普500指数上涨0.6%，道指涨0.3%。",
@@ -137,58 +159,8 @@
       ]
     },
     {
-      "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "理想汽车回应MEGA起火事故",
-          "url": "https://www.douyin.com/hot/2280942",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
-        },
-        {
-          "title": "比亚迪腾势总经理赵长江离职",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%85%BE%E5%8A%BF%E6%80%BB%E7%BB%8F%E7%90%86%E8%B5%B5%E9%95%BF%E6%B1%9F%E7%A6%BB%E8%81%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "腾势总经理赵长江：暂别比亚迪，寻找新的节奏",
-          "url": "https://wallstreetcn.com/livenews/2993079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "京东公布新车性能配置",
@@ -206,6 +178,18 @@
           "time_info": "[00时19分 ~ 09时01分]"
         },
         {
+          "title": "拼多多给员工发黄金",
+          "url": "https://www.toutiao.com/trending/7564374778371457065/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 16时20分]"
+        },
+        {
           "title": "张艺兴京东AI舞台",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BC%A0%E8%89%BA%E5%85%B4%E4%BA%AC%E4%B8%9CAI%E8%88%9E%E5%8F%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26realpos%3D27%26stream_entry_id%3D31%26lcate%3D5001%26dgr%3D0%26q%3D%2523%25E5%25BC%25A0%25E8%2589%25BA%25E5%2585%25B4%25E4%25BA%25AC%25E4%25B8%259CAI%25E8%2588%259E%25E5%258F%25B0%2523%26band_rank%3D27%26flag%3D1%26pos%3D27%26display_time%3D1761279488%26pre_seqid%3D1761279488062032729525",
           "source": "微博",
@@ -217,15 +201,118 @@
           "time_info": "[12时19分 ~ 12时20分]"
         },
         {
-          "title": "拼多多给员工发黄金",
-          "url": "https://www.toutiao.com/trending/7564374778371457065/",
-          "source": "今日头条",
+          "title": "港股收盘：恒生指数收涨0.74%，重回26000点上方，恒生科技指数收涨1.82%。半导体、科技股多数走高，华虹半导体涨超13%，中芯国际涨超8%，地平线机器人涨超6%，阿里巴巴涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/2993207",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "16时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 16时20分]"
+        },
+        {
+          "title": "比亚迪腾势总经理赵长江离职",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%85%BE%E5%8A%BF%E6%80%BB%E7%BB%8F%E7%90%86%E8%B5%B5%E9%95%BF%E6%B1%9F%E7%A6%BB%E8%81%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 16时20分]"
+        },
+        {
+          "title": "理想汽车回应MEGA起火事故",
+          "url": "https://www.douyin.com/hot/2280942",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 12时20分]"
+        },
+        {
+          "title": "腾势总经理赵长江：暂别比亚迪，寻找新的节奏",
+          "url": "https://wallstreetcn.com/livenews/2993079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "14时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "招股书 融资",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "Rigetti Computing Inc.称与美国（特朗普政府）洽谈量子融资。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/2992695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 02时24分]"
+        },
+        {
+          "title": "两市融资余额减少15.90亿元",
+          "url": "https://wallstreetcn.com/livenews/2992857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本财相暗示可能增发债券为经济刺激计划融资",
+          "url": "https://flash.jin10.com/detail/20251024113225120800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "比利时支持的结论草案显示，欧洲理事会邀请欧盟委员会尽快提出基于对乌克兰融资需求评估的财务支持选项。",
+          "url": "https://flash.jin10.com/detail/20251024024900215800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         }
       ]
     },
@@ -278,11 +365,12 @@
           "url": "https://www.baidu.com/s?wd=49%E5%85%83%E4%B9%B0%E6%9D%8E%E5%AE%81%E5%A4%96%E5%A5%97%E6%94%B6%E5%88%B0linimg",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 16时20分]"
         },
         {
           "title": "49元买李宁外套收到linimg",
@@ -326,11 +414,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 14时23分]"
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 16时20分]"
         }
       ]
     },
