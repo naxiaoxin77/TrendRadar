@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T18:17:23.320842+08:00",
-  "total_titles_processed": 1388,
+  "generated_at": "2025-10-24T20:31:17.137845+08:00",
+  "total_titles_processed": 1538,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时01分 ~ 18时17分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 20时31分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
@@ -159,87 +159,21 @@
       ]
     },
     {
-      "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 6,
+      "keyword_group": "招股书 融资",
+      "match_count": 7,
       "titles": [
         {
-          "title": "京东公布新车性能配置",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%AC%E4%B8%9C%E5%85%AC%E5%B8%83%E6%96%B0%E8%BD%A6%E6%80%A7%E8%83%BD%E9%85%8D%E7%BD%AE",
-          "source": "百度热搜",
+          "title": "“寒王”股价再超茅台！融资余额近历史峰值，科创板“吸金”模式重启",
+          "url": "https://www.cls.cn/detail/2179889",
+          "source": "财联社热门",
           "ranks": [
-            24,
-            8,
-            7,
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 09时01分]"
-        },
-        {
-          "title": "拼多多给员工发黄金",
-          "url": "https://www.toutiao.com/trending/7564374778371457065/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            10,
-            17
+            11,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时23分 ~ 18时17分]"
+          "time_info": "[18时17分 ~ 20时31分]"
         },
-        {
-          "title": "张艺兴京东AI舞台",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BC%A0%E8%89%BA%E5%85%B4%E4%BA%AC%E4%B8%9CAI%E8%88%9E%E5%8F%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26realpos%3D27%26stream_entry_id%3D31%26lcate%3D5001%26dgr%3D0%26q%3D%2523%25E5%25BC%25A0%25E8%2589%25BA%25E5%2585%25B4%25E4%25BA%25AC%25E4%25B8%259CAI%25E8%2588%259E%25E5%258F%25B0%2523%26band_rank%3D27%26flag%3D1%26pos%3D27%26display_time%3D1761279488%26pre_seqid%3D1761279488062032729525",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
-        },
-        {
-          "title": "港股收盘：恒生指数收涨0.74%，重回26000点上方，恒生科技指数收涨1.82%。半导体、科技股多数走高，华虹半导体涨超13%，中芯国际涨超8%，地平线机器人涨超6%，阿里巴巴涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/2993207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
-          "title": "京东独家首发万元机器人",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9C%E7%8B%AC%E5%AE%B6%E9%A6%96%E5%8F%91%E4%B8%87%E5%85%83%E6%9C%BA%E5%99%A8%E4%BA%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D30%26c_type%3D31%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259C%25E7%258B%25AC%25E5%25AE%25B6%25E9%25A6%2596%25E5%258F%2591%25E4%25B8%2587%25E5%2585%2583%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D30%26pos%3D31%26display_time%3D1761300314%26pre_seqid%3D1761300313963033095295",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "京东双11被吐槽二选一玩出新高度",
-          "url": "https://www.douyin.com/hot/2280386",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "招股书 融资",
-      "match_count": 6,
-      "titles": [
         {
           "title": "Rigetti Computing Inc.称与美国（特朗普政府）洽谈量子融资。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/2992695",
@@ -281,20 +215,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
         {
-          "title": "“寒王”股价再超茅台！融资余额近历史峰值，科创板“吸金”模式重启",
-          "url": "https://www.cls.cn/detail/2179889",
-          "source": "财联社热门",
+          "title": "全国支持小微企业融资协调工作机制工作交流会在陕西省西安市召开",
+          "url": "https://wallstreetcn.com/livenews/2993424",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时17分"
+          "time_info": "20时31分"
         },
         {
           "title": "比利时支持的结论草案显示，欧洲理事会邀请欧盟委员会尽快提出基于对乌克兰融资需求评估的财务支持选项。",
@@ -310,22 +244,88 @@
       ]
     },
     {
-      "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
-      "match_count": 5,
+      "keyword_group": "阿里巴巴 京东 拼多多 冬海",
+      "match_count": 6,
       "titles": [
         {
-          "title": "比亚迪腾势总经理赵长江离职",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%85%BE%E5%8A%BF%E6%80%BB%E7%BB%8F%E7%90%86%E8%B5%B5%E9%95%BF%E6%B1%9F%E7%A6%BB%E8%81%8C",
-          "source": "bilibili 热搜",
+          "title": "京东公布新车性能配置",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%AC%E4%B8%9C%E5%85%AC%E5%B8%83%E6%96%B0%E8%BD%A6%E6%80%A7%E8%83%BD%E9%85%8D%E7%BD%AE",
+          "source": "百度热搜",
           "ranks": [
-            15,
-            13,
-            9
+            24,
+            8,
+            7,
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 09时01分]"
+        },
+        {
+          "title": "拼多多给员工发黄金",
+          "url": "https://www.toutiao.com/trending/7564374778371457065/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            10,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时23分 ~ 18时17分]"
         },
+        {
+          "title": "京东双11被吐槽二选一玩出新高度",
+          "url": "https://www.douyin.com/hot/2280386",
+          "source": "抖音",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 20时31分]"
+        },
+        {
+          "title": "张艺兴京东AI舞台",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BC%A0%E8%89%BA%E5%85%B4%E4%BA%AC%E4%B8%9CAI%E8%88%9E%E5%8F%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26realpos%3D27%26stream_entry_id%3D31%26lcate%3D5001%26dgr%3D0%26q%3D%2523%25E5%25BC%25A0%25E8%2589%25BA%25E5%2585%25B4%25E4%25BA%25AC%25E4%25B8%259CAI%25E8%2588%259E%25E5%258F%25B0%2523%26band_rank%3D27%26flag%3D1%26pos%3D27%26display_time%3D1761279488%26pre_seqid%3D1761279488062032729525",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 12时20分]"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨0.74%，重回26000点上方，恒生科技指数收涨1.82%。半导体、科技股多数走高，华虹半导体涨超13%，中芯国际涨超8%，地平线机器人涨超6%，阿里巴巴涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/2993207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "京东独家首发万元机器人",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9C%E7%8B%AC%E5%AE%B6%E9%A6%96%E5%8F%91%E4%B8%87%E5%85%83%E6%9C%BA%E5%99%A8%E4%BA%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D30%26c_type%3D31%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259C%25E7%258B%25AC%25E5%25AE%25B6%25E9%25A6%2596%25E5%258F%2591%25E4%25B8%2587%25E5%2585%2583%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D30%26pos%3D31%26display_time%3D1761300314%26pre_seqid%3D1761300313963033095295",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
+      "match_count": 5,
+      "titles": [
         {
           "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
@@ -333,11 +333,38 @@
           "ranks": [
             16,
             13,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时23分 ~ 20时31分]"
+        },
+        {
+          "title": "比亚迪腾势总经理赵长江离职",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%85%BE%E5%8A%BF%E6%80%BB%E7%BB%8F%E7%90%86%E8%B5%B5%E9%95%BF%E6%B1%9F%E7%A6%BB%E8%81%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            13,
+            9,
             10
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时23分 ~ 20时31分]"
+        },
+        {
+          "title": "比亚迪腾势方程豹直营事业部总经理赵长江离职，如何看待他的选择？可能会对比亚迪带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1964991158896792248",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时23分 ~ 18时17分]"
+          "time_info": "[18时17分 ~ 20时31分]"
         },
         {
           "title": "理想汽车回应MEGA起火事故",
@@ -349,17 +376,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时19分 ~ 12时20分]"
-        },
-        {
-          "title": "比亚迪腾势方程豹直营事业部总经理赵长江离职，如何看待他的选择？可能会对比亚迪带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1964991158896792248",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
         },
         {
           "title": "腾势总经理赵长江：暂别比亚迪，寻找新的节奏",
@@ -390,6 +406,18 @@
           "time_info": "[00时19分 ~ 06时14分]"
         },
         {
+          "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
+          "url": "https://wallstreetcn.com/articles/3757782",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 20时31分]"
+        },
+        {
           "title": "加拿大证券委员会（CSA）建议，允许某些小型发行人披露半年报。",
           "url": "https://wallstreetcn.com/livenews/2992686",
           "source": "华尔街见闻-快讯",
@@ -400,17 +428,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 02时24分]"
-        },
-        {
-          "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
-          "url": "https://wallstreetcn.com/articles/3757782",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
         },
         {
           "title": "前三季度净利同比增长超192倍 150亿光刻胶概念股三季报出炉|盘后公告集锦",
@@ -436,7 +453,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -447,7 +464,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -474,11 +491,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时23分 ~ 18时17分]"
+          "appearance_count": 5,
+          "time_info": "[14时23分 ~ 20时31分]"
         },
         {
           "title": "49元买李宁外套收到linimg",
