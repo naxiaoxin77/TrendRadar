@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-10-26T11:07:17.318252+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2025-10-26T12:18:58.025783+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
       "match_count": 4,
       "titles": [
+        {
+          "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2180462",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            10,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 12时18分]"
+        },
         {
           "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1965195615022587967",
@@ -33,20 +48,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时18分 ~ 06时14分]"
-        },
-        {
-          "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2180462",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 11时07分]"
         },
         {
           "title": "美股为何一直在上涨",
