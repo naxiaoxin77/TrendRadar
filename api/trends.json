@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T14:26:41.630043+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2025-10-27T16:24:23.796640+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "阿里巴巴前董事会主席张勇，5354万港元买下香港半山豪宅",
@@ -16,8 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 14时26分]"
+          "appearance_count": 5,
+          "time_info": "[09时12分 ~ 16时24分]"
         },
         {
           "title": "部分中概股在美股夜盘走高，阿里巴巴(BABA.N)和百度(BIDU.O)均涨3%，理想汽车(LI.O)、小鹏汽车(XPEV.N)和哔哩哔哩(BILI.O)涨超2%，",
@@ -37,15 +37,26 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
+        },
+        {
+          "title": "京东1元拍卖Kelly娃娃包",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9C1%E5%85%83%E6%8B%8D%E5%8D%96Kelly%E5%A8%83%E5%A8%83%E5%8C%85%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259C1%25E5%2585%2583%25E6%258B%258D%25E5%258D%2596Kelly%25E5%25A8%2583%25E5%25A8%2583%25E5%258C%2585%2523%26stream_entry_id%3D31%26lcate%3D5001%26realpos%3D20%26pos%3D21%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26band_rank%3D20%26dgr%3D0%26display_time%3D1761553426%26pre_seqid%3D17615534262670284980857",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         }
       ]
     },
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
@@ -53,11 +64,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 14时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时16分 ~ 16时24分]"
         },
         {
           "title": "美股三大股指期货高开，纳指期货涨0.8%。",
@@ -80,12 +92,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "美股盘前，科技股、中概股普涨",
+          "url": "https://wallstreetcn.com/livenews/2994104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         }
       ]
     },
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "上证指数早盘收报3991.35点，涨1.04%。 深证成指早盘收报13457.28点，涨1.26%。 创业板指早盘收报3220.52点，涨1.54%。 沪深300早盘收报4709.92点，涨1.06%。 科创50早盘收报1473.87点，涨0.80%。 中证500早盘收报7360.02点，涨1.40%。 中证1000早盘收报7486.07点，涨0.90%。",
@@ -108,6 +131,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "上证指数收报3996.94点，涨1.18%。 深证成指收报13489.40点，涨1.51%。 创业板指收报3234.45点，涨1.98%。 沪深300收报4716.02点，涨1.19%。 科创50收报1484.21点，涨1.50%。 中证500收报7379.39点，涨1.67%。 中证1000收报7495.38点，涨1.03%。",
+          "url": "https://wallstreetcn.com/livenews/2994071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "TikTok Shopee",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美方称中美将就TikTok达成最终协议，外交部回应",
+          "url": "https://news.ifeng.com/c/8nnJWZJAi7g",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "美方称中美将就TikTok达成最终协议，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/2994097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
+          "url": "https://flash.jin10.com/detail/20251027160831083800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "10年期美债收益率上涨4个基点，至4.037%；30年期美债收益率上升3.9个基点，至4.625%。",
+          "url": "https://flash.jin10.com/detail/20251027131215020800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         }
       ]
     },
@@ -125,23 +215,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "10年期美债收益率上涨4个基点，至4.037%；30年期美债收益率上升3.9个基点，至4.625%。",
-          "url": "https://flash.jin10.com/detail/20251027131215020800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
         }
       ]
     },
