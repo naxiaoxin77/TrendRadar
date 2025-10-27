@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T20:32:59.329003+08:00",
-  "total_titles_processed": 1407,
+  "generated_at": "2025-10-27T22:16:14.703407+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 6,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时16分 ~ 16时24分]"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251027214435879800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "美股三大股指期货高开，纳指期货涨0.8%。",
@@ -43,6 +54,28 @@
           "time_info": "06时15分"
         },
         {
+          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览",
+          "url": "https://flash.jin10.com/detail/20251027213949454800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "美股盘初：三大指数续创历史新高，科技股、中概股普涨，稀土股下跌",
+          "url": "https://wallstreetcn.com/livenews/2994397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
           "url": "https://www.cls.cn/detail/2182013",
           "source": "财联社热门",
@@ -55,6 +88,17 @@
           "time_info": "[18时20分 ~ 20时32分]"
         },
         {
+          "title": "美股三大股指高开 百度涨超5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%855%25",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 22时16分]"
+        },
+        {
           "title": "美股盘前，科技股、中概股普涨",
           "url": "https://wallstreetcn.com/livenews/2994104",
           "source": "华尔街见闻-快讯",
@@ -64,6 +108,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "标普500指数高开53.77点，涨幅0.79%，报6845.46点； 道琼斯工业平均指数高开205.68点，涨幅0.44%，报47412.80点； 纳斯达克综合指数高开332.45点，涨幅1.43%，报23537.32点。",
+          "url": "https://wallstreetcn.com/livenews/2994396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "美股三大股指高开",
+          "url": "https://flash.jin10.com/detail/20251027213047126800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2994370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-10-27）",
+          "url": "https://flash.jin10.com/detail/20251027210443791800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "中国证监会主席吴清27日在2025金融街论坛年会上表示，在风险再定价、资产再平衡过程中，稳健性和均衡性日益成为资产配置的优先选项，“把鸡蛋放在不同篮子里”也越来越成为国际投资者的共识。在此过程中，A股、港股等中国资产价值被持续重估，配置价值更加显现。（新华财经）",
@@ -134,7 +222,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         }
@@ -184,7 +272,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -202,6 +290,56 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股期指集体拉升，日股首破5万点，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 20时32分]"
+        },
+        {
+          "title": "美股盘初三大指数续创历史新高，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
+          "url": "https://flash.jin10.com/detail/20251027160831083800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "10年期美债收益率上涨4个基点，至4.037%；30年期美债收益率上升3.9个基点，至4.625%。",
+          "url": "https://flash.jin10.com/detail/20251027131215020800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "TikTok Shopee",
       "match_count": 3,
       "titles": [
@@ -210,11 +348,12 @@
           "url": "https://news.ifeng.com/c/8nnJWZJAi7g",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 20时32分]"
+          "appearance_count": 5,
+          "time_info": "[16时24分 ~ 22时16分]"
         },
         {
           "title": "美方称中美将就TikTok达成最终协议，外交部回应",
@@ -238,45 +377,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股期指集体拉升，日股首破5万点，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 20时32分]"
-        },
-        {
-          "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
-          "url": "https://flash.jin10.com/detail/20251027160831083800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "10年期美债收益率上涨4个基点，至4.037%；30年期美债收益率上升3.9个基点，至4.625%。",
-          "url": "https://flash.jin10.com/detail/20251027131215020800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
         }
       ]
     },
@@ -320,6 +420,45 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "乌克兰央行将周二官方格里夫纳汇率设定为42.07比1美元，为纪录新低。",
+          "url": "https://flash.jin10.com/detail/20251027213634218800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "交易员：阿根廷比索延续涨势，早盘兑美元汇率上涨10%。",
+          "url": "https://flash.jin10.com/detail/20251027210618067800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "交易员：阿根廷总统米莱及其盟友在周末选举中获胜后，阿根廷比索兑美元汇率升值6.57%，至1美元兑1,400比索。",
+          "url": "https://flash.jin10.com/detail/20251027210253800800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 2,
       "titles": [
@@ -341,7 +480,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         }
@@ -349,7 +488,7 @@
     },
     {
       "keyword_group": "财报 季报 年报",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "固态电池“三巨头”三季报出炉",
@@ -362,6 +501,51 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时21分 ~ 06时15分]"
+        },
+        {
+          "title": "财报季开局良好 营收超预期的标普500成分股数量或创四年最高",
+          "url": "https://wallstreetcn.com/livenews/2994386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "海底捞 颐海国际 霸王茶姬 瑞幸咖啡 蜜雪冰城",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "明日方舟海底捞联动现状",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%81%94%E5%8A%A8%E7%8E%B0%E7%8A%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 22时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Meta Google",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国稀土矿商股价下跌，MP Materials(MP.N)下跌7.2%，USA Rare Earth(USAR.O)下跌12.6%，Critical Metals(CRPL.O)下跌18.1%。",
+          "url": "https://flash.jin10.com/detail/20251027213541340800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         }
       ]
     }
