@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T02:22:36.664573+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2025-10-28T04:14:56.802619+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -55,7 +55,7 @@
     },
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股盘中）",
@@ -82,6 +82,17 @@
           "time_info": "[00时53分 ~ 02时22分]"
         },
         {
+          "title": "标普500指数初步收涨1.2%，电信板块涨约2.4%，科技板块涨2%，可选消费板块涨1.6%，能源板块涨0.3%。 纳斯达克100指数初步收涨1.8%，成分股中，高通初步收涨约11%，KDP涨7.7%，拉美电商MercadoLibre涨5.5%，迈威尔科技、Arm控股、特斯拉、安森美半导体、Applovin、拉姆研究、谷歌A至少涨约3.5%，Diamondback Energy则收跌1.1%，贝克休斯跌1.2%，Workday和ORLY跌1.6%，Roper Technologies跌3.5%。 英伟达收涨大约2.7%，苹果涨2.3%，微软和IBM涨约1.5%，领跑道指成分股，耐克与沃尔玛则至少跌约0.9%。",
+          "url": "https://wallstreetcn.com/livenews/2994515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
           "title": "美股延续涨势，标普500指数上涨1%，纳指涨1.62%，道指涨0.56%。",
           "url": "https://flash.jin10.com/detail/20251028000829704800",
           "source": "金十数据",
@@ -96,7 +107,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
@@ -106,8 +117,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 04时14分]"
         },
         {
           "title": "卖美债买黄金“中长期并非明智之举”！大摩利率团队：美债终会“闪耀”的",
@@ -117,8 +128,36 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 04时14分]"
+        },
+        {
+          "title": "30年期美债收益率跌约3个基点",
+          "url": "https://wallstreetcn.com/livenews/2994513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴 京东 拼多多 冬海",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收涨大约1.6%。 热门中概股里，小马智行涨6.5%，小鹏涨6.4%，百度涨4.8%，京东涨3%，腾讯、拼多多、阿里巴巴、蔚来汽车涨超2%，百胜中国则跌0.6%，理想跌1.8%。 ETF中，YINN初步收涨3.6%，CQQQ涨2.4%，KWEB涨1.9%。",
+          "url": "https://wallstreetcn.com/livenews/2994517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         }
       ]
     },
@@ -132,11 +171,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             22,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 04时14分]"
         }
       ]
     },
@@ -152,8 +192,25 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 04时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "招股书 融资",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI初创公司Mercor按100亿美元估值融资3.5亿美元",
+          "url": "https://wallstreetcn.com/livenews/2994508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         }
       ]
     }
