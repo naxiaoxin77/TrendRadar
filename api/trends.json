@@ -1,517 +1,100 @@
 {
-  "generated_at": "2025-10-27T22:16:14.703407+08:00",
-  "total_titles_processed": 1542,
+  "generated_at": "2025-10-28T00:53:33.940723+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 14,
+      "match_count": 3,
       "titles": [
         {
-          "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 16时24分]"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20251027214435879800",
+          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251028003902797800",
           "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "美股三大股指期货高开，纳指期货涨0.8%。",
-          "url": "https://flash.jin10.com/detail/20251027060229559800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "现货黄金跳空低开逾1%，美股期货集体上扬",
-          "url": "https://wallstreetcn.com/livenews/2993801",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时15分"
+          "time_info": "00时53分"
         },
         {
-          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览",
-          "url": "https://flash.jin10.com/detail/20251027213949454800",
+          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251028003030671800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "美股盘初：三大指数续创历史新高，科技股、中概股普涨，稀土股下跌",
-          "url": "https://wallstreetcn.com/livenews/2994397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
-          "url": "https://www.cls.cn/detail/2182013",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 20时32分]"
-        },
-        {
-          "title": "美股三大股指高开 百度涨超5%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%855%25",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 22时16分]"
-        },
-        {
-          "title": "美股盘前，科技股、中概股普涨",
-          "url": "https://wallstreetcn.com/livenews/2994104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时24分"
+          "time_info": "00时53分"
         },
         {
-          "title": "标普500指数高开53.77点，涨幅0.79%，报6845.46点； 道琼斯工业平均指数高开205.68点，涨幅0.44%，报47412.80点； 纳斯达克综合指数高开332.45点，涨幅1.43%，报23537.32点。",
-          "url": "https://wallstreetcn.com/livenews/2994396",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "美股三大股指高开",
-          "url": "https://flash.jin10.com/detail/20251027213047126800",
+          "title": "美股延续涨势，标普500指数上涨1%，纳指涨1.62%，道指涨0.56%。",
+          "url": "https://flash.jin10.com/detail/20251028000829704800",
           "source": "金十数据",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2994370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-10-27）",
-          "url": "https://flash.jin10.com/detail/20251027210443791800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "中国证监会主席吴清27日在2025金融街论坛年会上表示，在风险再定价、资产再平衡过程中，稳健性和均衡性日益成为资产配置的优先选项，“把鸡蛋放在不同篮子里”也越来越成为国际投资者的共识。在此过程中，A股、港股等中国资产价值被持续重估，配置价值更加显现。（新华财经）",
-          "url": "https://wallstreetcn.com/livenews/2994198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "00时53分"
         }
       ]
     },
     {
-      "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 5,
+      "keyword_group": "Meta Google",
+      "match_count": 2,
       "titles": [
         {
-          "title": "阿里巴巴前董事会主席张勇，5354万港元买下香港半山豪宅",
-          "url": "https://tech.ifeng.com/c/8nmeSFQlg6Y",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时12分 ~ 18时20分]"
-        },
-        {
-          "title": "部分中概股在美股夜盘走高，阿里巴巴(BABA.N)和百度(BIDU.O)均涨3%，理想汽车(LI.O)、小鹏汽车(XPEV.N)和哔哩哔哩(BILI.O)涨超2%，",
-          "url": "https://flash.jin10.com/detail/20251027082830826800",
+          "title": "Meta旗下Threads推出限时贴文功能 支持分享“随心想法”",
+          "url": "https://flash.jin10.com/detail/20251028001533118800",
           "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "京东获批香港保险经纪牌照 正式进军香港金融市场",
-          "url": "https://wallstreetcn.com/livenews/2994023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "京东1元拍卖Kelly娃娃包",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9C1%E5%85%83%E6%8B%8D%E5%8D%96Kelly%E5%A8%83%E5%A8%83%E5%8C%85%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259C1%25E5%2585%2583%25E6%258B%258D%25E5%258D%2596Kelly%25E5%25A8%2583%25E5%25A8%2583%25E5%258C%2585%2523%26stream_entry_id%3D31%26lcate%3D5001%26realpos%3D20%26pos%3D21%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26band_rank%3D20%26dgr%3D0%26display_time%3D1761553426%26pre_seqid%3D17615534262670284980857",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "长安汽车：与京东联合开发新能源无人智能车型",
-          "url": "https://wallstreetcn.com/livenews/2994306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "招股书 融资",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "两市融资余额增加59.19亿元",
-          "url": "https://wallstreetcn.com/livenews/2993872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "证监会主席吴清：进一步深化投融资综合改革",
-          "url": "https://wallstreetcn.com/livenews/2994235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "邮储银行：获准筹建金融资产投资公司 注册资本为人民币100亿元",
-          "url": "https://wallstreetcn.com/livenews/2994230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "证监会：全面优化融资融券监管制度 进一步加强程序化交易监管",
-          "url": "https://wallstreetcn.com/livenews/2994327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "证监会主席吴清：择机推出再融资储架发行制度",
-          "url": "https://wallstreetcn.com/livenews/2994204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股期指集体拉升，日股首破5万点，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 20时32分]"
-        },
-        {
-          "title": "美股盘初三大指数续创历史新高，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
-          "url": "https://flash.jin10.com/detail/20251027160831083800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "10年期美债收益率上涨4个基点，至4.037%；30年期美债收益率上升3.9个基点，至4.625%。",
-          "url": "https://flash.jin10.com/detail/20251027131215020800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "TikTok Shopee",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美方称中美将就TikTok达成最终协议，外交部回应",
-          "url": "https://news.ifeng.com/c/8nnJWZJAi7g",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时24分 ~ 22时16分]"
-        },
-        {
-          "title": "美方称中美将就TikTok达成最终协议，外交部回应",
-          "url": "https://www.cls.cn/detail/2181819",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 20时32分]"
-        },
-        {
-          "title": "美方称中美将就TikTok达成最终协议，外交部回应",
-          "url": "https://wallstreetcn.com/livenews/2994097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "上证指数早盘收报3991.35点，涨1.04%。 深证成指早盘收报13457.28点，涨1.26%。 创业板指早盘收报3220.52点，涨1.54%。 沪深300早盘收报4709.92点，涨1.06%。 科创50早盘收报1473.87点，涨0.80%。 中证500早盘收报7360.02点，涨1.40%。 中证1000早盘收报7486.07点，涨0.90%。",
-          "url": "https://wallstreetcn.com/livenews/2993974",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "00时53分"
         },
         {
-          "title": "A股三大指数全线高开",
-          "url": "https://wallstreetcn.com/livenews/2993890",
-          "source": "华尔街见闻-快讯",
+          "title": "Meta Platforms(META.O)：推出幽灵帖子（Ghost posts），即24小时后自动归档的Threads帖子。",
+          "url": "https://flash.jin10.com/detail/20251028000209983800",
+          "source": "金十数据",
           "ranks": [
-            29
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
-          "title": "上证指数收报3996.94点，涨1.18%。 深证成指收报13489.40点，涨1.51%。 创业板指收报3234.45点，涨1.98%。 沪深300收报4716.02点，涨1.19%。 科创50收报1484.21点，涨1.50%。 中证500收报7379.39点，涨1.67%。 中证1000收报7495.38点，涨1.03%。",
-          "url": "https://wallstreetcn.com/livenews/2994071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
+          "time_info": "00时53分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "乌克兰央行将周二官方格里夫纳汇率设定为42.07比1美元，为纪录新低。",
-          "url": "https://flash.jin10.com/detail/20251027213634218800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "交易员：阿根廷比索延续涨势，早盘兑美元汇率上涨10%。",
-          "url": "https://flash.jin10.com/detail/20251027210618067800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "交易员：阿根廷总统米莱及其盟友在周末选举中获胜后，阿根廷比索兑美元汇率升值6.57%，至1美元兑1,400比索。",
-          "url": "https://flash.jin10.com/detail/20251027210253800800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
+      "keyword_group": "美债",
       "match_count": 2,
       "titles": [
         {
-          "title": "黄金价格下跌是进场“捡便宜”时机吗",
-          "url": "https://www.toutiao.com/trending/7565700779416227391/",
-          "source": "今日头条",
+          "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
           "ranks": [
-            17
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时16分"
+          "time_info": "00时53分"
         },
         {
-          "title": "路透调查：明年黄金价格预测首次突破每盎司4000美元",
-          "url": "https://flash.jin10.com/detail/20251027191426396800",
-          "source": "金十数据",
+          "title": "卖美债买黄金“中长期并非明智之举”！大摩利率团队：美债终会“闪耀”的",
+          "url": "https://wallstreetcn.com/articles/3757941",
+          "source": "华尔街见闻",
           "ranks": [
-            30
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财报 季报 年报",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "固态电池“三巨头”三季报出炉",
-          "url": "https://www.toutiao.com/trending/7565407861153467910/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时21分 ~ 06时15分]"
-        },
-        {
-          "title": "财报季开局良好 营收超预期的标普500成分股数量或创四年最高",
-          "url": "https://wallstreetcn.com/livenews/2994386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
+          "time_info": "00时53分"
         }
       ]
     },
@@ -524,28 +107,28 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%81%94%E5%8A%A8%E7%8E%B0%E7%8A%B6",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 22时16分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
         }
       ]
     },
     {
-      "keyword_group": "Meta Google",
+      "keyword_group": "TikTok Shopee",
       "match_count": 1,
       "titles": [
         {
-          "title": "美国稀土矿商股价下跌，MP Materials(MP.N)下跌7.2%，USA Rare Earth(USAR.O)下跌12.6%，Critical Metals(CRPL.O)下跌18.1%。",
-          "url": "https://flash.jin10.com/detail/20251027213541340800",
-          "source": "金十数据",
+          "title": "美方称中美将就TikTok达成最终协议，外交部回应",
+          "url": "https://news.ifeng.com/c/8nnJWZJAi7g",
+          "source": "凤凰网",
           "ranks": [
-            8
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时16分"
+          "time_info": "00时53分"
         }
       ]
     }
