@@ -1,12 +1,64 @@
 {
-  "generated_at": "2025-10-27T12:31:30.226531+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2025-10-27T14:26:41.630043+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "阿里巴巴 京东 拼多多 冬海",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "阿里巴巴前董事会主席张勇，5354万港元买下香港半山豪宅",
+          "url": "https://tech.ifeng.com/c/8nmeSFQlg6Y",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 14时26分]"
+        },
+        {
+          "title": "部分中概股在美股夜盘走高，阿里巴巴(BABA.N)和百度(BIDU.O)均涨3%，理想汽车(LI.O)、小鹏汽车(XPEV.N)和哔哩哔哩(BILI.O)涨超2%，",
+          "url": "https://flash.jin10.com/detail/20251027082830826800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "京东获批香港保险经纪牌照 正式进军香港金融市场",
+          "url": "https://wallstreetcn.com/livenews/2994023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
       "match_count": 3,
       "titles": [
+        {
+          "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 14时26分]"
+        },
         {
           "title": "美股三大股指期货高开，纳指期货涨0.8%。",
           "url": "https://flash.jin10.com/detail/20251027060229559800",
@@ -28,46 +80,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
-        },
-        {
-          "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 12时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "阿里巴巴前董事会主席张勇，5354万港元买下香港半山豪宅",
-          "url": "https://tech.ifeng.com/c/8nmeSFQlg6Y",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 12时31分]"
-        },
-        {
-          "title": "部分中概股在美股夜盘走高，阿里巴巴(BABA.N)和百度(BIDU.O)均涨3%，理想汽车(LI.O)、小鹏汽车(XPEV.N)和哔哩哔哩(BILI.O)涨超2%，",
-          "url": "https://flash.jin10.com/detail/20251027082830826800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
         }
       ]
     },
@@ -82,7 +94,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -113,6 +125,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "10年期美债收益率上涨4个基点，至4.037%；30年期美债收益率上升3.9个基点，至4.625%。",
+          "url": "https://flash.jin10.com/detail/20251027131215020800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         }
       ]
     },
