@@ -1,465 +1,144 @@
 {
-  "generated_at": "2025-10-29T22:23:11.254890+08:00",
-  "total_titles_processed": 1686,
+  "generated_at": "2025-10-30T06:15:09.777216+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 21,
+      "keyword_group": "Meta Google",
+      "match_count": 5,
       "titles": [
         {
-          "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2183910",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 09时11分]"
-        },
-        {
-          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 06时16分]"
-        },
-        {
-          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
-          "url": "https://www.cls.cn/detail/2184098",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时16分 ~ 14时23分]"
-        },
-        {
-          "title": "美股收盘：三大股指续创新高 英伟达涨近5%",
-          "url": "https://flash.jin10.com/detail/20251029040108535800",
+          "title": "Meta Platforms(META.O)CFO：由于计算需求增加，预计明年资本支出和费用计划将面临“上行压力”。",
+          "url": "https://flash.jin10.com/detail/20251030050159726800",
           "source": "金十数据",
           "ranks": [
-            2,
-            30
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 06时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
-          "title": "美股盘前，半导体股普涨，英伟达涨约3%，美光科技涨约2%，AMD涨约2%。",
-          "url": "https://wallstreetcn.com/livenews/2995734",
+          "title": "扎克伯格：Meta对计算能力的需求持续超出预期。 如果公司能有更多可用的计算能力，就可以创造更高的利润。 认为Meta有可能在这方面“超出目标”（overshoot），获得过多的容量。 相信Meta会找到方法来使用它所构建（或购买）的任何资源。",
+          "url": "https://wallstreetcn.com/livenews/2996229",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时21分"
+          "time_info": "06时15分"
         },
         {
-          "title": "Fiserv美股盘前大跌35%，指引和业绩均大幅低于预期",
-          "url": "https://wallstreetcn.com/livenews/2995988",
+          "title": "Meta营收创纪录 利润因一次性税务支出而大减",
+          "url": "https://flash.jin10.com/detail/20251030044500635800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "Meta警告称：可能会加大开支来支持人工智能（AI）繁荣。",
+          "url": "https://wallstreetcn.com/livenews/2996222",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时33分"
+          "time_info": "06时15分"
         },
         {
-          "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
-          "url": "https://wallstreetcn.com/articles/3758056",
+          "title": "Meta Platforms(META.O)：预计将积极投资计算需求，建设自己的基础设施，并与第三方云服务提供商合作。",
+          "url": "https://flash.jin10.com/detail/20251030041214505800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 纳斯达克 港股 中概股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "利率决议、业绩报告在即，美股指数集体上涨，英伟达总市值突破5万亿美元，黄金突破4000美元关口",
+          "url": "https://wallstreetcn.com/articles/3758166",
           "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 06时16分]"
-        },
-        {
-          "title": "美股三大股指续创新高 英伟达涨近5%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E7%BB%AD%E5%88%9B%E6%96%B0%E9%AB%98+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%BF%915%25",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 11时12分]"
-        },
-        {
-          "title": "标普500指数收涨15.73点，涨幅0.23%，报6890.89点。 道琼斯工业平均指数收涨161.78点，涨幅0.34%，报47706.37点。 纳斯达克综合指数（纳指）收涨190.037点，涨幅0.80%，报23827.493点。",
-          "url": "https://wallstreetcn.com/livenews/2995349",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时18分"
+          "time_info": "06时15分"
         },
         {
-          "title": "布油基金收跌约2.1%，和地产ETF领跌美股大类资产类ETF，大豆基金涨超0.9%",
-          "url": "https://wallstreetcn.com/livenews/2995384",
+          "title": "在美上市韩国ETF美股盘后涨0.8%。 美国总统特朗普称，韩国同意3500亿美元的协议。 韩国将获得更低的关税。",
+          "url": "https://wallstreetcn.com/livenews/2996231",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "周二（10月28日）纽约尾盘，标普500股指期货最终涨0.28%，道指期货涨0.34%，纳斯达克100股指期货涨0.79%。 罗素2000股指期货跌0.62%。",
-          "url": "https://wallstreetcn.com/livenews/2995374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "费城金银指数收涨1.28%，报278.09点。 纽约证交所ARCA金矿开采商指数收涨0.30%，报1980.77点；北京时间21:30美股开盘之前维持跌势、持稳于1960点附近，之后跳空“低开”、逼近1930点，随后反弹并逐步上涨。 金银矿业股多数收涨，科尔黛伦矿业涨3.39%，赫克拉矿业涨3.16%，金田涨2.66%，金矿股ETF涨1.59%，泛美白银涨1.47%，黄金矿工因素指数ETF涨1.43%，白银ETF涨0.71%。 黄金ETF则至少收跌0.72%，B2Gold跌1.21%，Blue Gold跌7.76%。",
-          "url": "https://wallstreetcn.com/livenews/2995368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "美股盘初：半导体股普涨，英伟达成为史上首家市值站上5万亿美元的公司",
-          "url": "https://wallstreetcn.com/livenews/2996031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时23分"
+          "time_info": "06时15分"
         },
         {
-          "title": "美股三大股指走高，纳指涨超1%，标普500指数涨0.43%，道指涨0.57%。",
-          "url": "https://flash.jin10.com/detail/20251029030928567800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "金十图示：2025年10月29日（周三）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20251029215338456800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "标普500指数高开20.06点，涨幅0.29%，报6910.95点； 道琼斯工业平均指数高开40.42点，涨幅0.08%，报47746.79点； 纳斯达克综合指数高开159.80点，涨幅0.67%，报23987.29点。",
-          "url": "https://wallstreetcn.com/livenews/2996030",
+          "title": "周三（10月29日）纽约尾盘，标普500股指期货最终下跌0.06%，道指期货跌0.23%，纳斯达克100股指期货涨0.26%。 罗素2000股指期货跌0.82%。",
+          "url": "https://wallstreetcn.com/livenews/2996223",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "全球科技股指数ETF收涨将近1.4%，领跑美股行业ETF，标普房地产板块跌超2.2%",
-          "url": "https://wallstreetcn.com/livenews/2995363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "美股三大股指续创新高 英伟达涨近5%",
-          "url": "https://www.toutiao.com/trending/7565586029471088681/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251029040619024800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "金十图示：2025年10月28日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251029040615964800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "Fiserv美股盘前大跌27%，此前下调财年调整后每股收益指引。",
-          "url": "https://wallstreetcn.com/livenews/2995936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "招股书 融资",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "试图颠覆半导体产业链的高中毕业生 完成1亿美元创业融资",
-          "url": "https://www.cls.cn/detail/2184011",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时17分 ~ 14时23分]"
-        },
-        {
-          "title": "北证50大涨超8%！单日涨幅跻身年内第三，融资余额高位未降，这些股被重仓锁定",
-          "url": "https://www.cls.cn/detail/2184891",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时16分 ~ 22时23分]"
-        },
-        {
-          "title": "杭氧股份：获中信金融资产举牌 持股比例达5%",
-          "url": "https://wallstreetcn.com/livenews/2995983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
-          "title": "多家消金公司接窗口指导：新增贷款综合融资成本不得超20%",
-          "url": "https://wallstreetcn.com/livenews/2995564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "乌克兰需融资购买40亿立方米越冬天然气",
-          "url": "https://flash.jin10.com/detail/20251029041530453800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "美国担保隔夜融资利率（SOFR）升至4.31%，创9月17日美联储降息前以来新高。",
-          "url": "https://flash.jin10.com/detail/20251029200430502800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
-          "title": "乌克兰需融资购买40亿立方米越冬天然气",
-          "url": "https://wallstreetcn.com/livenews/2995359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "美国抵押贷款利率降至6.3% 提振购房和再融资需求",
-          "url": "https://wallstreetcn.com/livenews/2995944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "一家在拼多多开了十年的羊肉店",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%80%E5%AE%B6%E5%9C%A8%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%BC%80%E4%BA%86%E5%8D%81%E5%B9%B4%E7%9A%84%E7%BE%8A%E8%82%89%E5%BA%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D21%26flag%3D1%26band_rank%3D20%26c_type%3D31%26cate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26lcate%3D5001%26q%3D%2523%25E4%25B8%2580%25E5%25AE%25B6%25E5%259C%25A8%25E6%258B%25BC%25E5%25A4%259A%25E5%25A4%259A%25E5%25BC%2580%25E4%25BA%2586%25E5%258D%2581%25E5%25B9%25B4%25E7%259A%2584%25E7%25BE%258A%25E8%2582%2589%25E5%25BA%2597%2523%26filter_type%3Drealtimehot%26realpos%3D20%26display_time%3D1761732798%26pre_seqid%3D1761732798739028255333",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 18时17分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌1.2%。 热门中概股里，新东方跌2.9%，百胜中国、美团、百度、阿里巴巴、腾讯、理想、小米跌超1%，台积电和小鹏涨超1%，文远知行涨5.1%，小马智行涨11%。 ETF中，KWEB初步收跌0.8%，CQQQ涨0.1%。",
-          "url": "https://wallstreetcn.com/livenews/2995347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "京东真发钱每人1万全网比价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9C%E7%9C%9F%E5%8F%91%E9%92%B1%E6%AF%8F%E4%BA%BA1%E4%B8%87%E5%85%A8%E7%BD%91%E6%AF%94%E4%BB%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259C%25E7%259C%259F%25E5%258F%2591%25E9%2592%25B1%25E6%25AF%258F%25E4%25BA%25BA1%25E4%25B8%2587%25E5%2585%25A8%25E7%25BD%2591%25E6%25AF%2594%25E4%25BB%25B7%2523%26dgr%3D0%26flag%3D1%26stream_entry_id%3D31%26realpos%3D20%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26pos%3D21%26band_rank%3D20%26display_time%3D1761706804%26pre_seqid%3D1761706804869010830587",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "A股指数突破4000点 接下来怎么应对",
-          "url": "https://www.toutiao.com/trending/7566561001647115830/",
-          "source": "今日头条",
           "ranks": [
             16
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 18时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
-          "title": "上证指数早盘收报4002.83点，涨0.37%。 深证成指早盘收报13550.65点，涨0.90%。 创业板指早盘收报3273.28点，涨1.35%。 沪深300早盘收报4714.54点，涨0.48%。 科创50早盘收报1468.64点，跌0.21%。 中证500早盘收报7425.69点，涨1.15%。 中证1000早盘收报7513.86点，涨0.46%。",
-          "url": "https://wallstreetcn.com/livenews/2995576",
+          "title": "奇波雷墨西哥烧烤（CMG）美股盘后跌超8.5%。 该公司三季度同店销售增长0.3%，分析师预期增长0.99%。 三季度营收30亿美元，分析师预期30.2亿美元。 25-35岁年龄段Cohort顾客尤其（让公司）面临挑战。 由于客流量欠佳，公司在2025年第三次下调业绩指引。 通胀加速至0%-10%区间的中部。 公司不打算在2026年采取行动来（帮助顾客）应对通胀问题。",
+          "url": "https://wallstreetcn.com/livenews/2996221",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "A股收盘：北证50指数大涨超8%，光伏等新能源方向爆发",
-          "url": "https://wallstreetcn.com/livenews/2995696",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
+          "time_info": "06时15分"
         }
       ]
     },
     {
-      "keyword_group": "财报 季报 年报",
-      "match_count": 3,
+      "keyword_group": "美债",
+      "match_count": 2,
       "titles": [
         {
-          "title": "今年三季报，基金经理“小作文”谁最出圈？",
-          "url": "https://www.cls.cn/detail/2183921",
-          "source": "财联社热门",
+          "title": "“债券天王”比尔·格罗斯：美国10年期国债的短期目标收益率为4.25%。 10年期美债已经迎来最好的时光。",
+          "url": "https://wallstreetcn.com/livenews/2996244",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 09时11分]"
-        },
-        {
-          "title": "透视基金三季报，一图看懂哪些个股最受公募追捧",
-          "url": "https://www.cls.cn/detail/2184887",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 22时23分]"
-        },
-        {
-          "title": "基金三季报重仓榜揭晓：这是茅台的“黄昏”，更是AI硬科技的“黎明”",
-          "url": "https://wallstreetcn.com/articles/3758110",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时23分"
+          "time_info": "06时15分"
+        },
+        {
+          "title": "美债收益率全面上涨，2-10年期收益率至少涨10个基点，鲍威尔12月降息并非那么笃定的事",
+          "url": "https://wallstreetcn.com/livenews/2996226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         }
       ]
     },
@@ -472,68 +151,45 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346380&amp;topic_name=%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%83%BD%E7%BB%AD%E6%9D%AF%2C%E4%B8%8A%E9%87%8E%E8%83%BD%E7%BB%AD%E7%BA%A6%E4%B8%8D%EF%BC%9F",
           "source": "贴吧",
           "ranks": [
-            5,
-            12,
-            15,
-            16,
-            19,
-            22,
-            23
+            24
           ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 22时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米集团 泡泡玛特 POP MART",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "湖北省委书记王忠林与小米集团董事长雷军交流",
-          "url": "https://wallstreetcn.com/livenews/2995562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时22分"
+          "time_info": "06时15分"
         }
       ]
     },
     {
-      "keyword_group": "黄金",
+      "keyword_group": "招股书 融资",
       "match_count": 1,
       "titles": [
         {
-          "title": "现货黄金突破4030美元/盎司，日内涨近2%。现货白银价格上涨近3%，报48.36美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251029201558008800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周二（10月28日）纽约尾盘，美国10年期国债收益率涨0.19个基点，报3.9814%，日内交投于3.9680%-4.0025%区间。 两年期美债收益率涨0.41个基点，报3.4918%；30年期美债收益率跌0.28个基点。 2/10年期美债收益率利差跌0.328个基点，报+48.560个基点。 10年期通胀保值国债（TIPS）收益率跌0.44个基点，至1.6875%；两年期TIPS收益率涨3.08个基点，至0.8442%；30年期TIPS收益率跌1.25个基点，至2.3258%。",
-          "url": "https://wallstreetcn.com/livenews/2995344",
-          "source": "华尔街见闻-快讯",
+          "title": "北证50大涨超8%！单日涨幅跻身年内第三，融资余额高位未降，这些股被重仓锁定",
+          "url": "https://www.cls.cn/detail/2184891",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时18分"
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 06时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财报 季报 年报",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "透视基金三季报，一图看懂哪些个股最受公募追捧",
+          "url": "https://www.cls.cn/detail/2184887",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 06时15分]"
         }
       ]
     }
