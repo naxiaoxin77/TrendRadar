@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T18:17:12.824777+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2025-10-29T20:33:36.788626+08:00",
+  "total_titles_processed": 1541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
@@ -65,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "Fiserv美股盘前大跌35%，指引和业绩均大幅低于预期",
+          "url": "https://wallstreetcn.com/livenews/2995988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
@@ -188,12 +199,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "Fiserv美股盘前大跌27%，此前下调财年调整后每股收益指引。",
+          "url": "https://wallstreetcn.com/livenews/2995936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         }
       ]
     },
     {
       "keyword_group": "招股书 融资",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "试图颠覆半导体产业链的高中毕业生 完成1亿美元创业融资",
@@ -213,11 +235,23 @@
           "url": "https://www.cls.cn/detail/2184891",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 18时17分]"
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 20时33分]"
+        },
+        {
+          "title": "杭氧股份：获中信金融资产举牌 持股比例达5%",
+          "url": "https://wallstreetcn.com/livenews/2995983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "多家消金公司接窗口指导：新增贷款综合融资成本不得超20%",
@@ -242,6 +276,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "美国担保隔夜融资利率（SOFR）升至4.31%，创9月17日美联储降息前以来新高。",
+          "url": "https://flash.jin10.com/detail/20251029200430502800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
           "title": "乌克兰需融资购买40亿立方米越冬天然气",
           "url": "https://wallstreetcn.com/livenews/2995359",
           "source": "华尔街见闻-快讯",
@@ -251,6 +296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "美国抵押贷款利率降至6.3% 提振购房和再融资需求",
+          "url": "https://wallstreetcn.com/livenews/2995944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         }
       ]
     },
@@ -345,11 +401,12 @@
             12,
             15,
             16,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 18时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 20时33分]"
         }
       ]
     },
@@ -367,6 +424,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货黄金突破4030美元/盎司，日内涨近2%。现货白银价格上涨近3%，报48.36美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251029201558008800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         }
       ]
     },
