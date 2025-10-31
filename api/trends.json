@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T06:15:00.584219+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2025-10-31T09:06:24.060894+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
@@ -23,11 +23,24 @@
           "url": "https://www.cls.cn/detail/2186836",
           "source": "财联社热门",
           "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 09时06分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
+          "url": "https://www.cls.cn/detail/2187041",
+          "source": "财联社热门",
+          "ranks": [
+            7,
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 3,
+          "time_info": "[06时14分 ~ 09时06分]"
         },
         {
           "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股收盘）",
@@ -63,17 +76,6 @@
           "time_info": "04时17分"
         },
         {
-          "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
-          "url": "https://www.cls.cn/detail/2187041",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时14分 ~ 06时15分]"
-        },
-        {
           "title": "亚马逊(AMZN.O)美股盘后大涨超10%。",
           "url": "https://flash.jin10.com/detail/20251031040446703800",
           "source": "金十数据",
@@ -91,9 +93,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "美股收盘：三大指数集体下跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%B8%8B%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         },
         {
           "title": "苹果(AAPL.O)美股盘后涨幅扩大至3%。",
@@ -102,7 +115,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
@@ -113,7 +126,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
@@ -124,7 +137,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
@@ -135,7 +148,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
@@ -154,7 +167,7 @@
     },
     {
       "keyword_group": "Meta Google",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
@@ -170,6 +183,18 @@
           "time_info": "[00时19分 ~ 06时15分]"
         },
         {
+          "title": "Meta大举押注AI引发投资者担忧 据悉拟发行250亿美元债券筹资",
+          "url": "https://www.cls.cn/detail/2186913",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时17分 ~ 09时06分]"
+        },
+        {
           "title": "Meta一次性税费致季度盈利暴跌83%，预计明年资本支出大增，盘后重挫超8%｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3758231",
           "source": "华尔街见闻",
@@ -182,16 +207,15 @@
           "time_info": "[00时19分 ~ 04时17分]"
         },
         {
-          "title": "Meta大举押注AI引发投资者担忧 据悉拟发行250亿美元债券筹资",
-          "url": "https://www.cls.cn/detail/2186913",
-          "source": "财联社热门",
+          "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
+          "url": "https://wallstreetcn.com/articles/3758264",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            12
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时17分 ~ 06时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         },
         {
           "title": "标普500指数初步收跌1%，可选消费板块跌2.4%，电信板块跌1.8%，科技板块跌1.3%，房地产板块涨0.8%。 纳斯达克100指数初步收跌1.4%，成分股中，Meta初步收跌约11%，MSTR跌7.1%，特斯拉跌4.4%，核电股Constellation Energy跌4.2%，亚马逊跌3%，谷歌A、MercadoLibre、VRSK、格芯至少涨超2%。 波音初步收跌6%，和VZ、联合健康、亚马逊、微软、英伟达领跌道指成分股，摩根大通、迪士尼、Salesforce、思科则至少涨1%。",
@@ -255,6 +279,18 @@
           "time_info": "[00时19分 ~ 06时15分]"
         },
         {
+          "title": "高端光模块驱动业绩爆发，中际旭创Q3净利润31.37亿元，同比增长124.98%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3758303",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 09时06分]"
+        },
+        {
           "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3758229",
           "source": "华尔街见闻",
@@ -267,24 +303,13 @@
           "time_info": "[04时17分 ~ 06时15分]"
         },
         {
-          "title": "高端光模块驱动业绩爆发，中际旭创Q3净利润31.37亿元，同比增长124.98%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3758303",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
           "title": "亚马逊三季度财报亮眼 盘后大涨11%",
           "url": "https://flash.jin10.com/detail/20251031050035666800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         }
