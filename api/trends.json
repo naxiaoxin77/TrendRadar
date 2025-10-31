@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-10-31T11:09:02.298749+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2025-10-31T12:19:18.334221+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
       "match_count": 14,
       "titles": [
+        {
+          "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
+          "url": "https://www.cls.cn/detail/2187041",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时14分 ~ 12时19分]"
+        },
         {
           "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
           "url": "https://www.cls.cn/detail/2186587",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时19分 ~ 09时06分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
-          "url": "https://www.cls.cn/detail/2187041",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时14分 ~ 11时09分]"
         },
         {
           "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股收盘）",
@@ -168,7 +168,7 @@
     },
     {
       "keyword_group": "Meta Google",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
@@ -191,8 +191,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 11时09分]"
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 12时19分]"
         },
         {
           "title": "Meta大举押注AI引发投资者担忧 据悉拟发行250亿美元债券筹资",
@@ -228,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "Meta股价为何暴跌11.33%",
+          "url": "https://www.toutiao.com/trending/7567168844247076395/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 12时19分]"
         },
         {
           "title": "Meta发行300亿美元高评级公司债，售债规模创2025年美国投资级债券市场最大。",
@@ -286,11 +297,12 @@
           "ranks": [
             9,
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时15分 ~ 11时09分]"
+          "appearance_count": 4,
+          "time_info": "[06时15分 ~ 12时19分]"
         },
         {
           "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
@@ -309,11 +321,12 @@
           "url": "https://wallstreetcn.com/articles/3758368",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 12时19分]"
         },
         {
           "title": "亚马逊三季度财报亮眼 盘后大涨11%",
@@ -407,6 +420,23 @@
       ]
     },
     {
+      "keyword_group": "品牌出海 跨境电商",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "110家企业入选！中国贸促会将发布跨境电商重点联系企业名录",
+          "url": "https://wallstreetcn.com/livenews/2997379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "阿里巴巴 京东 拼多多 冬海",
       "match_count": 1,
       "titles": [
@@ -432,11 +462,12 @@
           "url": "https://wallstreetcn.com/livenews/2997336",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 12时19分]"
         }
       ]
     },
@@ -454,6 +485,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上证指数早盘收报3961.62点，跌0.63%。 深证成指早盘收报13447.94点，跌0.62%。 创业板指早盘收报3214.48点，跌1.49%。 沪深300早盘收报4661.77点，跌1.02%。 科创50早盘收报1424.60点，跌2.51%。 中证500早盘收报7353.08点，跌0.44%。 中证1000早盘收报7521.87点，涨0.49%。",
+          "url": "https://wallstreetcn.com/livenews/2997370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         }
       ]
     }
