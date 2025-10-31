@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T14:22:53.491963+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2025-10-31T16:20:05.924254+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
@@ -175,11 +175,12 @@
           "url": "https://wallstreetcn.com/articles/3758264",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时06分 ~ 14时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时06分 ~ 16时20分]"
         },
         {
           "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
@@ -277,7 +278,7 @@
     },
     {
       "keyword_group": "财报 季报 年报",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "国有六大行三季报出炉，中国银行Q3归母净利增长5.09%领跑",
@@ -301,8 +302,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时15分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[06时15分 ~ 16时20分]"
         },
         {
           "title": "服务力挺苹果上季营收创同期新高，在华收入意外下滑，iPhone淡季销售逊色，但料本季两位数大增 | 财报见闻",
@@ -310,11 +311,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时09分 ~ 14时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时09分 ~ 16时20分]"
         },
         {
           "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
@@ -327,6 +329,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 06时15分]"
+        },
+        {
+          "title": "亚马逊财报业绩会“干货”：AWS芯片容量双开挂 “增产有多快，变现就有多快”",
+          "url": "https://www.cls.cn/detail/2187447",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
         },
         {
           "title": "亚马逊三季度财报亮眼 盘后大涨11%",
@@ -441,7 +454,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         }
