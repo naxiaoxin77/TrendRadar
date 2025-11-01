@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T20:26:13.526992+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2025-11-01T22:12:37.165326+08:00",
+  "total_titles_processed": 1400,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             6,
             8,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时10分 ~ 20时26分]"
+          "appearance_count": 11,
+          "time_info": "[09时10分 ~ 22时12分]"
         },
         {
           "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
@@ -29,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时10分 ~ 20时26分]"
+          "appearance_count": 8,
+          "time_info": "[09时10分 ~ 22时12分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -135,6 +136,18 @@
           "time_info": "[06时14分 ~ 09时10分]"
         },
         {
+          "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
+          "url": "https://wallstreetcn.com/articles/3758463",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 22时12分]"
+        },
+        {
           "title": "布油基金收涨将近1.1%，领跑美股大类资产类ETF，黄金ETF跌超0.5%",
           "url": "https://wallstreetcn.com/livenews/2997900",
           "source": "华尔街见闻-快讯",
@@ -157,17 +170,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 09时10分]"
-        },
-        {
-          "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
-          "url": "https://wallstreetcn.com/articles/3758463",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
         },
         {
           "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
@@ -195,7 +197,7 @@
     },
     {
       "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
@@ -274,6 +276,18 @@
           "time_info": "[11时09分 ~ 14时20分]"
         },
         {
+          "title": "比亚迪汽车：比亚迪10月销售441706辆，创年内新高",
+          "url": "https://wallstreetcn.com/livenews/2998000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 22时12分]"
+        },
+        {
           "title": "蔚来汽车(NIO.N)：2025年10月交付40,397辆汽车，同比增长92.6%。2025年年初至今交付241,618辆，同比增长41.9%。",
           "url": "https://flash.jin10.com/detail/20251101153153335800",
           "source": "金十数据",
@@ -285,15 +299,15 @@
           "time_info": "16时19分"
         },
         {
-          "title": "比亚迪汽车：比亚迪10月销售441706辆，创年内新高",
-          "url": "https://wallstreetcn.com/livenews/2998000",
-          "source": "华尔街见闻-快讯",
+          "title": "比亚迪旗下方程豹汽车10月销售达31052辆，环比增长28.7%、同比增长415.3%，跻身新势力品牌增速TOP3，该品牌平均成交价近24万元，钛7在首个完整销售月销量超2万。",
+          "url": "https://flash.jin10.com/detail/20251101210222165800",
+          "source": "金十数据",
           "ranks": [
-            15
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时26分"
+          "time_info": "22时12分"
         },
         {
           "title": "比亚迪汽车：比亚迪10月销售441706辆，创年内新高，2025年1-10月累计销售3701852辆。新能源累计销售超1420万辆。",
@@ -302,7 +316,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         }
@@ -347,8 +361,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 20时26分]"
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 22时12分]"
         },
         {
           "title": "AWS创三年最快增速，资本支出超预期，亚马逊盘后涨14% | 财报见闻",
@@ -468,6 +482,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "12月降息悬了？美联储内部现六年来罕见分歧，“老债王”格罗斯出手做空美债！",
+          "url": "https://wallstreetcn.com/articles/3758466",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 22时12分]"
+        },
+        {
           "title": "两年期美债收益率在美联储降息当周涨约12个基点，10年期美债收益率10月份跌约6个基点",
           "url": "https://wallstreetcn.com/livenews/2997882",
           "source": "华尔街见闻-快讯",
@@ -478,18 +505,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 06时14分]"
-        },
-        {
-          "title": "12月降息悬了？美联储内部现六年来罕见分歧，“老债王”格罗斯出手做空美债！",
-          "url": "https://wallstreetcn.com/articles/3758466",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 20时26分]"
         }
       ]
     },
