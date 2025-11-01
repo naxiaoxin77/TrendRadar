@@ -1,50 +1,11 @@
 {
-  "generated_at": "2025-11-02T00:17:37.665851+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-02T02:21:02.116115+08:00",
+  "total_titles_processed": 349,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3758419",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
-          "url": "https://wallstreetcn.com/articles/3758463",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
-          "url": "https://www.cls.cn/detail/2188490",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十整理：造车新势力“银十”成绩单——小米、蔚来月交付量破4万，比亚迪单月销量创年内新高",
@@ -54,8 +15,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时21分]"
+        },
+        {
+          "title": "比亚迪10月销售441706辆创年内新高",
+          "url": "https://www.toutiao.com/trending/7566840333221265462/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
         },
         {
           "title": "比亚迪旗下方程豹汽车10月销售达31052辆，环比增长28.7%、同比增长415.3%，跻身新势力品牌增速TOP3，该品牌平均成交价近24万元，钛7在首个完整销售月销量超2万。",
@@ -65,8 +37,49 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 纳斯达克 港股 中概股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3758419",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时21分]"
+        },
+        {
+          "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
+          "url": "https://wallstreetcn.com/articles/3758463",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时21分]"
+        },
+        {
+          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
+          "url": "https://www.cls.cn/detail/2188490",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时21分]"
         }
       ]
     },
@@ -79,11 +92,12 @@
           "url": "https://wallstreetcn.com/articles/3758466",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时21分]"
         }
       ]
     },
@@ -96,11 +110,12 @@
           "url": "https://wallstreetcn.com/articles/3758470",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时21分]"
         }
       ]
     }
