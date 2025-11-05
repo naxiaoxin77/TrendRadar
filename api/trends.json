@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T14:28:36.822830+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2025-11-05T16:26:54.887613+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -20,6 +20,17 @@
           "time_info": "[00时32分 ~ 06时26分]"
         },
         {
+          "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
+          "url": "https://wallstreetcn.com/articles/3758628",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时25分 ~ 16时26分]"
+        },
+        {
           "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
           "url": "https://www.cls.cn/detail/2191216",
           "source": "财联社热门",
@@ -29,17 +40,6 @@
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时25分 ~ 14时28分]"
-        },
-        {
-          "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
-          "url": "https://wallstreetcn.com/articles/3758628",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
           "time_info": "[07时25分 ~ 14时28分]"
         },
         {
@@ -76,11 +76,23 @@
           "ranks": [
             13,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时18分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[11时18分 ~ 16时26分]"
+        },
+        {
+          "title": "小马智行-W港股暗盘一度跌近24%，旺山旺水-B港股暗盘一度涨超160%",
+          "url": "https://wallstreetcn.com/livenews/2999758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "美股散户指数创特朗普关税日以来的最大跌幅",
@@ -313,6 +325,17 @@
           "time_info": "07时25分"
         },
         {
+          "title": "美股散户“黑色星期二”有多惨",
+          "url": "https://www.toutiao.com/trending/7569095245124603438/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "美股AI短线交易员周二救市失败，分析师称周三恐出现另一轮下跌",
           "url": "https://flash.jin10.com/detail/20251105062032603800",
           "source": "金十数据",
@@ -382,7 +405,7 @@
     },
     {
       "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "2026款比亚迪夏上市",
@@ -408,7 +431,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -454,9 +477,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "2026年，小鹏汽车将推出三款Robotaxi。（Auto有范儿）",
+          "url": "https://wallstreetcn.com/livenews/2999742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "【恒指低开0.97%，恒生科技指数跌1.75%】赛力斯港股上市首日跌近2%。商汤、金蝶国际、比亚迪电子、腾讯音乐、华虹半导体跌超3%。",
@@ -473,7 +507,7 @@
     },
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "A股三大指数午后集体翻红，海南自贸区、电网设备、钛白粉、煤炭等方向领涨，沪深京三市上涨个股超3000只。",
@@ -486,6 +520,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时33分 ~ 14时28分]"
+        },
+        {
+          "title": "A股收评：三大指数全线收红",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%85%A8%E7%BA%BF%E6%94%B6%E7%BA%A2",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "上证指数早盘收报3962.04点，涨0.05%。 深证成指早盘收报13155.62点，跌0.15%。 创业板指早盘收报3139.53点，涨0.17%。 沪深300早盘收报4615.33点，跌0.07%。 科创50早盘收报1379.94点，跌0.53%。 中证500早盘收报7205.24点，跌0.08%。 中证1000早盘收报7440.96点，涨0.07%。",
@@ -577,7 +622,7 @@
     },
     {
       "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "京东第一辆“国民好车”下线",
@@ -586,11 +631,12 @@
           "ranks": [
             15,
             5,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时18分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[11时18分 ~ 16时26分]"
         },
         {
           "title": "京东“第一辆车”在长沙下线",
@@ -599,9 +645,59 @@
           "ranks": [
             6
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 16时26分]"
+        },
+        {
+          "title": "京东1号车正式下线，此前001号车拍出7800万天价",
+          "url": "https://wallstreetcn.com/livenews/2999715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "16时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财报 季报 年报",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "日股丰田汽车股价一度下跌5%，此前发布第二季度财报。",
+          "url": "https://wallstreetcn.com/livenews/2999663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "深市公司三季报稳中向好，新质生产力相关企业表现亮眼",
+          "url": "https://wallstreetcn.com/livenews/2999438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "诺和诺德第三季度财报发布后，股价开跌3.9%。",
+          "url": "https://flash.jin10.com/detail/20251105160226973800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         }
       ]
     },
@@ -631,34 +727,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财报 季报 年报",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "日股丰田汽车股价一度下跌5%，此前发布第二季度财报。",
-          "url": "https://wallstreetcn.com/livenews/2999663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "深市公司三季报稳中向好，新质生产力相关企业表现亮眼",
-          "url": "https://wallstreetcn.com/livenews/2999438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
         }
       ]
     },
