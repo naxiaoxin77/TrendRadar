@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T18:22:17.244218+08:00",
-  "total_titles_processed": 1395,
+  "generated_at": "2025-11-06T20:38:13.059053+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
@@ -62,7 +62,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -166,7 +166,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -294,6 +294,68 @@
       ]
     },
     {
+      "keyword_group": "阿里巴巴 京东 拼多多 冬海",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "台当局出手封杀淘宝、拼多多，台媒批：不如多花力气清空诈骗",
+          "url": "https://news.ifeng.com/c/8o2w70KHTWo",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 14时28分]"
+        },
+        {
+          "title": "京东“国民好车”进入量产阶段",
+          "url": "https://www.toutiao.com/trending/7569131849428795402/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 11时15分]"
+        },
+        {
+          "title": "京东1元起拍发财鲅鱼饺子",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9C1%E5%85%83%E8%B5%B7%E6%8B%8D%E5%8F%91%E8%B4%A2%E9%B2%85%E9%B1%BC%E9%A5%BA%E5%AD%90%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D25%26band_rank%3D25%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26flag%3D1%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259C1%25E5%2585%2583%25E8%25B5%25B7%25E6%258B%258D%25E5%258F%2591%25E8%25B4%25A2%25E9%25B2%2585%25E9%25B1%25BC%25E9%25A5%25BA%25E5%25AD%2590%2523%26pos%3D25%26dgr%3D0%26lcate%3D5001%26cate%3D5001%26display_time%3D1762431350%26pre_seqid%3D1762431350329088880136&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 20时38分]"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至1%。中芯国际涨超3%，阿里巴巴、海尔智家、华虹半导体涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3000258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.15%，报8137.65点。 热门中概股里，晶科能源初步收涨16%，阿特斯太阳能涨13.7%，拼多多、腾讯、蔚来、理想涨超1%，百度、小马智行跌超1%，新东方跌3.3%，小鹏跌4.1%，文远知行跌5.1%。 ETF中，中国科技指数ETF（CQQQ）收涨1.04%，中概互联网指数ETF（KWEB）收涨0.77%。 德银嘉实沪深300指数ETF（ASHR）收涨1.17%，XtrackersHarvest中证50（ASHS）收涨0.88%， 富时中国3倍做多ETF（YINN）收涨2.83%，追踪富时25中国股指数ETF-iShares（FXI）收涨1.02%，中国ETF-iShares MSCI（MCHI）收涨1.00%。",
+          "url": "https://wallstreetcn.com/livenews/3000101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
       "match_count": 5,
       "titles": [
@@ -303,11 +365,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时22分 ~ 18时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时22分 ~ 20时38分]"
         },
         {
           "title": "中国版特斯拉！2026年，小鹏汽车要和高德合作推出Robotaxi，量产人型机器人",
@@ -370,8 +433,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时22分 ~ 18时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时22分 ~ 20时38分]"
         },
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
@@ -417,57 +480,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "台当局出手封杀淘宝、拼多多，台媒批：不如多花力气清空诈骗",
-          "url": "https://news.ifeng.com/c/8o2w70KHTWo",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时22分 ~ 14时28分]"
-        },
-        {
-          "title": "京东“国民好车”进入量产阶段",
-          "url": "https://www.toutiao.com/trending/7569131849428795402/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 11时15分]"
-        },
-        {
-          "title": "恒生科技指数日内涨幅扩大至1%。中芯国际涨超3%，阿里巴巴、海尔智家、华虹半导体涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3000258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.15%，报8137.65点。 热门中概股里，晶科能源初步收涨16%，阿特斯太阳能涨13.7%，拼多多、腾讯、蔚来、理想涨超1%，百度、小马智行跌超1%，新东方跌3.3%，小鹏跌4.1%，文远知行跌5.1%。 ETF中，中国科技指数ETF（CQQQ）收涨1.04%，中概互联网指数ETF（KWEB）收涨0.77%。 德银嘉实沪深300指数ETF（ASHR）收涨1.17%，XtrackersHarvest中证50（ASHS）收涨0.88%， 富时中国3倍做多ETF（YINN）收涨2.83%，追踪富时25中国股指数ETF-iShares（FXI）收涨1.02%，中国ETF-iShares MSCI（MCHI）收涨1.00%。",
-          "url": "https://wallstreetcn.com/livenews/3000101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
         }
       ]
     },
