@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T04:47:19.860358+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2025-11-07T06:18:34.818868+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 6,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -16,8 +16,74 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 06时18分]"
+        },
+        {
+          "title": "特斯拉股价美股盘后转跌，此前一度上涨3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3000778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)美股盘后涨1.2%。",
+          "url": "https://flash.jin10.com/detail/20251107055709083800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "周四（11月6日）纽约尾盘，标普500股指期货最终下跌0.86%，道指期货跌0.68%，纳斯达克100股指期货跌1.66%。 罗素2000股指期货跌1.67%。",
+          "url": "https://wallstreetcn.com/livenews/3000768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "铜、银、铀入选美国新版关键矿产清单，美股概念股巨幅震荡",
+          "url": "https://www.cls.cn/detail/2193592",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "特斯拉股东批准马斯克的1万亿美元薪酬方案，超过75%的股东批准。 股东批准重新选举三名董事会成员。 董事会将评估xAI投资。 特斯拉美股盘后涨1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3000764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "半导体ETF收跌超2.3%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3000758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         },
         {
           "title": "Datadog美股盘初涨19%，创2022年2月份以来盘中新高。",
@@ -64,6 +130,17 @@
           "time_info": "02时28分"
         },
         {
+          "title": "金十图示：2025年11月06日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251107050525569800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
           "title": "标普500指数低开8.70点，跌幅0.13%，报6787.59点； 道琼斯工业平均指数低开55.88点，跌幅0.12%，报47255.12点； 纳斯达克综合指数低开38.51点，跌幅0.16%，报23461.29点。",
           "url": "https://wallstreetcn.com/livenews/3000616",
           "source": "华尔街见闻-快讯",
@@ -73,6 +150,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "金十图示：2025年11月06日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251107050522071800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "美股收盘：三大股指齐跌 英伟达跌超3%",
+          "url": "https://flash.jin10.com/detail/20251107050145353800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "爱彼迎三季度营收41亿美元，分析师预期40.8亿美元。 三季度调整后EBITDA利润率50%，分析师预期49.9%。 三季度总体预定价值229亿美元，分析师预期221.3亿美元。 预计全年调整后EBITDA利润率35%，公司原本预计至少34.5%。 预计四季度营收26.6亿-27.2亿美元，分析师预期26.7亿美元。 爱彼迎（ABNB）美股盘后涨4.7%。",
+          "url": "https://wallstreetcn.com/livenews/3000744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         }
       ]
     },
@@ -89,8 +199,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时18分]"
         },
         {
           "title": "美国就业形势严峻引发降息预期，美股指数集体低开低走，美元承压，黄金短线下挫，美债走高",
@@ -101,8 +211,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时18分]"
         },
         {
           "title": "标普500指数跌幅扩大至1%，可选消费板块跌2%，科技板块跌1.6%，电信板块跌1%，能源板块涨1.2%。 纳指跌超1.5%，半导体指数跌2.3%。 特朗普政府关门期间，民间机构提供的美国就业数据引发美债价格上涨。",
@@ -163,7 +273,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         }
@@ -210,11 +320,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 06时18分]"
         }
       ]
     }
