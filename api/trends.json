@@ -1,536 +1,129 @@
 {
-  "generated_at": "2025-11-06T22:23:10.266290+08:00",
-  "total_titles_processed": 1686,
+  "generated_at": "2025-11-07T00:24:57.673834+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 30,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
-          "url": "https://www.cls.cn/detail/2192424",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时22分 ~ 14时28分]"
-        },
-        {
-          "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
-          "url": "https://wallstreetcn.com/articles/3758628",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时19分]"
-        },
-        {
-          "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
-          "url": "https://www.cls.cn/detail/2192518",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时15分 ~ 16时25分]"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2025-11-06）",
-          "url": "https://flash.jin10.com/detail/20251106090654063800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "Coherent美股盘前涨超15%，公司第一财季业绩好于预期",
-          "url": "https://wallstreetcn.com/livenews/3000501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "美股泡沫有多大？瑞银给出七个观测指标",
-          "url": "https://wallstreetcn.com/articles/3758712",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时22分 ~ 16时25分]"
-        },
-        {
-          "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
-          "url": "https://wallstreetcn.com/articles/3758685",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时26分 ~ 06时19分]"
-        },
-        {
-          "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2193483",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 22时23分]"
-        },
-        {
-          "title": "纳斯达克100指数涨超1%，成分股美光科技涨8.3%，安进涨7.8%，迈威尔科技涨6.1%；铿腾电子则跌2.2%，Palantir跌2.6%，Axon仍然跌11.1%。 标普500指数涨0.85%，道指涨371点涨幅0.8%，纳斯达克综合指数涨1.04%。 费城半导体指数涨3.15%，银行指数涨0.98%，生物科技指数涨1.90%。",
-          "url": "https://wallstreetcn.com/livenews/3000051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 04时23分]"
-        },
-        {
-          "title": "特朗普上任一年美股跑输全球大盘",
-          "url": "https://www.toutiao.com/trending/7569232858510790187/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 04时23分]"
-        },
-        {
-          "title": "周三（11月5日）纽约尾盘，标普500股指期货最终涨0.41%，道指期货涨0.55%，纳斯达克100股指期货涨0.66%。 罗素2000股指期货跌0.04%。",
-          "url": "https://wallstreetcn.com/livenews/3000126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3000606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "航空业ETF收涨4.5%，和半导体ETF领跑美股行业ETF，标普电信板块涨超1.6%",
-          "url": "https://wallstreetcn.com/livenews/3000125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "礼来美股盘前一度涨近2%，公司新减肥药Eloralintide减重超20%，拟与白宫合作拓宽医保覆盖。",
-          "url": "https://wallstreetcn.com/livenews/3000605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "费城金银指数收涨2.64%，报272.02点。 纽约证交所ARCA金矿开采商指数收涨2.61%，报1976.44点，北京时间22:30美股开盘之前微幅下跌、持稳于1925点附近，之后“跳空”上涨、持续高位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3000124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "Metsera美股盘后涨6.8%。",
-          "url": "https://wallstreetcn.com/livenews/3000123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "多邻国美股盘前跌超21%，第四季度预订量指引不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3000481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "摩根大通称散户有望支撑美股直至年关 高盛认为回调不会持久",
-          "url": "https://wallstreetcn.com/livenews/3000599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "Doordash美股盘后下跌20%，该公司业绩欠佳，预计将继续（扩大）开支。",
-          "url": "https://wallstreetcn.com/livenews/3000120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "美股三大期指窄幅震荡 市场聚焦特朗普关税听证会 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2192280",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251106014154445800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251106014135995800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "美妆公司E.l.f. Beauty美股盘后下跌30%。",
-          "url": "https://wallstreetcn.com/livenews/3000117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "美股延续涨势，纳指涨幅达1%，道指现涨0.75%，标普500指数涨0.83%。",
-          "url": "https://flash.jin10.com/detail/20251106013722040800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251106051410709800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-11-06）",
-          "url": "https://flash.jin10.com/detail/20251106220221302800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "Snap三季度营收15.1亿美元，分析师预期14.9亿美元。 三季度日活用户数4.77亿，分析师预期4.7631亿。 三季度调整后EBITDA为1.82亿美元，分析师预期1.242亿美元。 预计四季度营收16.8亿-17.1亿美元，分析师预期16.9亿美元。 Snap与Perplexity构建合作伙伴关系，将向SnapChat提供人工智能（AI）搜索功能。 Snap美股盘后涨15.99%。",
-          "url": "https://wallstreetcn.com/livenews/3000106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251106051116318800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "特朗普称美股将再创新高",
-          "url": "https://www.toutiao.com/trending/7569403413117537838/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 超微电脑跌11%",
-          "url": "https://flash.jin10.com/detail/20251106050116805800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "台当局出手封杀淘宝、拼多多，台媒批：不如多花力气清空诈骗",
-          "url": "https://news.ifeng.com/c/8o2w70KHTWo",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时22分 ~ 14时28分]"
-        },
-        {
-          "title": "京东“国民好车”进入量产阶段",
-          "url": "https://www.toutiao.com/trending/7569131849428795402/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 11时15分]"
-        },
-        {
-          "title": "京东1元起拍发财鲅鱼饺子",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9C1%E5%85%83%E8%B5%B7%E6%8B%8D%E5%8F%91%E8%B4%A2%E9%B2%85%E9%B1%BC%E9%A5%BA%E5%AD%90%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D25%26band_rank%3D25%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26flag%3D1%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259C1%25E5%2585%2583%25E8%25B5%25B7%25E6%258B%258D%25E5%258F%2591%25E8%25B4%25A2%25E9%25B2%2585%25E9%25B1%25BC%25E9%25A5%25BA%25E5%25AD%2590%2523%26pos%3D25%26dgr%3D0%26lcate%3D5001%26cate%3D5001%26display_time%3D1762431350%26pre_seqid%3D1762431350329088880136&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时37分 ~ 20时38分]"
-        },
-        {
-          "title": "恒生科技指数日内涨幅扩大至1%。中芯国际涨超3%，阿里巴巴、海尔智家、华虹半导体涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3000258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.15%，报8137.65点。 热门中概股里，晶科能源初步收涨16%，阿特斯太阳能涨13.7%，拼多多、腾讯、蔚来、理想涨超1%，百度、小马智行跌超1%，新东方跌3.3%，小鹏跌4.1%，文远知行跌5.1%。 ETF中，中国科技指数ETF（CQQQ）收涨1.04%，中概互联网指数ETF（KWEB）收涨0.77%。 德银嘉实沪深300指数ETF（ASHR）收涨1.17%，XtrackersHarvest中证50（ASHS）收涨0.88%， 富时中国3倍做多ETF（YINN）收涨2.83%，追踪富时25中国股指数ETF-iShares（FXI）收涨1.02%，中国ETF-iShares MSCI（MCHI）收涨1.00%。",
-          "url": "https://wallstreetcn.com/livenews/3000101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "如何评价比亚迪海狮 06 上市 100 天就达成十万辆？这款车靠什么赢得大众选择？",
-          "url": "https://www.zhihu.com/question/1969340794436559798",
-          "source": "知乎",
-          "ranks": [
-            7,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时22分 ~ 20时38分]"
-        },
-        {
-          "title": "中国版特斯拉！2026年，小鹏汽车要和高德合作推出Robotaxi，量产人型机器人",
-          "url": "https://wallstreetcn.com/articles/3758729",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 16时25分]"
-        },
-        {
-          "title": "【数读IPO】今日1只新股上市，公司背靠比亚迪、蔚来、理想等车企",
-          "url": "https://www.cls.cn/detail/2192440",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 12时27分]"
-        },
-        {
-          "title": "港股小鹏汽车涨超5%，此前小鹏汽车携手高德地图，宣布2026年三款自研Robotaxi车型正式试运营，整合高德叫车平台并开放生态布局，进军海外市场。小鹏同时发布人形机器人IRON，并宣布2026年底目标实现规模量产高阶人形机器人。",
-          "url": "https://wallstreetcn.com/livenews/3000332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "小鹏汽车“更名”后多项成果“涌现” 涉智能驾驶、Robotaxi、机器人及低空飞行领域",
-          "url": "https://www.cls.cn/detail/2192246",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
           "url": "https://wallstreetcn.com/articles/3758696",
           "source": "华尔街见闻",
           "ranks": [
-            1,
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时22分 ~ 22时23分]"
-        },
-        {
-          "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时19分]"
-        },
-        {
-          "title": "美债惨遭抛售！美国财政部暗示未来将扩大长债发行规模",
-          "url": "https://www.cls.cn/detail/2192526",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时25分"
+          "time_info": "00时24分"
         },
         {
-          "title": "美债收益率继续上涨，10年期收益率日内涨6.6个基点，报4.157%。",
-          "url": "https://flash.jin10.com/detail/20251106011605092800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "标普500指数涨0.25%，纳指涨0.42%，半导体指数涨2.2%。 美国10年期国债收益率短线从4.12%附近拉升至4.14%上方，日内整体涨幅超过5个基点。 两年期美债收益率从3.59%附近“跳空”拉升至3.62%上方，日内涨超4个基点。",
-          "url": "https://wallstreetcn.com/livenews/2999987",
+          "title": "标普500指数跌幅扩大至1%，可选消费板块跌2%，科技板块跌1.6%，电信板块跌1%，能源板块涨1.2%。 纳指跌超1.5%，半导体指数跌2.3%。 特朗普政府关门期间，民间机构提供的美国就业数据引发美债价格上涨。",
+          "url": "https://wallstreetcn.com/livenews/3000653",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "美国就业形势严峻引发降息预期，美股指数集体低开低走，美元承压，黄金短线下挫，美债走高",
+          "url": "https://wallstreetcn.com/articles/3758806",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "美股、黄金、比特币齐跌，日元和美债上涨，投资者静候一波美联储官员的讲话",
+          "url": "https://wallstreetcn.com/livenews/3000636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 纳斯达克 港股 中概股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2193483",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "Datadog美股盘初涨19%，创2022年2月份以来盘中新高。",
+          "url": "https://wallstreetcn.com/livenews/3000620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异。 网络股指数ETF跌0.61%，可选消费ETF跌0.54%，全球科技股指数ETF跌0.48%，科技行业ETF跌0.25%，半导体ETF跌0.09%。 银行业ETF则涨0.32%，能源业ETF涨0.63%",
+          "url": "https://wallstreetcn.com/livenews/3000619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "标普500指数低开8.70点，跌幅0.13%，报6787.59点； 道琼斯工业平均指数低开55.88点，跌幅0.12%，报47255.12点； 纳斯达克综合指数低开38.51点，跌幅0.16%，报23461.29点。",
+          "url": "https://wallstreetcn.com/livenews/3000616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小鹏汽车发力人形机器人意欲何为",
+          "url": "https://www.toutiao.com/trending/7569599100031602212/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "小鹏汽车是真做机器人还是炒作",
+          "url": "https://www.toutiao.com/trending/7569605442133822985/",
+          "source": "今日头条",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -540,158 +133,18 @@
     },
     {
       "keyword_group": "招股书 融资",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "据美国纽约联储数据，上个交易日（11月5日）担保隔夜融资利率（SOFR）报3.91%，之前一天报4.00%。 上个交易日有效的联邦基金利率报3.87%，之前一天报3.87%。",
-          "url": "https://wallstreetcn.com/livenews/3000608",
-          "source": "华尔街见闻-快讯",
+          "title": "融资成本超24%客户也敢接！助贷新规后部分中小银行难戒高风险资产，为冲业绩铤而走险",
+          "url": "https://www.cls.cn/detail/2193539",
+          "source": "财联社热门",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "欧洲央行执委施纳贝尔：在启动结构性操作之前，将持续开展标准再融资操作。",
-          "url": "https://flash.jin10.com/detail/20251106160128573800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "两市融资余额减少1.43亿元",
-          "url": "https://wallstreetcn.com/livenews/3000198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "标普：刚果的融资选择仍然稀缺。",
-          "url": "https://flash.jin10.com/detail/20251105234550131800",
-          "source": "金十数据",
-          "ranks": [
-            20
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财报 季报 年报",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "AMD营收大超预期但指引未能打动投资者，股价盘后震荡下挫 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3758680",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时26分 ~ 06时19分]"
-        },
-        {
-          "title": "湖人白月光赛季报销",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B9%96%E4%BA%BA%E7%99%BD%E6%9C%88%E5%85%89%E8%B5%9B%E5%AD%A3%E6%8A%A5%E9%94%80%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D28%26lcate%3D5001%26cate%3D5001%26flag%3D1%26realpos%3D28%26q%3D%2523%25E6%25B9%2596%25E4%25BA%25BA%25E7%2599%25BD%25E6%259C%2588%25E5%2585%2589%25E8%25B5%259B%25E5%25AD%25A3%25E6%258A%25A5%25E9%2594%2580%2523%26stream_entry_id%3D31%26dgr%3D0%26pos%3D27%26display_time%3D1762392121%26pre_seqid%3D176239212103103430613135&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "爵士中锋凯斯勒接受手术 赛季报销",
-          "url": "https://www.toutiao.com/trending/7568802180669718569/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "30强城市三季报出炉 3个城市可能将突破万亿元",
-          "url": "https://wallstreetcn.com/livenews/3000573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "MSCI中国A股指数新纳入17只标的，剔除16只",
-          "url": "https://wallstreetcn.com/livenews/3000199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "上证指数早盘收报4004.25点，涨0.88%。 深证成指早盘收报13407.30点，涨1.39%。 创业板指早盘收报3210.15点，涨1.39%。 沪深300早盘收报4686.45点，涨1.28%。 科创50早盘收报1429.66点，涨2.82%。 中证500早盘收报7329.90点，涨1.39%。 中证1000早盘收报7534.79点，涨0.94%。",
-          "url": "https://wallstreetcn.com/livenews/3000294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据路透调查：预计阿根廷比索预计在12个月内贬值12.7%，兑美元汇率将跌至1660比索兑换1美元（10月调查预期为1655比索兑换1美元）。",
-          "url": "https://flash.jin10.com/detail/20251106220723257800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "据路透调查：预计未来三个月巴西雷亚尔兑美元汇率将稳定在5.36（10月调查时为5.40）。",
-          "url": "https://flash.jin10.com/detail/20251106220645936800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
         }
       ]
     }
