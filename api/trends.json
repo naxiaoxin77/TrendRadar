@@ -1,8 +1,80 @@
 {
-  "generated_at": "2025-11-07T00:24:57.673834+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-07T02:28:25.870023+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股 纳斯达克 港股 中概股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2193483",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时28分]"
+        },
+        {
+          "title": "Datadog美股盘初涨19%，创2022年2月份以来盘中新高。",
+          "url": "https://wallstreetcn.com/livenews/3000620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "金十图示：2025年11月06日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251107013137479800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异。 网络股指数ETF跌0.61%，可选消费ETF跌0.54%，全球科技股指数ETF跌0.48%，科技行业ETF跌0.25%，半导体ETF跌0.09%。 银行业ETF则涨0.32%，能源业ETF涨0.63%",
+          "url": "https://wallstreetcn.com/livenews/3000619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "金十图示：2025年11月06日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251107013117259800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "标普500指数低开8.70点，跌幅0.13%，报6787.59点； 道琼斯工业平均指数低开55.88点，跌幅0.12%，报47255.12点； 纳斯达克综合指数低开38.51点，跌幅0.16%，报23461.29点。",
+          "url": "https://wallstreetcn.com/livenews/3000616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        }
+      ]
+    },
     {
       "keyword_group": "美债",
       "match_count": 4,
@@ -12,11 +84,12 @@
           "url": "https://wallstreetcn.com/articles/3758696",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "标普500指数跌幅扩大至1%，可选消费板块跌2%，科技板块跌1.6%，电信板块跌1%，能源板块涨1.2%。 纳指跌超1.5%，半导体指数跌2.3%。 特朗普政府关门期间，民间机构提供的美国就业数据引发美债价格上涨。",
@@ -34,11 +107,12 @@
           "url": "https://wallstreetcn.com/articles/3758806",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "美股、黄金、比特币齐跌，日元和美债上涨，投资者静候一波美联储官员的讲话",
@@ -46,56 +120,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2193483",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "Datadog美股盘初涨19%，创2022年2月份以来盘中新高。",
-          "url": "https://wallstreetcn.com/livenews/3000620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "行业ETF美股盘初涨跌各异。 网络股指数ETF跌0.61%，可选消费ETF跌0.54%，全球科技股指数ETF跌0.48%，科技行业ETF跌0.25%，半导体ETF跌0.09%。 银行业ETF则涨0.32%，能源业ETF涨0.63%",
-          "url": "https://wallstreetcn.com/livenews/3000619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "标普500指数低开8.70点，跌幅0.13%，报6787.59点； 道琼斯工业平均指数低开55.88点，跌幅0.12%，报47255.12点； 纳斯达克综合指数低开38.51点，跌幅0.16%，报23461.29点。",
-          "url": "https://wallstreetcn.com/livenews/3000616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -112,22 +136,52 @@
           "url": "https://www.toutiao.com/trending/7569599100031602212/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "小鹏汽车是真做机器人还是炒作",
           "url": "https://www.toutiao.com/trending/7569605442133822985/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            23
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Meta Google",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Pytorch联席创始人Soumith Chintala离开扎克伯格的Meta Platforms。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3000700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "02时28分"
+        },
+        {
+          "title": "Meta、谷歌母公司Alphabet、Snap等避免美国审查年轻人对社交媒体成瘾的尝试失败。",
+          "url": "https://wallstreetcn.com/livenews/3000693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
         }
       ]
     },
@@ -143,8 +197,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时28分]"
         }
       ]
     }
