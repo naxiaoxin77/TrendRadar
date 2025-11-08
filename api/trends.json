@@ -1,12 +1,37 @@
 {
-  "generated_at": "2025-11-08T11:01:40.077277+08:00",
-  "total_titles_processed": 754,
+  "generated_at": "2025-11-08T12:27:21.329770+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
       "match_count": 20,
       "titles": [
+        {
+          "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2194710",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 12时27分]"
+        },
+        {
+          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
+          "url": "https://www.cls.cn/detail/2194839",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 12时27分]"
+        },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
           "url": "https://wallstreetcn.com/articles/3758914",
@@ -19,29 +44,28 @@
           "time_info": "[02时25分 ~ 06时18分]"
         },
         {
-          "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2194710",
-          "source": "财联社热门",
+          "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
+          "url": "https://flash.jin10.com/detail/20251108100037476800",
+          "source": "金十数据",
           "ranks": [
-            12,
             11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 11时01分]"
-        },
-        {
-          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
-          "url": "https://www.cls.cn/detail/2194839",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时17分 ~ 11时01分]"
+          "time_info": "[11时01分 ~ 12时27分]"
+        },
+        {
+          "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
+          "url": "https://wallstreetcn.com/livenews/3001463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时27分]"
         },
         {
           "title": "逢低买盘消退，美股指数集体低开，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -53,17 +77,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
-        },
-        {
-          "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
-          "url": "https://flash.jin10.com/detail/20251108100037476800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
         },
         {
           "title": "纳斯达克100指数本周迄今已经累计下跌3.9%，恐将创4月份金融市场崩跌以来最差单周表现。",
@@ -86,17 +99,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
-        },
-        {
-          "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
-          "url": "https://wallstreetcn.com/livenews/3001463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
         },
         {
           "title": "金十图示：2025年11月07日（周五）美股热门股票行情一览（美股收盘）",
@@ -289,6 +291,36 @@
       ]
     },
     {
+      "keyword_group": "Meta Google",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Meta确认6000亿美元投资计划 电力设备巨头上调订单指引 | 环球市场",
+          "url": "https://www.cls.cn/detail/2194848",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 12时27分]"
+        },
+        {
+          "title": "Meta去年靠诈骗广告赚1140亿",
+          "url": "https://www.baidu.com/s?wd=Meta%E5%8E%BB%E5%B9%B4%E9%9D%A0%E8%AF%88%E9%AA%97%E5%B9%BF%E5%91%8A%E8%B5%9A1140%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -325,11 +357,12 @@
           "url": "https://wallstreetcn.com/livenews/3001473",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时27分]"
         }
       ]
     },
@@ -347,24 +380,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Meta Google",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Meta确认6000亿美元投资计划 电力设备巨头上调订单指引 | 环球市场",
-          "url": "https://www.cls.cn/detail/2194848",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 11时01分]"
         }
       ]
     },
