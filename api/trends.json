@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T12:22:31.167393+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2025-11-09T14:25:47.456999+08:00",
+  "total_titles_processed": 734,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             2,
             6,
             19,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时16分 ~ 12时22分]"
+          "appearance_count": 5,
+          "time_info": "[06时16分 ~ 14时25分]"
         },
         {
           "title": "扎克伯格旗下Meta被曝靠海量诈骗广告赚取巨额利润，美国约三分之一的成功诈骗案件与其有关",
@@ -42,11 +43,12 @@
             4,
             8,
             21,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时16分 ~ 12时22分]"
+          "appearance_count": 5,
+          "time_info": "[06时16分 ~ 14时25分]"
         },
         {
           "title": "Meta被曝靠海量诈骗广告赚取巨额利润",
@@ -54,11 +56,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时22分]"
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 14时25分]"
         }
       ]
     },
@@ -73,11 +76,12 @@
           "ranks": [
             3,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 12时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 14时25分]"
         },
         {
           "title": "多位知名基金经理三季度提高港股仓位",
@@ -85,11 +89,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时22分]"
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 14时25分]"
         }
       ]
     },
@@ -127,11 +132,12 @@
             14,
             13,
             18,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 12时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 14时25分]"
         }
       ]
     },
