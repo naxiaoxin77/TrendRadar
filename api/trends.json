@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-09T20:33:42.300996+08:00",
-  "total_titles_processed": 1062,
+  "generated_at": "2025-11-09T22:17:02.631895+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "刘强东称「京东明年将建全球首个全无人配送站」，将如何颠覆物流行业？未来快递员会大规模失业吗？",
@@ -27,11 +27,34 @@
           "url": "https://wallstreetcn.com/livenews/3001687",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 22时17分]"
+        },
+        {
+          "title": "租电4.99万起 京东首款车上市",
+          "url": "https://www.toutiao.com/trending/7570317378459746346/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
+        },
+        {
+          "title": "京东国民好车10万以下续航王者",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9C%E5%9B%BD%E6%B0%91%E5%A5%BD%E8%BD%A610%E4%B8%87%E4%BB%A5%E4%B8%8B%E7%BB%AD%E8%88%AA%E7%8E%8B%E8%80%85%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26c_type%3D31%26realpos%3D20%26cate%3D5001%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259C%25E5%259B%25BD%25E6%25B0%2591%25E5%25A5%25BD%25E8%25BD%25A610%25E4%25B8%2587%25E4%25BB%25A5%25E4%25B8%258B%25E7%25BB%25AD%25E8%2588%25AA%25E7%258E%258B%25E8%2580%2585%2523%26dgr%3D0%26pos%3D21%26flag%3D1%26stream_entry_id%3D31%26band_rank%3D20%26filter_type%3Drealtimehot%26display_time%3D1762697710%26pre_seqid%3D17626977108480241158764&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
         },
         {
           "title": "下周重磅日程：腾讯阿里美团京东财报，中国10月经济数据",
@@ -157,11 +180,12 @@
           "url": "https://wallstreetcn.com/articles/3758989",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 20时33分]"
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 22时17分]"
         }
       ]
     },
@@ -181,11 +205,12 @@
             22,
             21,
             24,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 20时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 22时17分]"
         }
       ]
     },
