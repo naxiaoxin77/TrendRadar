@@ -1,191 +1,55 @@
 {
-  "generated_at": "2025-11-09T22:17:02.631895+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2025-11-10T00:20:47.459853+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 6,
+      "match_count": 4,
       "titles": [
         {
-          "title": "刘强东称「京东明年将建全球首个全无人配送站」，将如何颠覆物流行业？未来快递员会大规模失业吗？",
-          "url": "https://www.zhihu.com/question/1970170202156175445",
-          "source": "知乎",
+          "title": "租电4.99万起 京东首款车上市",
+          "url": "https://www.toutiao.com/trending/7570317378459746346/",
+          "source": "今日头条",
           "ranks": [
-            9,
-            8,
-            13,
-            10,
-            19
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 09时24分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        },
+        {
+          "title": "4.99万元起 京东第一辆车价格定了",
+          "url": "https://www.baidu.com/s?wd=4.99%E4%B8%87%E5%85%83%E8%B5%B7+%E4%BA%AC%E4%B8%9C%E7%AC%AC%E4%B8%80%E8%BE%86%E8%BD%A6%E4%BB%B7%E6%A0%BC%E5%AE%9A%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
         },
         {
           "title": "京东“国民好车”埃安UT super正式发布，最低仅4.99万元",
           "url": "https://wallstreetcn.com/livenews/3001687",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            10
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时33分 ~ 22时17分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         },
         {
-          "title": "租电4.99万起 京东首款车上市",
-          "url": "https://www.toutiao.com/trending/7570317378459746346/",
+          "title": "京东联合“造车”背后的生态野心",
+          "url": "https://www.toutiao.com/trending/7569998480161816617/",
           "source": "今日头条",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
-        },
-        {
-          "title": "京东国民好车10万以下续航王者",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9C%E5%9B%BD%E6%B0%91%E5%A5%BD%E8%BD%A610%E4%B8%87%E4%BB%A5%E4%B8%8B%E7%BB%AD%E8%88%AA%E7%8E%8B%E8%80%85%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26c_type%3D31%26realpos%3D20%26cate%3D5001%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259C%25E5%259B%25BD%25E6%25B0%2591%25E5%25A5%25BD%25E8%25BD%25A610%25E4%25B8%2587%25E4%25BB%25A5%25E4%25B8%258B%25E7%25BB%25AD%25E8%2588%25AA%25E7%258E%258B%25E8%2580%2585%2523%26dgr%3D0%26pos%3D21%26flag%3D1%26stream_entry_id%3D31%26band_rank%3D20%26filter_type%3Drealtimehot%26display_time%3D1762697710%26pre_seqid%3D17626977108480241158764&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
-        },
-        {
-          "title": "下周重磅日程：腾讯阿里美团京东财报，中国10月经济数据",
-          "url": "https://wallstreetcn.com/articles/3758913",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "京东惊喜之夜发黄金钻石手表",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9C%E6%83%8A%E5%96%9C%E4%B9%8B%E5%A4%9C%E5%8F%91%E9%BB%84%E9%87%91%E9%92%BB%E7%9F%B3%E6%89%8B%E8%A1%A8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D20%26lcate%3D5001%26band_rank%3D20%26stream_entry_id%3D31%26pos%3D21%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259C%25E6%2583%258A%25E5%2596%259C%25E4%25B9%258B%25E5%25A4%259C%25E5%258F%2591%25E9%25BB%2584%25E9%2587%2591%25E9%2592%25BB%25E7%259F%25B3%25E6%2589%258B%25E8%25A1%25A8%2523%26dgr%3D0%26flag%3D1%26cate%3D5001%26display_time%3D1762683323%26pre_seqid%3D17626833239420160847995&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Meta Google",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "Meta确认6000亿美元投资计划 电力设备巨头上调订单指引 | 环球市场",
-          "url": "https://www.cls.cn/detail/2194848",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 09时24分]"
-        },
-        {
-          "title": "Meta披露对美国6000亿美元投资承诺的细节信息",
-          "url": "https://wallstreetcn.com/livenews/3001614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            19,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时16分 ~ 14时25分]"
-        },
-        {
-          "title": "扎克伯格旗下Meta被曝靠海量诈骗广告赚取巨额利润，美国约三分之一的成功诈骗案件与其有关",
-          "url": "https://wallstreetcn.com/livenews/3001612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            21,
-            22,
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时16分 ~ 14时25分]"
-        },
-        {
-          "title": "Meta被曝靠海量诈骗广告赚取巨额利润",
-          "url": "https://flash.jin10.com/detail/20251109095925603800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时13分 ~ 14时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
-          "url": "https://www.cls.cn/detail/2194839",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 16时21分]"
-        },
-        {
-          "title": "多位知名基金经理三季度提高港股仓位",
-          "url": "https://wallstreetcn.com/livenews/3001621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            14,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 16时21分]"
-        },
-        {
-          "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
-          "url": "https://wallstreetcn.com/articles/3758989",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 22时17分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         }
       ]
     },
@@ -198,37 +62,28 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346888&amp;topic_name=%E6%BD%AE%E7%8E%A9%E5%88%BA%E5%AE%A2%3F%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E7%8E%B0%E5%8E%9F%E5%BD%A2",
           "source": "贴吧",
           "ranks": [
-            12,
-            14,
-            13,
-            18,
-            22,
-            21,
-            24,
-            25,
-            28
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 22时17分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "美股 纳斯达克 港股 中概股",
       "match_count": 1,
       "titles": [
         {
-          "title": "下周美国市场也不好过？美债发行潮来袭，流动性“雪上加霜”",
-          "url": "https://wallstreetcn.com/articles/3758965",
+          "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
+          "url": "https://wallstreetcn.com/articles/3758989",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            2
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 09时24分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         }
       ]
     }
