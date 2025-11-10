@@ -1,520 +1,189 @@
 {
-  "generated_at": "2025-11-10T22:19:35.775095+08:00",
-  "total_titles_processed": 1544,
+  "generated_at": "2025-11-11T00:24:47.456085+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 13,
+      "match_count": 7,
       "titles": [
         {
-          "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
-          "url": "https://wallstreetcn.com/articles/3758989",
+          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
+          "url": "https://wallstreetcn.com/articles/3759034",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6,
-            4,
-            3
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 16时27分]"
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "大摩策略师Wilson：2026年企业盈利将推动美股稳健上涨",
+          "url": "https://wallstreetcn.com/livenews/3002226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "纳指涨超2%，纳斯达克100指数成分股Palantir涨7.1%，美光科技涨6.9%，Applovin涨6.3%，AMD涨5.5%，英伟达涨3.8%，谷歌A涨3.5%，特许通讯仍然跌2.4%，Axon跌3.2%。 标普涨1.1%，道指涨0.3%，半导体指数涨2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3002225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
         },
         {
           "title": "一口气看清美股AI泡沫",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            10,
-            4,
-            9,
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时18分 ~ 22时19分]"
-        },
-        {
-          "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
-          "url": "https://wallstreetcn.com/articles/3759018",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 16时27分]"
-        },
-        {
-          "title": "港股自动驾驶IPO热潮再起！有企业已拿下10亿订单 专家：服务业也需向“两化”加速升级",
-          "url": "https://wallstreetcn.com/livenews/3002162",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 22时19分]"
-        },
-        {
-          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
-          "url": "https://wallstreetcn.com/articles/3759034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 22时19分]"
-        },
-        {
-          "title": "A股涨跌互现，创业板跌0.9%，大消费集体爆发，港股全线收涨，恒指涨超1%",
-          "url": "https://wallstreetcn.com/articles/3759020",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 22时19分]"
-        },
-        {
-          "title": "现货黄金此前触及两周高点，美股黄金矿业股盘前上涨。金罗斯黄金(KGC.N)涨3.5%，哈莫尼黄金(HMY.N)涨5.5%，金田(GFI.N)涨5.8%。",
-          "url": "https://flash.jin10.com/detail/20251110175803111800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "00时24分"
         },
         {
-          "title": "美股无惧停摆与美联储指引 华尔街高呼“暂时性逆风”不改大局",
-          "url": "https://flash.jin10.com/detail/20251110175802667800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "纳斯达克股指期货涨幅扩大至1.2%。标普500股指期货涨幅扩大至近0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3001912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3002194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "美股盘前，明星科技股普涨，英伟达涨超3%，英特尔涨超1.8%，甲骨文涨超2%，台积电涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3002065",
+          "title": "行业ETF美股盘初多数上涨，半导体ETF、全球科技股指数ETF、科技行业ETF至多涨2.69%。",
+          "url": "https://wallstreetcn.com/livenews/3002213",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "00时24分"
         },
         {
-          "title": "纳斯达克100指数期货涨幅扩大至1%。标普500指数期货涨0.6%。欧洲斯托克50指数期货1.4%。德国DAX指数期货涨1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3001853",
+          "title": "纳斯达克金龙中国指数涨2%。 热门中概股里，阿特斯太阳能涨10.8%，小鹏涨7.3%，亚朵、华住、世纪互联、小马智行、携程涨超4%。 ETF中，KWEB涨1.5%，CQQQ涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3002209",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "00时24分"
         },
         {
-          "title": "港股三桶油持续上涨行情，其中，中国石油股份涨超2％续刷阶段新高，并且录得7连涨行情，中国海洋石油涨1.13％，中国石油化工涨约1％。",
-          "url": "https://wallstreetcn.com/livenews/3001851",
+          "title": "标普500指数高开56.56点，涨幅0.84%，报6785.36点； 道琼斯工业平均指数高开107.96点，涨幅0.23%，报47095.06点； 纳斯达克综合指数高开350.31点，涨幅1.52%，报23354.85点。",
+          "url": "https://wallstreetcn.com/livenews/3002207",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "00时24分"
         }
       ]
     },
     {
       "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 11,
+      "match_count": 2,
       "titles": [
         {
-          "title": "下周重磅日程：腾讯京东中芯国际财报，中国10月经济数据",
-          "url": "https://wallstreetcn.com/articles/3758998",
-          "source": "华尔街见闻",
+          "title": "4.99万起售,京东汽车卷死同行",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346932&amp;topic_name=4.99%E4%B8%87%E8%B5%B7%E5%94%AE%2C%E4%BA%AC%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%8D%B7%E6%AD%BB%E5%90%8C%E8%A1%8C",
+          "source": "贴吧",
           "ranks": [
-            6,
-            4,
-            3
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时25分 ~ 20时38分]"
-        },
-        {
-          "title": "4.99万元起 京东第一辆车价格定了",
-          "url": "https://www.baidu.com/s?wd=4.99%E4%B8%87%E5%85%83%E8%B5%B7+%E4%BA%AC%E4%B8%9C%E7%AC%AC%E4%B8%80%E8%BE%86%E8%BD%A6%E4%BB%B7%E6%A0%BC%E5%AE%9A%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            8,
-            6,
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 12时27分]"
-        },
-        {
-          "title": "租电4.99万起 京东首款车上市",
-          "url": "https://www.toutiao.com/trending/7570317378459746346/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 1,
+          "time_info": "00时24分"
         },
         {
           "title": "一辆4.99万的车藏着京东怎样的棋局",
           "url": "https://www.toutiao.com/trending/7571001834857303593/",
           "source": "今日头条",
           "ranks": [
-            4,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 22时19分]"
-        },
-        {
-          "title": "4.99万起售,京东汽车卷死同行",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346932&amp;topic_name=4.99%E4%B8%87%E8%B5%B7%E5%94%AE%2C%E4%BA%AC%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%8D%B7%E6%AD%BB%E5%90%8C%E8%A1%8C",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 22时19分]"
-        },
-        {
-          "title": "京东自营商家的不可承受之重",
-          "url": "https://www.toutiao.com/trending/7570876246175780395/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 14时30分]"
-        },
-        {
-          "title": "京东“国民好车”埃安UT super正式发布，最低仅4.99万元",
-          "url": "https://wallstreetcn.com/livenews/3001687",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时18分]"
-        },
-        {
-          "title": "米卡在京东直播说猕猴桃头太冷了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%B1%B3%E5%8D%A1%E5%9C%A8%E4%BA%AC%E4%B8%9C%E7%9B%B4%E6%92%AD%E8%AF%B4%E7%8C%95%E7%8C%B4%E6%A1%83%E5%A4%B4%E5%A4%AA%E5%86%B7%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D21%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26q%3D%2523%25E7%25B1%25B3%25E5%258D%25A1%25E5%259C%25A8%25E4%25BA%25AC%25E4%25B8%259C%25E7%259B%25B4%25E6%2592%25AD%25E8%25AF%25B4%25E7%258C%2595%25E7%258C%25B4%25E6%25A1%2583%25E5%25A4%25B4%25E5%25A4%25AA%25E5%2586%25B7%25E4%25BA%2586%2523%26band_rank%3D20%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D20%26dgr%3D0%26display_time%3D1762748651%26pre_seqid%3D17627486511470184372557&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
-        },
-        {
-          "title": "三方负责人详解“京东汽车”五大疑问",
-          "url": "https://www.toutiao.com/trending/7570875029550796351/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
-        },
-        {
-          "title": "京东双11请客送手机羽绒服化妆品",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9C%E5%8F%8C11%E8%AF%B7%E5%AE%A2%E9%80%81%E6%89%8B%E6%9C%BA%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%8C%96%E5%A6%86%E5%93%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26realpos%3D20%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259C%25E5%258F%258C11%25E8%25AF%25B7%25E5%25AE%25A2%25E9%2580%2581%25E6%2589%258B%25E6%259C%25BA%25E7%25BE%25BD%25E7%25BB%2592%25E6%259C%258D%25E5%258C%2596%25E5%25A6%2586%25E5%2593%2581%2523%26dgr%3D0%26c_type%3D31%26stream_entry_id%3D31%26cate%3D5001%26pos%3D21%26flag%3D1%26filter_type%3Drealtimehot%26band_rank%3D20%26display_time%3D1762744690%26pre_seqid%3D17627446899900272368868&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            20
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "京东联合“造车”背后的生态野心",
-          "url": "https://www.toutiao.com/trending/7569998480161816617/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "time_info": "00时24分"
         }
       ]
     },
     {
-      "keyword_group": "招股书 融资",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "据美国纽约联储数据，上个交易日（11月7日）担保隔夜融资利率（SOFR）报3.93%，之前一天报3.92%。 上个交易日有效的联邦基金利率报3.87%，之前一天报3.87%。",
-          "url": "https://wallstreetcn.com/livenews/3002200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "美国参议院共和党（临时）融资立法草案限制“致醉性工业大麻产品”。",
-          "url": "https://wallstreetcn.com/livenews/3001721",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 06时17分]"
-        },
-        {
-          "title": "两市融资余额减少50.19亿元",
-          "url": "https://wallstreetcn.com/livenews/3001804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "国办：推广“创新积分制”，引导金融资源精准聚焦服务科技型企业",
-          "url": "https://wallstreetcn.com/livenews/3002072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "中国移动已参与新石器无人车D轮融资，将进行城市物流定制化无人车联合开发",
-          "url": "https://wallstreetcn.com/livenews/3001927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米集团 泡泡玛特 POP MART",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "潮玩刺客?泡泡玛特现原形",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346888&amp;topic_name=%E6%BD%AE%E7%8E%A9%E5%88%BA%E5%AE%A2%3F%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E7%8E%B0%E5%8E%9F%E5%BD%A2",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            27,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 11时18分]"
-        },
-        {
-          "title": "港股新消费走强，沪上阿姨涨超10%，泡泡玛特涨超6%，卫龙美味、奈雪的茶、茶百道、蜜雪集团等个股跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3001887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 12时27分]"
-        },
-        {
-          "title": "港股收盘：恒生指数收涨1.55%，恒生科技指数收涨1.34%，科技股多数走高，腾讯涨超2%；消费股走势活跃，泡泡玛特涨超8%。",
-          "url": "https://wallstreetcn.com/livenews/3002034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "泡泡玛特情绪生意面临考验",
-          "url": "https://www.toutiao.com/trending/7571023999111532038/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证",
+      "keyword_group": "TikTok Shopee",
       "match_count": 2,
       "titles": [
         {
-          "title": "上证指数早盘收报3996.26点，跌0.03%。 深证成指早盘收报13325.35点，跌0.59%。 创业板指早盘收报3139.88点，跌2.13%。 沪深300早盘收报4667.62点，跌0.24%。 科创50早盘收报1390.89点，跌1.75%。 中证500早盘收报7293.50点，跌0.47%。 中证1000早盘收报7520.16点，跌0.29%。",
-          "url": "https://wallstreetcn.com/livenews/3001904",
+          "title": "TikTok将推出Podcast Network。",
+          "url": "https://wallstreetcn.com/livenews/3002237",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时27分"
+          "time_info": "00时24分"
         },
         {
-          "title": "A股主要指数午后拉升，沪指涨0.28%，深成指转涨，创业板指跌幅收窄至1.2%，早盘一度跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3001946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "李斌在蔚来电池科技公司职位发生变更，由董事长变更为董事",
-          "url": "https://wallstreetcn.com/livenews/3001881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 12时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Meta Google",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中信建投：Meta确认6000亿美元AI投资计划，中科曙光发布640卡超节点",
-          "url": "https://wallstreetcn.com/livenews/3001963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "欧美债券收益率同步上涨，市场寄望美国政府结束停摆",
-          "url": "https://flash.jin10.com/detail/20251110160650766800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "随着全球股市因对美国政府停摆即将结束的乐观情绪而上涨，以色列新谢克尔兑美元汇率创下三年半新高。",
-          "url": "https://flash.jin10.com/detail/20251110173331307800",
+          "title": "iHeartMedia与TikTok合作，将创作者引入播客、广播、数字电台及现场活动。",
+          "url": "https://flash.jin10.com/detail/20251111000029886800",
           "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "00时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "招股书 融资",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "核能初创公司Valar Atomics融资1.3亿美元，投资方包括洛克希德-马丁、Anduril Industries Inc.的创始人Palmer Luckey、以及其他方面。 该公司计划修建高级先进核裂变反应堆。",
+          "url": "https://wallstreetcn.com/livenews/3002242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "以色列Remilk获阿联酋基金2000万美元融资 寻求海湾地区大规模生产",
+          "url": "https://flash.jin10.com/detail/20251110234605558800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纽交所金矿股指数涨3.7%，创10月16日以来最佳盘中表现。 GAU涨13.2%，赫克拉矿业涨7.7%，ASM涨7%，THM涨7.2%，PPTA涨6%，AG涨5.3%，巴里克矿业涨5.3%，金田公司涨5.2%，哈莫尼黄金和B2gold涨5%，泛美白银涨4.9%，科尔黛伦矿业涨4%，金矿股ETF涨3.2%，黄金矿工因素指数ETF涨3.2%，白银ETF涨2.7%，金条价格ETF涨2.1%，黄金ETF涨1.9%。 此外，多伦多上市的Santacruz Silver Mining Ltd.涨17%，创最近14周最大盘中涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3002210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
         }
       ]
     }
