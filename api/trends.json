@@ -1,12 +1,171 @@
 {
-  "generated_at": "2025-11-10T18:22:35.226106+08:00",
-  "total_titles_processed": 1245,
+  "generated_at": "2025-11-10T20:38:37.793814+08:00",
+  "total_titles_processed": 1388,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股 纳斯达克 港股 中概股",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
+          "url": "https://wallstreetcn.com/articles/3758989",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 16时27分]"
+        },
+        {
+          "title": "一口气看清美股AI泡沫",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            4,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 20时38分]"
+        },
+        {
+          "title": "港股自动驾驶IPO热潮再起！有企业已拿下10亿订单 专家：服务业也需向“两化”加速升级",
+          "url": "https://wallstreetcn.com/livenews/3002162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
+          "url": "https://wallstreetcn.com/articles/3759018",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 16时27分]"
+        },
+        {
+          "title": "现货黄金此前触及两周高点，美股黄金矿业股盘前上涨。金罗斯黄金(KGC.N)涨3.5%，哈莫尼黄金(HMY.N)涨5.5%，金田(GFI.N)涨5.8%。",
+          "url": "https://flash.jin10.com/detail/20251110175803111800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "美股无惧停摆与美联储指引 华尔街高呼“暂时性逆风”不改大局",
+          "url": "https://flash.jin10.com/detail/20251110175802667800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "纳斯达克股指期货涨幅扩大至1.2%。标普500股指期货涨幅扩大至近0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3001912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "A股涨跌互现，创业板跌0.9%，大消费集体爆发，港股全线收涨，恒指涨超1%",
+          "url": "https://wallstreetcn.com/articles/3759020",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
+          "url": "https://wallstreetcn.com/articles/3759034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "美股盘前，明星科技股普涨，英伟达涨超3%，英特尔涨超1.8%，甲骨文涨超2%，台积电涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3002065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "纳斯达克100指数期货涨幅扩大至1%。标普500指数期货涨0.6%。欧洲斯托克50指数期货1.4%。德国DAX指数期货涨1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3001853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "港股三桶油持续上涨行情，其中，中国石油股份涨超2％续刷阶段新高，并且录得7连涨行情，中国海洋石油涨1.13％，中国石油化工涨约1％。",
+          "url": "https://wallstreetcn.com/livenews/3001851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        }
+      ]
+    },
     {
       "keyword_group": "阿里巴巴 京东 拼多多 冬海",
       "match_count": 11,
       "titles": [
+        {
+          "title": "下周重磅日程：腾讯京东中芯国际财报，中国10月经济数据",
+          "url": "https://wallstreetcn.com/articles/3758998",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时25分 ~ 20时38分]"
+        },
         {
           "title": "4.99万元起 京东第一辆车价格定了",
           "url": "https://www.baidu.com/s?wd=4.99%E4%B8%87%E5%85%83%E8%B5%B7+%E4%BA%AC%E4%B8%9C%E7%AC%AC%E4%B8%80%E8%BE%86%E8%BD%A6%E4%BB%B7%E6%A0%BC%E5%AE%9A%E4%BA%86",
@@ -21,19 +180,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时20分 ~ 12时27分]"
-        },
-        {
-          "title": "下周重磅日程：腾讯京东中芯国际财报，中国10月经济数据",
-          "url": "https://wallstreetcn.com/articles/3758998",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时25分 ~ 18时22分]"
         },
         {
           "title": "租电4.99万起 京东首款车上市",
@@ -52,11 +198,12 @@
           "url": "https://www.toutiao.com/trending/7571001834857303593/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 20时38分]"
         },
         {
           "title": "京东自营商家的不可承受之重",
@@ -71,6 +218,19 @@
           "time_info": "[11时18分 ~ 14时30分]"
         },
         {
+          "title": "4.99万起售,京东汽车卷死同行",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346932&amp;topic_name=4.99%E4%B8%87%E8%B5%B7%E5%94%AE%2C%E4%BA%AC%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%8D%B7%E6%AD%BB%E5%90%8C%E8%A1%8C",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 20时38分]"
+        },
+        {
           "title": "京东“国民好车”埃安UT super正式发布，最低仅4.99万元",
           "url": "https://wallstreetcn.com/livenews/3001687",
           "source": "华尔街见闻-快讯",
@@ -81,18 +241,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时20分 ~ 04时18分]"
-        },
-        {
-          "title": "4.99万起售,京东汽车卷死同行",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346932&amp;topic_name=4.99%E4%B8%87%E8%B5%B7%E5%94%AE%2C%E4%BA%AC%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%8D%B7%E6%AD%BB%E5%90%8C%E8%A1%8C",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 18时22分]"
         },
         {
           "title": "米卡在京东直播说猕猴桃头太冷了",
@@ -137,118 +285,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
-          "url": "https://wallstreetcn.com/articles/3758989",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 16时27分]"
-        },
-        {
-          "title": "一口气看清美股AI泡沫",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 18时22分]"
-        },
-        {
-          "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
-          "url": "https://wallstreetcn.com/articles/3759018",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 16时27分]"
-        },
-        {
-          "title": "现货黄金此前触及两周高点，美股黄金矿业股盘前上涨。金罗斯黄金(KGC.N)涨3.5%，哈莫尼黄金(HMY.N)涨5.5%，金田(GFI.N)涨5.8%。",
-          "url": "https://flash.jin10.com/detail/20251110175803111800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "美股无惧停摆与美联储指引 华尔街高呼“暂时性逆风”不改大局",
-          "url": "https://flash.jin10.com/detail/20251110175802667800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "纳斯达克股指期货涨幅扩大至1.2%。标普500股指期货涨幅扩大至近0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3001912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "美股盘前，明星科技股普涨，英伟达涨超3%，英特尔涨超1.8%，甲骨文涨超2%，台积电涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3002065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "纳斯达克100指数期货涨幅扩大至1%。标普500指数期货涨0.6%。欧洲斯托克50指数期货1.4%。德国DAX指数期货涨1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3001853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "港股三桶油持续上涨行情，其中，中国石油股份涨超2％续刷阶段新高，并且录得7连涨行情，中国海洋石油涨1.13％，中国石油化工涨约1％。",
-          "url": "https://wallstreetcn.com/livenews/3001851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
         }
       ]
     },
@@ -300,7 +336,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         }
@@ -340,7 +376,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -448,7 +484,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         }
