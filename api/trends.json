@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T02:26:43.829510+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2025-11-12T04:20:42.167019+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时20分]"
         },
         {
           "title": "京东双11采销直播间订单量同比超150%，数字人直播带动GMV超23亿元",
@@ -36,7 +36,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
         }
@@ -54,8 +54,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时20分]"
         },
         {
           "title": "NeoCloud（新云）供应商Nebius Group NV下跌超5.6%，Meta Platforms跌1.5%。 两家公司签署人工智能（AI）基础设施协议，Nebius三季度销售同比激增355%至1.46亿美元。",
@@ -81,7 +81,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
         },
@@ -92,7 +92,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
         }
@@ -125,11 +125,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 04时20分]"
         }
       ]
     },
@@ -146,8 +147,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 04时20分]"
         }
       ]
     }
