@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T11:13:17.472055+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2025-11-11T12:23:32.104500+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 11时13分]"
+          "appearance_count": 4,
+          "time_info": "[09时22分 ~ 12时23分]"
         },
         {
           "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
@@ -28,8 +28,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 11时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 12时23分]"
+        },
+        {
+          "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
+          "url": "https://www.cls.cn/detail/2196552",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时22分 ~ 12时23分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -44,18 +56,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时24分 ~ 06时18分]"
-        },
-        {
-          "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
-          "url": "https://www.cls.cn/detail/2196552",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 11时13分]"
         },
         {
           "title": "周一（11月10日）纽约尾盘，标普500股指期货最终上涨1.56%，道指期货涨0.80%，纳斯达克100股指期货涨2.22%。 罗素2000股指期货涨0.98%。",
@@ -76,8 +76,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
+          "appearance_count": 3,
+          "time_info": "[11时12分 ~ 12时23分]"
         },
         {
           "title": "加密货币与加密货币关联指数收跌0.77%，报82.51点，美股盘初呈现出高开低走状态。 周一（11月10日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨1.73%，至接近10.6万美元的水平。 CME以太币期货DCR主力合约涨1.86%，报3540美元。 北京时间05:54，现货比特币涨0.82%，以太坊跌1.14%，Solana跌0.34%，狗狗币跌0.39%，XRP涨7.46%。",
@@ -122,6 +122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "美股 AI 科技股遭惨烈一周，英伟达等八巨头市值缩水 8000 亿美元，会否重蹈互联网泡沫的走势？",
+          "url": "https://www.zhihu.com/question/1971153219230066622",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         },
         {
           "title": "大摩策略师Wilson：2026年企业盈利将推动美股稳健上涨",
@@ -334,6 +345,20 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "4.99万起售,京东汽车卷死同行",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346932&amp;topic_name=4.99%E4%B8%87%E8%B5%B7%E5%94%AE%2C%E4%BA%AC%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%8D%B7%E6%AD%BB%E5%90%8C%E8%A1%8C",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            13,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 12时23分]"
+        },
+        {
           "title": "一辆4.99万的车藏着京东怎样的棋局",
           "url": "https://www.toutiao.com/trending/7571001834857303593/",
           "source": "今日头条",
@@ -346,19 +371,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时24分 ~ 06时18分]"
-        },
-        {
-          "title": "4.99万起售,京东汽车卷死同行",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346932&amp;topic_name=4.99%E4%B8%87%E8%B5%B7%E5%94%AE%2C%E4%BA%AC%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%8D%B7%E6%AD%BB%E5%90%8C%E8%A1%8C",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 11时13分]"
         },
         {
           "title": "景林资产第三季增持阿里巴巴和拼多多等，大举建仓文远知行",
@@ -440,7 +452,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         }
@@ -460,6 +472,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 04时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上证指数早盘收报4003.17点，跌0.38%。 深证成指早盘收报13357.43点，跌0.52%。 创业板指早盘收报3155.29点，跌0.74%。 沪深300早盘收报4663.53点，跌0.67%。 科创50早盘收报1397.48点，跌0.72%。 中证500早盘收报7319.33点，跌0.33%。 中证1000早盘收报7574.59点，涨0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3002497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         }
       ]
     }
