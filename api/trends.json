@@ -1,8 +1,157 @@
 {
-  "generated_at": "2025-11-12T04:20:42.167019+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2025-11-12T06:18:18.152103+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股 纳斯达克 港股 中概股",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "周二（11月11日）纽约尾盘，标普500股指期货最终上涨0.25%，道指期货涨1.21%，纳斯达克100股指期货跌0.23%。 罗素2000股指期货涨0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3002998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "纳斯达克生物科技指数收涨超2.9%，成分股Theravance Biopharma收涨22.55%，Edgewise Therapeutics涨17.51%，uniQure NV涨17.48%，Autolus Therapeutics涨14.39%表现第四。 Pyxis Oncology则收跌4.19%表现倒数第三，Humacyte跌5.19%，Olema跌5.86%。",
+          "url": "https://wallstreetcn.com/livenews/3002990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
+          "url": "https://wallstreetcn.com/livenews/3002988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "AMD股价美股盘后涨4.5%。",
+          "url": "https://wallstreetcn.com/livenews/3002982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "纳斯达克：截至10月31日，所有纳斯达克证券的空头持仓总量为172.7亿股。",
+          "url": "https://flash.jin10.com/detail/20251112051045341800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251112013235058800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "纳斯达克：截至10月31日，纳斯达克全球市场证券空头头寸总量达140.8亿股，纳斯达克资本市场证券空头头寸总量达31.9亿股。",
+          "url": "https://flash.jin10.com/detail/20251112050956822800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "金十图示：2025年11月11日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251112013227930800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251112050821592800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "生物科技ETF收涨将近2.9%，和医疗业ETF领跑美股行业ETF，半导体ETF跌超2.1%",
+          "url": "https://wallstreetcn.com/livenews/3002976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "金十图示：2025年11月11日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251112050514200800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.06%，报8233.31点。 热门中概股里，阿特斯太阳能跌7.8%，晶科能源跌5.3%，腾讯音乐跌3.7%，阿里跌3.2%，B站跌1.9%，网易涨1.5%，贝壳涨1.8%，百胜中国涨3%，小鹏涨7.6%。 ETF中，中国科技指数ETF（CQQQ）收跌0.98%，中概互联网指数ETF（KWEB）收跌0.60%。 德银嘉实沪深300指数ETF（ASHR）收跌0.96%，XtrackersHarvest中证50（ASHS）收跌0.68%。",
+          "url": "https://wallstreetcn.com/livenews/3002973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 英伟达跌近3%",
+          "url": "https://flash.jin10.com/detail/20251112050055390800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        }
+      ]
+    },
     {
       "keyword_group": "阿里巴巴 京东 拼多多 冬海",
       "match_count": 3,
@@ -15,8 +164,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时18分]"
         },
         {
           "title": "京东双11采销直播间订单量同比超150%，数字人直播带动GMV超23亿元",
@@ -54,8 +203,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时18分]"
         },
         {
           "title": "NeoCloud（新云）供应商Nebius Group NV下跌超5.6%，Meta Platforms跌1.5%。 两家公司签署人工智能（AI）基础设施协议，Nebius三季度销售同比激增355%至1.46亿美元。",
@@ -67,34 +216,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251112013235058800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "金十图示：2025年11月11日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251112013227930800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
         }
       ]
     },
@@ -126,11 +247,12 @@
           "ranks": [
             26,
             30,
-            28
+            28,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时18分]"
         }
       ]
     },
@@ -147,8 +269,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时18分]"
         }
       ]
     }
