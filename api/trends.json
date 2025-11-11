@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T18:21:34.460685+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2025-11-11T20:38:54.055291+08:00",
+  "total_titles_processed": 1505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
@@ -137,6 +137,17 @@
           "time_info": "12时23分"
         },
         {
+          "title": "CoreWeave美股盘前跌超10%，公司三季度营收13.6亿美元超预期，建设缓慢导致下调全年营收指引。瑞穗证券将CoreWeave目标价从150美元下调至120美元。",
+          "url": "https://wallstreetcn.com/livenews/3002786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "大摩策略师Wilson：2026年企业盈利将推动美股稳健上涨",
           "url": "https://wallstreetcn.com/livenews/3002226",
           "source": "华尔街见闻-快讯",
@@ -198,7 +209,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -220,7 +231,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -297,7 +308,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -332,8 +343,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 18时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 20时38分]"
         },
         {
           "title": "一辆4.99万的车藏着京东怎样的棋局",
@@ -446,6 +457,57 @@
       ]
     },
     {
+      "keyword_group": "Meta Google",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "“大空头”切换“战斗模式”！Burry：科技巨头“低估折旧导致利润虚高”，2028年甲骨文利润虚高26.9%，Meta虚高20.8%",
+          "url": "https://wallstreetcn.com/articles/3759101",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时28分 ~ 20时38分]"
+        },
+        {
+          "title": "Meta美股盘前扩大跌幅，一度跌1.7%。据英国金融时报，Meta Platforms首席人工智能科学家Yann Lecun计划离职创办自己的初创公司。",
+          "url": "https://wallstreetcn.com/livenews/3002781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "Meta首席AI科学家离职 公司AI战略加速重组",
+          "url": "https://flash.jin10.com/detail/20251111193748153800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "据英国金融时报：Meta Platforms(META.O)首席人工智能科学家Yann Lecun计划离职创办自己的初创公司。",
+          "url": "https://flash.jin10.com/detail/20251111193633322800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
       "match_count": 2,
       "titles": [
@@ -530,44 +592,20 @@
       ]
     },
     {
-      "keyword_group": "小米集团 泡泡玛特 POP MART",
-      "match_count": 1,
+      "keyword_group": "美债",
+      "match_count": 2,
       "titles": [
         {
-          "title": "详解泡泡玛特的商业模式",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E7%9A%84%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F",
-          "source": "bilibili 热搜",
+          "title": "分析师：投资者寻求美债替代品需谨慎",
+          "url": "https://flash.jin10.com/detail/20251111201223101800",
+          "source": "金十数据",
           "ranks": [
-            5
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Meta Google",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“大空头”切换“战斗模式”！Burry：科技巨头“低估折旧导致利润虚高”，2028年甲骨文利润虚高26.9%，Meta虚高20.8%",
-          "url": "https://wallstreetcn.com/articles/3759101",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时28分 ~ 18时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
+          "time_info": "20时38分"
+        },
         {
           "title": "近30年全球央行黄金持有首次超美债",
           "url": "https://www.baidu.com/s?wd=%E8%BF%9130%E5%B9%B4%E5%85%A8%E7%90%83%E5%A4%AE%E8%A1%8C%E9%BB%84%E9%87%91%E6%8C%81%E6%9C%89%E9%A6%96%E6%AC%A1%E8%B6%85%E7%BE%8E%E5%80%BA",
@@ -578,6 +616,24 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 04时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米集团 泡泡玛特 POP MART",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "详解泡泡玛特的商业模式",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E7%9A%84%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 20时38分]"
         }
       ]
     },
