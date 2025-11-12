@@ -1,561 +1,8 @@
 {
-  "generated_at": "2025-11-12T22:20:46.168367+08:00",
-  "total_titles_processed": 1652,
+  "generated_at": "2025-11-13T00:25:38.102746+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 26,
-      "titles": [
-        {
-          "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
-          "url": "https://www.cls.cn/detail/2197739",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时22分 ~ 14时29分]"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2025-11-12）",
-          "url": "https://flash.jin10.com/detail/20251112091116604800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "周二（11月11日）纽约尾盘，标普500股指期货最终上涨0.25%，道指期货涨1.21%，纳斯达克100股指期货跌0.23%。 罗素2000股指期货涨0.03%。",
-          "url": "https://wallstreetcn.com/livenews/3002998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "港股收盘，恒生指数收涨0.85%，恒生科技指数收涨0.16%。新消费概念股走强，沪上阿姨涨近29%，毛戈平、蜜雪集团涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3003288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "高盛预计未来十年美股表现落后其他市场 新兴市场将带来最丰厚回报",
-          "url": "https://wallstreetcn.com/livenews/3003429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "纳斯达克生物科技指数收涨超2.9%，成分股Theravance Biopharma收涨22.55%，Edgewise Therapeutics涨17.51%，uniQure NV涨17.48%，Autolus Therapeutics涨14.39%表现第四。 Pyxis Oncology则收跌4.19%表现倒数第三，Humacyte跌5.19%，Olema跌5.86%。",
-          "url": "https://wallstreetcn.com/livenews/3002990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "A股存储芯片板块震荡回暖，大港股份午后涨停，科翔股份回封涨停，香农芯创涨超10%，普冉股份、德明利跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3003203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "中际旭创据悉正考虑在港股上市，拟募资至少30亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3003280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3003475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "A股高开低走，创业板跌超1%，光伏全线爆发，存储芯片活跃，港股震荡微涨",
-          "url": "https://wallstreetcn.com/articles/3759102",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "A股全线收跌，光伏领跌，医药、银行集体拉升，港股全线上涨，新消费延续涨势，农行AH再创新高，市值突破3万亿元",
-          "url": "https://wallstreetcn.com/articles/3759183",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
-          "url": "https://wallstreetcn.com/livenews/3002988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "深交所：将康基医疗调出港股通标的证券名单",
-          "url": "https://wallstreetcn.com/livenews/3003059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "摩根士丹利上调小鹏港股目标价至131港元 称机器人等带来重估机会",
-          "url": "https://wallstreetcn.com/livenews/3003058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "港股沪上阿姨尾盘冲高，一度涨超30%，成交额超2亿港元。",
-          "url": "https://wallstreetcn.com/livenews/3003277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "AMD股价美股盘后涨4.5%。",
-          "url": "https://wallstreetcn.com/livenews/3002982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "纳斯达克：截至10月31日，所有纳斯达克证券的空头持仓总量为172.7亿股。",
-          "url": "https://flash.jin10.com/detail/20251112051045341800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251112013235058800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "纳斯达克：截至10月31日，纳斯达克全球市场证券空头头寸总量达140.8亿股，纳斯达克资本市场证券空头头寸总量达31.9亿股。",
-          "url": "https://flash.jin10.com/detail/20251112050956822800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "金十图示：2025年11月11日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251112013227930800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "AMD美股盘前涨近6%，CEO苏姿丰预计到2030年AI数据中心市场规模料突破1万亿美元，AMD营收年增或超35%。",
-          "url": "https://wallstreetcn.com/livenews/3003320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251112050821592800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "生物科技ETF收涨将近2.9%，和医疗业ETF领跑美股行业ETF，半导体ETF跌超2.1%",
-          "url": "https://wallstreetcn.com/livenews/3002976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "金十图示：2025年11月11日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251112050514200800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.06%，报8233.31点。 热门中概股里，阿特斯太阳能跌7.8%，晶科能源跌5.3%，腾讯音乐跌3.7%，阿里跌3.2%，B站跌1.9%，网易涨1.5%，贝壳涨1.8%，百胜中国涨3%，小鹏涨7.6%。 ETF中，中国科技指数ETF（CQQQ）收跌0.98%，中概互联网指数ETF（KWEB）收跌0.60%。 德银嘉实沪深300指数ETF（ASHR）收跌0.96%，XtrackersHarvest中证50（ASHS）收跌0.68%。",
-          "url": "https://wallstreetcn.com/livenews/3002973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 英伟达跌近3%",
-          "url": "https://flash.jin10.com/detail/20251112050055390800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "宁德时代董事长曾毓群：与京东合作的换电电池是高安全电池",
-          "url": "https://wallstreetcn.com/livenews/3003155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "4.99万起售,京东汽车卷死同行",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346932&amp;topic_name=4.99%E4%B8%87%E8%B5%B7%E5%94%AE%2C%E4%BA%AC%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%8D%B7%E6%AD%BB%E5%90%8C%E8%A1%8C",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 09时22分]"
-        },
-        {
-          "title": "京东双11手机排名出炉",
-          "url": "https://www.toutiao.com/trending/7571762981915069958/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时38分 ~ 22时20分]"
-        },
-        {
-          "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31947522",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "京东双11采销直播间订单量同比超150%，数字人直播带动GMV超23亿元",
-          "url": "https://wallstreetcn.com/livenews/3002886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "美国最大中概股ETF的管理公司大幅增持拼多多和好未来等",
-          "url": "https://wallstreetcn.com/livenews/3002914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "香港恒生指数日内涨幅扩大至1%。京东健康涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3003101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "招股书 融资",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "存款“搬家”到股市？央行最新报告详解五组利率比价关系 资产配置调整和市值变化影响金融资产结构",
-          "url": "https://www.cls.cn/detail/2197536",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 09时22分]"
-        },
-        {
-          "title": "上交所理事长邱勇：优化发行上市、再融资、并购重组等关键制度",
-          "url": "https://wallstreetcn.com/livenews/3003070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
-          "url": "https://wallstreetcn.com/articles/3759168",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时29分 ~ 22时20分]"
-        },
-        {
-          "title": "芯片初创公司D-Matrix融资2.75亿美元 拟扩大AI推理芯片生产和分销",
-          "url": "https://flash.jin10.com/detail/20251112180638505800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "据美国纽约联储数据，上个交易日（11月10日，债市11日休市）担保隔夜融资利率（SOFR）报3.95%，之前一天报3.93%。 上个交易日有效的联邦基金利率报3.87%，之前一天报3.87%。",
-          "url": "https://wallstreetcn.com/livenews/3003476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "两市融资余额增加40.22亿元",
-          "url": "https://wallstreetcn.com/livenews/3003052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财报 季报 年报",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "英伟达财报前，花旗高喊：买入！AI需求远超供应，泡沫之说站不住脚",
-          "url": "https://wallstreetcn.com/articles/3759111",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 12时22分]"
-        },
-        {
-          "title": "虎牙发布2025年Q3财报：总收入创近9个季度新高，游戏相关服务、广告和其他贡献超三成收入",
-          "url": "https://wallstreetcn.com/livenews/3003336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "腾讯音乐2025Q3财报业绩稳健，总收入同比增长20.6%达84.6亿元",
-          "url": "https://wallstreetcn.com/livenews/3003324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "软银集团在公布第二季度财报后下跌6%。",
-          "url": "https://flash.jin10.com/detail/20251112080801936800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "软银股价一度下跌10%，之前公布二季度财报。",
-          "url": "https://wallstreetcn.com/livenews/3003042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Meta Google",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "“大空头”切换“战斗模式”！Burry：科技巨头“低估折旧导致利润虚高”，2028年甲骨文利润虚高26.9%，Meta虚高20.8%",
-          "url": "https://wallstreetcn.com/articles/3759101",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 09时22分]"
-        },
-        {
-          "title": "NeoCloud（新云）供应商Nebius Group NV下跌超5.6%，Meta Platforms跌1.5%。 两家公司签署人工智能（AI）基础设施协议，Nebius三季度销售同比激增355%至1.46亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3002880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "Meta 首席 AI 科学家 LeCun 被曝将离职创业，具体情况如何？他的离职会给公司带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1971881827078726660",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        }
-      ]
-    },
     {
       "keyword_group": "美债",
       "match_count": 3,
@@ -565,148 +12,89 @@
           "url": "https://wallstreetcn.com/articles/3759125",
           "source": "华尔街见闻",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时22分 ~ 22时20分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
-          "title": "机构：10年期美债收益率近期或升至4.50%",
-          "url": "https://flash.jin10.com/detail/20251112153324698800",
-          "source": "金十数据",
+          "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，加密货币跳水",
+          "url": "https://wallstreetcn.com/articles/3759214",
+          "source": "华尔街见闻",
           "ranks": [
-            20
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时25分"
+          "time_info": "00时25分"
         },
         {
-          "title": "美债收益率和美元上涨 市场焦点转向积压经济数据",
-          "url": "https://flash.jin10.com/detail/20251112220357212800",
-          "source": "金十数据",
+          "title": "美国财长贝森特：选民们授权总统特朗普让美国恢复经济承受能力。 巩固国债市场是这个使命的一部分。 在2025年的发达国家市场，美债表现最佳。 美债的日常现金交易大约1万亿美元。 将继续考虑改善美债回购计划。 投资者对美债需求是如此的强烈，将继续监控投资者的需求。 不会改变债务发行的整体协议。 维持债市健康是我的头等大事。",
+          "url": "https://wallstreetcn.com/livenews/3003527",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时20分"
+          "time_info": "00时25分"
         }
       ]
     },
     {
-      "keyword_group": "小米集团 泡泡玛特 POP MART",
+      "keyword_group": "阿里巴巴 京东 拼多多 冬海",
       "match_count": 2,
       "titles": [
         {
-          "title": "详解泡泡玛特的商业模式",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E7%9A%84%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F",
-          "source": "bilibili 热搜",
+          "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31947522",
+          "source": "澎湃新闻",
           "ranks": [
-            26,
-            30,
-            28,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 14时29分]"
-        },
-        {
-          "title": "越跌越买 南向资金对小米集团持股比升至6月来高位",
-          "url": "https://wallstreetcn.com/livenews/3003135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 2,
-      "titles": [
+          "time_info": "00时25分"
+        },
         {
-          "title": "上证指数早盘收报3993.35点，跌0.23%。 深证成指早盘收报13146.42点，跌1.07%。 创业板指早盘收报3084.70点，跌1.58%。 沪深300早盘收报4632.15点，跌0.43%。 科创50早盘收报1364.64点，跌1.65%。 中证500早盘收报7207.90点，跌1.15%。 中证1000早盘收报7437.80点，跌1.37%。",
-          "url": "https://wallstreetcn.com/livenews/3003143",
-          "source": "华尔街见闻-快讯",
+          "title": "京东双11手机排名出炉",
+          "url": "https://www.toutiao.com/trending/7571762981915069958/",
+          "source": "今日头条",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "A股三大指数集体翻红，医药商业、油气、脑机接口、保险等板块领涨，沪深京三市上涨个股超2100只。",
-          "url": "https://wallstreetcn.com/livenews/3003109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时12分"
+          "time_info": "00时25分"
         }
       ]
     },
     {
-      "keyword_group": "海底捞 颐海国际 霸王茶姬 瑞幸咖啡 蜜雪冰城",
-      "match_count": 1,
+      "keyword_group": "招股书 融资",
+      "match_count": 2,
       "titles": [
         {
-          "title": "据知情人士透露，瑞幸咖啡股东大钲资本据称可能竞购Costa Coffee（咖世家）。 大钲资本可能会直接、或通过瑞幸竞购Costa。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3002872",
-          "source": "华尔街见闻-快讯",
+          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
+          "url": "https://wallstreetcn.com/articles/3759168",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "美国财长贝森特：根据当前拍卖规模的现有融资能力以及强劲的国库券需求，我们具备灵活性来应对未来的借款需求。",
+          "url": "https://flash.jin10.com/detail/20251112234803263800",
+          "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "比亚迪李云飞称「比亚迪将坚持磷酸铁锂电池路线」，这是一种技术自信还是战略保守？",
-          "url": "https://www.zhihu.com/question/1970159842028136176",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时22分 ~ 22时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元兑日元短线走低，日内涨幅收窄至0.3%，此前日本财务大臣称看到汇率单边快速波动。",
-          "url": "https://wallstreetcn.com/livenews/3003185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "00时25分"
         }
       ]
     }
