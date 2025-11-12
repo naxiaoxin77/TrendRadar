@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T20:39:00.642405+08:00",
-  "total_titles_processed": 1518,
+  "generated_at": "2025-11-12T22:20:46.168367+08:00",
+  "total_titles_processed": 1652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
@@ -59,7 +59,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -97,6 +97,17 @@
           "time_info": "16时25分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3003475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "A股高开低走，创业板跌超1%，光伏全线爆发，存储芯片活跃，港股震荡微涨",
           "url": "https://wallstreetcn.com/articles/3759102",
           "source": "华尔街见闻",
@@ -106,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "A股全线收跌，光伏领跌，医药、银行集体拉升，港股全线上涨，新消费延续涨势，农行AH再创新高，市值突破3万亿元",
+          "url": "https://wallstreetcn.com/articles/3759183",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -276,7 +298,7 @@
     },
     {
       "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "宁德时代董事长曾毓群：与京东合作的换电电池是高安全电池",
@@ -308,8 +330,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 20时39分]"
+          "appearance_count": 3,
+          "time_info": "[20时38分 ~ 22时20分]"
+        },
+        {
+          "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31947522",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "京东双11采销直播间订单量同比超150%，数字人直播带动GMV超23亿元",
@@ -348,7 +381,7 @@
     },
     {
       "keyword_group": "招股书 融资",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "存款“搬家”到股市？央行最新报告详解五组利率比价关系 资产配置调整和市值变化影响金融资产结构",
@@ -378,11 +411,12 @@
           "url": "https://wallstreetcn.com/articles/3759168",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 20时39分]"
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 22时20分]"
         },
         {
           "title": "芯片初创公司D-Matrix融资2.75亿美元 拟扩大AI推理芯片生产和分销",
@@ -394,6 +428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（11月10日，债市11日休市）担保隔夜融资利率（SOFR）报3.95%，之前一天报3.93%。 上个交易日有效的联邦基金利率报3.87%，之前一天报3.87%。",
+          "url": "https://wallstreetcn.com/livenews/3003476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "两市融资余额增加40.22亿元",
@@ -512,6 +557,46 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3759125",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时22分 ~ 22时20分]"
+        },
+        {
+          "title": "机构：10年期美债收益率近期或升至4.50%",
+          "url": "https://flash.jin10.com/detail/20251112153324698800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "美债收益率和美元上涨 市场焦点转向积压经济数据",
+          "url": "https://flash.jin10.com/detail/20251112220357212800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "小米集团 泡泡玛特 POP MART",
       "match_count": 2,
       "titles": [
@@ -540,35 +625,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3759125",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时22分 ~ 20时39分]"
-        },
-        {
-          "title": "机构：10年期美债收益率近期或升至4.50%",
-          "url": "https://flash.jin10.com/detail/20251112153324698800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
         }
       ]
     },
@@ -632,8 +688,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时22分 ~ 20时39分]"
+          "appearance_count": 7,
+          "time_info": "[12时22分 ~ 22时20分]"
         }
       ]
     },
