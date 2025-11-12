@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T11:12:07.536900+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2025-11-12T12:22:53.728972+08:00",
+  "total_titles_processed": 961,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 11时12分]"
+          "appearance_count": 4,
+          "time_info": "[09时22分 ~ 12时22分]"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-11-12）",
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "A股高开低走，创业板跌超1%，光伏全线爆发，存储芯片活跃，港股震荡微涨",
+          "url": "https://wallstreetcn.com/articles/3759102",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -199,8 +210,19 @@
     },
     {
       "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "宁德时代董事长曾毓群：与京东合作的换电电池是高安全电池",
+          "url": "https://wallstreetcn.com/livenews/3003155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
         {
           "title": "4.99万起售,京东汽车卷死同行",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346932&amp;topic_name=4.99%E4%B8%87%E8%B5%B7%E5%94%AE%2C%E4%BA%AC%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%8D%B7%E6%AD%BB%E5%90%8C%E8%A1%8C",
@@ -241,7 +263,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         }
@@ -297,11 +319,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 11时12分]"
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 12时22分]"
         },
         {
           "title": "软银集团在公布第二季度财报后下跌6%。",
@@ -324,6 +347,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米集团 泡泡玛特 POP MART",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "详解泡泡玛特的商业模式",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E7%9A%84%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            30,
+            28,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 11时12分]"
+        },
+        {
+          "title": "越跌越买 南向资金对小米集团持股比升至6月来高位",
+          "url": "https://wallstreetcn.com/livenews/3003135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         }
       ]
     },
@@ -357,6 +411,34 @@
       ]
     },
     {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上证指数早盘收报3993.35点，跌0.23%。 深证成指早盘收报13146.42点，跌1.07%。 创业板指早盘收报3084.70点，跌1.58%。 沪深300早盘收报4632.15点，跌0.43%。 科创50早盘收报1364.64点，跌1.65%。 中证500早盘收报7207.90点，跌1.15%。 中证1000早盘收报7437.80点，跌1.37%。",
+          "url": "https://wallstreetcn.com/livenews/3003143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "A股三大指数集体翻红，医药商业、油气、脑机接口、保险等板块领涨，沪深京三市上涨个股超2100只。",
+          "url": "https://wallstreetcn.com/livenews/3003109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "海底捞 颐海国际 霸王茶姬 瑞幸咖啡 蜜雪冰城",
       "match_count": 1,
       "titles": [
@@ -374,22 +456,19 @@
       ]
     },
     {
-      "keyword_group": "小米集团 泡泡玛特 POP MART",
+      "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
       "match_count": 1,
       "titles": [
         {
-          "title": "详解泡泡玛特的商业模式",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E7%9A%84%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F",
-          "source": "bilibili 热搜",
+          "title": "比亚迪李云飞称「比亚迪将坚持磷酸铁锂电池路线」，这是一种技术自信还是战略保守？",
+          "url": "https://www.zhihu.com/question/1970159842028136176",
+          "source": "知乎",
           "ranks": [
-            26,
-            30,
-            28,
-            22
+            19
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 11时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         }
       ]
     },
@@ -402,28 +481,12 @@
           "url": "https://wallstreetcn.com/articles/3759125",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 11时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股三大指数集体翻红，医药商业、油气、脑机接口、保险等板块领涨，沪深京三市上涨个股超2100只。",
-          "url": "https://wallstreetcn.com/livenews/3003109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时12分"
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 12时22分]"
         }
       ]
     }
