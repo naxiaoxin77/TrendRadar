@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T12:22:53.728972+08:00",
-  "total_titles_processed": 961,
+  "generated_at": "2025-11-12T14:29:36.782929+08:00",
+  "total_titles_processed": 1093,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 12时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 14时29分]"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-11-12）",
@@ -53,13 +53,24 @@
           "time_info": "06时18分"
         },
         {
+          "title": "A股存储芯片板块震荡回暖，大港股份午后涨停，科翔股份回封涨停，香农芯创涨超10%，普冉股份、德明利跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3003203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "A股高开低走，创业板跌超1%，光伏全线爆发，存储芯片活跃，港股震荡微涨",
           "url": "https://wallstreetcn.com/articles/3759102",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -219,7 +230,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -271,7 +282,7 @@
     },
     {
       "keyword_group": "招股书 融资",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "存款“搬家”到股市？央行最新报告详解五组利率比价关系 资产配置调整和市值变化影响金融资产结构",
@@ -295,6 +306,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
+          "url": "https://wallstreetcn.com/articles/3759168",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "两市融资余额增加40.22亿元",
@@ -362,11 +384,12 @@
             26,
             30,
             28,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 11时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 14时29分]"
         },
         {
           "title": "越跌越买 南向资金对小米集团持股比升至6月来高位",
@@ -375,7 +398,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         }
@@ -421,7 +444,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -466,9 +489,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 14时29分]"
         }
       ]
     },
@@ -485,8 +508,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 12时22分]"
+          "appearance_count": 4,
+          "time_info": "[09时22分 ~ 14时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元兑日元短线走低，日内涨幅收窄至0.3%，此前日本财务大臣称看到汇率单边快速波动。",
+          "url": "https://wallstreetcn.com/livenews/3003185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         }
       ]
     }
