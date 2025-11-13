@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T18:21:47.067430+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2025-11-13T20:39:58.118777+08:00",
+  "total_titles_processed": 1489,
   "failed_sources": [],
   "trends": [
     {
@@ -74,7 +74,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -85,7 +85,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -96,7 +96,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -107,7 +107,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -118,7 +118,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -129,7 +129,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -140,7 +140,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -151,7 +151,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -173,7 +173,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         }
@@ -212,7 +212,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -258,7 +258,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -291,7 +291,102 @@
           "ranks": [
             24
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "招股书 融资",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "据华尔街日报：人工智能编码初创公司Cursor融资23亿美元，估值293亿美元。",
+          "url": "https://flash.jin10.com/detail/20251113200430334800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "10月金融数据出炉：资金转化为活期存款趋势延续，企业融资已不再单一依赖银行贷款",
+          "url": "https://www.cls.cn/detail/2199773",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 20时39分]"
+        },
+        {
+          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
+          "url": "https://wallstreetcn.com/articles/3759168",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 06时19分]"
+        },
+        {
+          "title": "AI编程初创公司Cursor融资23亿美元，估值达293亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3004181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "两市融资余额减少30.24亿元",
+          "url": "https://wallstreetcn.com/livenews/3003728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "德国初创公司融资1亿欧元 商用化节能内存芯片",
+          "url": "https://flash.jin10.com/detail/20251113192204067800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "美国财长贝森特：根据当前拍卖规模的现有融资能力以及强劲的国库券需求，我们具备灵活性来应对未来的借款需求。",
+          "url": "https://flash.jin10.com/detail/20251112234803263800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "【中国央行主管媒体：政府债券快发多发短期对贷款有一定替代】中国人民银行主管的《金融时报》刊文称，社会融资规模保持较快增长，货币政策与财政政策协同发力。同时，也要看到，政府债券快发多发短期对贷款有一定替代。“当前经济运行面临需求不足的挑战，通过加大政府债券发行规模，能够支持重大项目和国家重大战略的实施，助力扩大需求、支撑经济。同时，不少政府债券用于置换融资平台债务、清理拖欠企业账款等，实际上是政府部门适度加杠杆帮助企业和居民部门稳杠杆的过程，有助于经营主体缓解资金压力、减轻债务负担，为经济中长期可持续发展奠定基础。”有业内人士解释，据国家资产负债表中心数据，截至三季度末，政府部门杠杆率同比提高8.8个百分点至67.5%，非金融企业部门、居民部门杠杆率分别同比上升4.5个百分点、略降1.2个百分点。",
+          "url": "https://wallstreetcn.com/livenews/3004063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         }
@@ -299,7 +394,7 @@
     },
     {
       "keyword_group": "财报 季报 年报",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "稳定币发行商Circle三季度营收增长66%至7.4亿美元，盈利大超预期，USDC稳定币流通量同比翻番 | 财报见闻",
@@ -335,7 +430,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -359,9 +454,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759306",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，国际游戏业务收入大增43%，AI云推动企业服务收入双位数增长 | 财报见闻",
@@ -370,7 +476,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -384,67 +490,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "招股书 融资",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
-          "url": "https://wallstreetcn.com/articles/3759168",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 06时19分]"
-        },
-        {
-          "title": "10月金融数据出炉：资金转化为活期存款趋势延续，企业融资已不再单一依赖银行贷款",
-          "url": "https://www.cls.cn/detail/2199773",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "两市融资余额减少30.24亿元",
-          "url": "https://wallstreetcn.com/livenews/3003728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "美国财长贝森特：根据当前拍卖规模的现有融资能力以及强劲的国库券需求，我们具备灵活性来应对未来的借款需求。",
-          "url": "https://flash.jin10.com/detail/20251112234803263800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "【中国央行主管媒体：政府债券快发多发短期对贷款有一定替代】中国人民银行主管的《金融时报》刊文称，社会融资规模保持较快增长，货币政策与财政政策协同发力。同时，也要看到，政府债券快发多发短期对贷款有一定替代。“当前经济运行面临需求不足的挑战，通过加大政府债券发行规模，能够支持重大项目和国家重大战略的实施，助力扩大需求、支撑经济。同时，不少政府债券用于置换融资平台债务、清理拖欠企业账款等，实际上是政府部门适度加杠杆帮助企业和居民部门稳杠杆的过程，有助于经营主体缓解资金压力、减轻债务负担，为经济中长期可持续发展奠定基础。”有业内人士解释，据国家资产负债表中心数据，截至三季度末，政府部门杠杆率同比提高8.8个百分点至67.5%，非金融企业部门、居民部门杠杆率分别同比上升4.5个百分点、略降1.2个百分点。",
-          "url": "https://wallstreetcn.com/livenews/3004063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
         }
       ]
     },
@@ -539,7 +584,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -550,7 +595,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         }
