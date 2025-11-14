@@ -1,12 +1,35 @@
 {
-  "generated_at": "2025-11-14T06:19:27.701293+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2025-11-14T09:21:34.224156+08:00",
+  "total_titles_processed": 706,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2025-11-14）",
+          "url": "https://flash.jin10.com/detail/20251114090509471800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
+          "url": "https://www.cls.cn/detail/2200254",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 09时21分]"
+        },
         {
           "title": "美政府重开利好消化，美股低开低走，标普500指数跌超1%，美元走软",
           "url": "https://wallstreetcn.com/articles/3759298",
@@ -20,13 +43,24 @@
           "time_info": "[02时27分 ~ 06时19分]"
         },
         {
+          "title": "美股全线下挫 特斯拉跌超6%",
+          "url": "https://www.toutiao.com/trending/7571618548569735174/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
           "title": "美股费城金银指数收跌2.63%，报297.06点，微幅高开后持续下挫，北京时间02:25开始一波加速下跌的行情。 纽约证交所ARCA金矿开采商指数收跌1.60%，报2183.49点，22:38（美股盘初）迅速涨至2245.18点刷新日高，之后持续下挫，02:21短线加速下跌。",
           "url": "https://wallstreetcn.com/livenews/3004404",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -37,7 +71,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -48,18 +82,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
-          "url": "https://www.cls.cn/detail/2200254",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -70,9 +93,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "美股大跌 特斯拉跌超6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%856%25",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "半导体ETF收跌3%，领跌美股行业ETF，特斯拉跌超6.6%拖累标普可选消费板块",
@@ -81,7 +115,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -114,7 +148,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -136,7 +170,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -177,7 +211,7 @@
     },
     {
       "keyword_group": "招股书 融资",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "10月金融数据出炉：资金转化为活期存款趋势延续，企业融资已不再单一依赖银行贷款",
@@ -213,6 +247,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "两市融资余额增加40.20亿元",
+          "url": "https://wallstreetcn.com/livenews/3004463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
           "title": "国际货币基金组织：工作人员代表团将很快前往乌克兰，讨论潜在的新国际货币基金组织贷款计划及预期的融资需求。",
           "url": "https://flash.jin10.com/detail/20251114000051460800",
           "source": "金十数据",
@@ -241,9 +286,63 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财报 季报 年报",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759306",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 09时21分]"
+        },
+        {
+          "title": "比尔赛季报销",
+          "url": "https://www.douyin.com/hot/2304304",
+          "source": "抖音",
+          "ranks": [
+            13,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 06时19分]"
+        },
+        {
+          "title": "中芯国际三季报出炉！Q3实现净利超15亿元",
+          "url": "https://www.cls.cn/detail/2199835",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 04时21分]"
+        },
+        {
+          "title": "铠侠股价开盘势将触及跌停板，此前发布财报。",
+          "url": "https://wallstreetcn.com/livenews/3004457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         }
       ]
     },
@@ -252,27 +351,28 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "腾讯、京东、中芯国际、哔哩哔哩集体发布财报",
+          "url": "https://www.cls.cn/detail/2199926",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 09时21分]"
+        },
+        {
           "title": "投资明星Tepper进一步减持京东、阿里和拼多多，增持百度和KWEB",
           "url": "https://wallstreetcn.com/livenews/3004407",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
-        },
-        {
-          "title": "腾讯、京东、中芯国际、哔哩哔哩集体发布财报",
-          "url": "https://www.cls.cn/detail/2199926",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 06时19分]"
         },
         {
           "title": "纳斯达克金龙中国指数盘初跌0.38%，随后转涨。 热门中概股里，B站跌6.9%，万国数据跌4.4%，世纪互联跌2%，百度、大全新能源、文远知行至多跌1.3%。 理想涨1.85%，贝壳涨2%，阿里巴巴涨3.3%。 ETF中，CQQQ涨0.2%，KWEB涨0.4%，ASHR涨1.12%。",
@@ -288,45 +388,30 @@
       ]
     },
     {
-      "keyword_group": "财报 季报 年报",
-      "match_count": 3,
+      "keyword_group": "美元",
+      "match_count": 2,
       "titles": [
         {
-          "title": "比尔赛季报销",
-          "url": "https://www.douyin.com/hot/2304304",
-          "source": "抖音",
+          "title": "韩元兑美元日内涨幅扩大至近1%，此前韩国称将采取措施稳定汇率。",
+          "url": "https://wallstreetcn.com/livenews/3004460",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            15,
-            17
+            23
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
-          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759306",
-          "source": "华尔街见闻",
+          "title": "韩元兑美元转而上涨0.3%，此前韩国称将采取措施稳定汇率。",
+          "url": "https://wallstreetcn.com/livenews/3004455",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            9,
-            10
+            28
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 06时19分]"
-        },
-        {
-          "title": "中芯国际三季报出炉！Q3实现净利超15亿元",
-          "url": "https://www.cls.cn/detail/2199835",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时26分 ~ 04时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         }
       ]
     }
