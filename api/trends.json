@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T12:22:32.464270+08:00",
-  "total_titles_processed": 939,
+  "generated_at": "2025-11-14T14:28:31.336276+08:00",
+  "total_titles_processed": 1076,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时19分 ~ 12时22分]"
+          "appearance_count": 5,
+          "time_info": "[06时19分 ~ 14时28分]"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-11-14）",
@@ -266,7 +267,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -331,8 +332,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 12时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 14时28分]"
         },
         {
           "title": "比尔赛季报销",
@@ -451,7 +452,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         }
