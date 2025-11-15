@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T18:18:04.610792+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2025-11-15T20:33:26.496471+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 18时18分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 20时33分]"
+        },
+        {
+          "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
+          "url": "https://www.cls.cn/detail/2201442",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时19分 ~ 20时33分]"
         },
         {
           "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
@@ -34,19 +47,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时23分 ~ 14时25分]"
-        },
-        {
-          "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
-          "url": "https://www.cls.cn/detail/2201442",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时19分 ~ 18时18分]"
         },
         {
           "title": "科技股反弹，美股纳指转涨，黄金跌幅收窄，币圈分化",
@@ -66,11 +66,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时06分 ~ 18时18分]"
+          "appearance_count": 7,
+          "time_info": "[11时06分 ~ 20时33分]"
         },
         {
           "title": "美股费城金银指数收跌0.89%，报294.43点，本周累计上涨5.71%。 纽约证交所ARCA金矿开采商指数收跌1.16%，报2158.20点，本周累涨6.45%。",
@@ -351,6 +352,20 @@
           "time_info": "[09时19分 ~ 16时21分]"
         },
         {
+          "title": "李想直管人事，华为系高管淡出理想管理层，是出于哪些目的？将对理想汽车产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1971701581499045819",
+          "source": "知乎",
+          "ranks": [
+            8,
+            9,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时25分 ~ 20时33分]"
+        },
+        {
           "title": "理想汽车内部问责处理18人",
           "url": "https://www.toutiao.com/trending/7572410670306807315/",
           "source": "今日头条",
@@ -361,19 +376,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时23分 ~ 06时17分]"
-        },
-        {
-          "title": "李想直管人事，华为系高管淡出理想管理层，是出于哪些目的？将对理想汽车产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1971701581499045819",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时25分 ~ 18时18分]"
         },
         {
           "title": "比亚迪电池外供暴涨",
@@ -401,11 +403,12 @@
             9,
             8,
             7,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 18时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 20时33分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms将从2026年开始按AI影响力对员工（绩效）评级。（Business Insider）",
@@ -453,11 +456,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 18时18分]"
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 20时33分]"
         },
         {
           "title": "Tether洽谈在Neura Robotics GmbH的10亿欧元融资中发挥领投作用。 Neura料将在本轮融资获得80亿-100亿欧元估值。（英国金融时报）",
@@ -481,11 +485,12 @@
           "url": "https://www.zhihu.com/question/1972694298274317425",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 20时33分]"
         }
       ]
     },
