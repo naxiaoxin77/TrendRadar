@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T09:20:17.518554+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2025-11-15T11:06:38.456151+08:00",
+  "total_titles_processed": 778,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 09时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 11时06分]"
         },
         {
           "title": "科技股反弹，美股纳指转涨，黄金跌幅收窄，币圈分化",
@@ -41,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 09时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 11时06分]"
         },
         {
           "title": "美股费城金银指数收跌0.89%，报294.43点，本周累计上涨5.71%。 纽约证交所ARCA金矿开采商指数收跌1.16%，报2158.20点，本周累涨6.45%。",
@@ -82,11 +83,23 @@
           "url": "https://www.cls.cn/detail/2201442",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 09时20分]"
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时06分]"
+        },
+        {
+          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
+          "url": "https://www.cls.cn/detail/2201450",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时06分"
         },
         {
           "title": "纳指转涨，标普几乎完全收复美股盘初失地，半导体指数转涨，罗素2000指数目前跌0.4%，道指仍然跌340点跌幅超过0.7%。中概指数收复盘初大部分失地。 比特币目前跌1.68%，以太坊涨0.94%，Solana跌0.08%，狗狗币涨1.29%，XRP涨0.32%。",
@@ -117,9 +130,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "金十图示：2025年11月14日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251115094829363800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时06分"
+        },
+        {
+          "title": "金十图示：2025年11月14日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251115094343913800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时06分"
         },
         {
           "title": "金十图示：2025年11月14日（周五）美股热门股票行情一览（美股盘中）",
@@ -164,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "美股暴涨暴跌意味着什么",
+          "url": "https://www.toutiao.com/trending/7572733950527802886/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时06分"
         }
       ]
     },
@@ -180,8 +226,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 09时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 11时06分]"
         },
         {
           "title": "如何看待京东外卖一分钱小酥肉、骑手单价降到 1 块钱？",
@@ -266,11 +312,12 @@
           "ranks": [
             6,
             5,
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 09时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 11时06分]"
         },
         {
           "title": "理想汽车内部问责处理18人",
@@ -285,6 +332,17 @@
           "time_info": "[00时23分 ~ 06时17分]"
         },
         {
+          "title": "四部门重拳出击！“零公里二手车”出口被叫停、曾遭长城汽车董事长“痛批”",
+          "url": "https://www.cls.cn/detail/2201355",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时06分]"
+        },
+        {
           "title": "比亚迪电池外供暴涨",
           "url": "https://www.toutiao.com/trending/7572546193033530922/",
           "source": "今日头条",
@@ -295,17 +353,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 04时21分]"
-        },
-        {
-          "title": "四部门重拳出击！“零公里二手车”出口被叫停、曾遭长城汽车董事长“痛批”",
-          "url": "https://www.cls.cn/detail/2201355",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 09时20分]"
         }
       ]
     },
@@ -324,8 +371,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 09时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 11时06分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms将从2026年开始按AI影响力对员工（绩效）评级。（Business Insider）",
@@ -360,6 +407,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "云南铜业：黄金价格上涨对公司整体业绩增长影响有限",
+          "url": "https://wallstreetcn.com/livenews/3005134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时06分"
         }
       ]
     },
