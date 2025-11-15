@@ -1,26 +1,12 @@
 {
-  "generated_at": "2025-11-15T20:33:26.496471+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2025-11-15T22:16:10.122216+08:00",
+  "total_titles_processed": 1394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
       "match_count": 18,
       "titles": [
-        {
-          "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2201293",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 20时33分]"
-        },
         {
           "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
           "url": "https://www.cls.cn/detail/2201442",
@@ -31,8 +17,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时19分 ~ 20时33分]"
+          "appearance_count": 11,
+          "time_info": "[09时19分 ~ 22时16分]"
+        },
+        {
+          "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2201293",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 22时16分]"
         },
         {
           "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
@@ -49,17 +50,6 @@
           "time_info": "[00时23分 ~ 14时25分]"
         },
         {
-          "title": "科技股反弹，美股纳指转涨，黄金跌幅收窄，币圈分化",
-          "url": "https://wallstreetcn.com/articles/3759354",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时26分 ~ 06时17分]"
-        },
-        {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
           "url": "https://www.cls.cn/detail/2201450",
           "source": "财联社热门",
@@ -70,8 +60,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时06分 ~ 20时33分]"
+          "appearance_count": 9,
+          "time_info": "[11时06分 ~ 22时16分]"
+        },
+        {
+          "title": "科技股反弹，美股纳指转涨，黄金跌幅收窄，币圈分化",
+          "url": "https://wallstreetcn.com/articles/3759354",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 06时17分]"
         },
         {
           "title": "美股费城金银指数收跌0.89%，报294.43点，本周累计上涨5.71%。 纽约证交所ARCA金矿开采商指数收跌1.16%，报2158.20点，本周累涨6.45%。",
@@ -457,11 +458,12 @@
           "ranks": [
             1,
             12,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 20时33分]"
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 22时16分]"
         },
         {
           "title": "Tether洽谈在Neura Robotics GmbH的10亿欧元融资中发挥领投作用。 Neura料将在本轮融资获得80亿-100亿欧元估值。（英国金融时报）",
