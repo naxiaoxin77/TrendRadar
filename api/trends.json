@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T04:18:53.661870+08:00",
-  "total_titles_processed": 371,
+  "generated_at": "2025-11-16T06:14:19.316669+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时14分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时14分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -35,11 +35,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时14分]"
         }
       ]
     },
@@ -52,11 +53,12 @@
           "url": "https://www.cls.cn/detail/2201578",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时14分]"
         }
       ]
     },
@@ -72,8 +74,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 06时14分]"
         }
       ]
     },
@@ -88,11 +90,12 @@
           "ranks": [
             8,
             9,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时14分]"
         }
       ]
     }
