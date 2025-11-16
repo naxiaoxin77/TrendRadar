@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T11:17:33.985474+08:00",
-  "total_titles_processed": 608,
+  "generated_at": "2025-11-16T12:24:54.888400+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 11时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 12时24分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 11时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 12时24分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -59,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 11时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 12时24分]"
         }
       ]
     },
@@ -75,7 +76,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         }
