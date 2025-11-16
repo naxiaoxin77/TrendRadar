@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T00:20:26.525469+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-17T02:24:35.360247+08:00",
+  "total_titles_processed": 351,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3759470",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 02时24分]"
         },
         {
           "title": "下周重磅日程：最重要的财报和数据，都来了",
           "url": "https://wallstreetcn.com/articles/3759379",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 02时24分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——11月LPR报价、非农报告、美联储会议纪要、英伟达等财报",
@@ -37,8 +39,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 02时24分]"
         }
       ]
     },
@@ -54,8 +56,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 02时24分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -65,8 +67,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 02时24分]"
         }
       ]
     }
