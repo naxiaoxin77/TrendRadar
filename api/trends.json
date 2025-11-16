@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-17T02:24:35.360247+08:00",
-  "total_titles_processed": 351,
+  "generated_at": "2025-11-17T04:19:28.401847+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "财报 季报 年报",
       "match_count": 3,
       "titles": [
+        {
+          "title": "下周重磅日程：最重要的财报和数据，都来了",
+          "url": "https://wallstreetcn.com/articles/3759379",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 04时19分]"
+        },
         {
           "title": "下周焦点“英伟达财报”，大摩：会是过去几个季度里最强的，打破“增长见顶”认知",
           "url": "https://wallstreetcn.com/articles/3759470",
@@ -16,20 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时24分]"
-        },
-        {
-          "title": "下周重磅日程：最重要的财报和数据，都来了",
-          "url": "https://wallstreetcn.com/articles/3759379",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 04时19分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——11月LPR报价、非农报告、美联储会议纪要、英伟达等财报",
@@ -56,8 +57,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 04时19分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -67,8 +68,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 04时19分]"
         }
       ]
     }
