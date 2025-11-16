@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T04:19:28.401847+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2025-11-17T06:17:13.324703+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "下周焦点“英伟达财报”，大摩：会是过去几个季度里最强的，打破“增长见顶”认知",
@@ -29,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——11月LPR报价、非农报告、美联储会议纪要、英伟达等财报",
@@ -57,19 +58,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
           "url": "https://www.cls.cn/detail/2201578",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时17分]"
         }
       ]
     }
