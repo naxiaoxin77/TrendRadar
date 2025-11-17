@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T18:21:43.956231+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2025-11-17T20:38:16.744566+08:00",
+  "total_titles_processed": 1400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "白宫深夜盯上阿里巴巴？一切或源于“千问恐慌”（QwenPanic）",
@@ -87,6 +87,17 @@
           "time_info": "11时15分"
         },
         {
+          "title": "刘强东：京东外卖独立APP终于上线",
+          "url": "https://wallstreetcn.com/livenews/3005825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "阿里巴巴回应千问崩了",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%9B%9E%E5%BA%94%E5%8D%83%E9%97%AE%E5%B4%A9%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26pos%3D16%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26realpos%3D15%26c_type%3D31%26band_rank%3D15%26cate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E9%2598%25BF%25E9%2587%258C%25E5%25B7%25B4%25E5%25B7%25B4%25E5%259B%259E%25E5%25BA%2594%25E5%258D%2583%25E9%2597%25AE%25E5%25B4%25A9%25E4%25BA%2586%2523%26display_time%3D1763367899%26pre_seqid%3D176336789909102814219147&launchid=10000360-page_H5",
           "source": "微博",
@@ -129,23 +140,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
+        },
+        {
+          "title": "京东上线“京东真榜”",
+          "url": "https://wallstreetcn.com/livenews/3005821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         }
       ]
     },
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股盘前涨幅扩大，纳指期货涨1%，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
           "url": "https://wallstreetcn.com/articles/3759498",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 20时38分]"
         },
         {
           "title": "美股期货上涨，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -165,7 +188,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -179,6 +202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "Zymeworks美股盘前一度上涨43%，此前公布了癌症药物Ziihera的试验结果。",
+          "url": "https://wallstreetcn.com/livenews/3005836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "深交所公告，港股通标的证券名单发生调整并自2025年11月17日起生效，调入广和通。",
@@ -198,7 +232,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         }
@@ -215,7 +249,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -226,7 +260,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -237,7 +271,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -266,11 +300,12 @@
             20,
             12,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 18时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 20时38分]"
         },
         {
           "title": "欧盟：美国科技行业的风险可能影响投资者信心和融资条件。",
@@ -279,7 +314,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -359,6 +394,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 02时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "海底捞 颐海国际 霸王茶姬 瑞幸咖啡 蜜雪冰城",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "瑞幸咖啡第三季度净营收152.9亿元人民币，同比增长50%。 第三季度净利润12.8亿元人民币，同比下降1.9%。 第三季度经调整每股ADS净收益4.40元人民币，上年同期4.40元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3005851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "瑞幸咖啡：第三季度总净收入为人民币153亿元，第三季度自营门店同店销售额增长率为14.4%。",
+          "url": "https://flash.jin10.com/detail/20251117200201946800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         }
       ]
     },
