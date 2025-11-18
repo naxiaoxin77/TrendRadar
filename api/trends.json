@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T18:22:13.719568+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2025-11-18T20:39:42.862087+08:00",
+  "total_titles_processed": 1531,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
@@ -31,6 +31,19 @@
           "time_info": "[09时21分 ~ 16时25分]"
         },
         {
+          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
+          "url": "https://wallstreetcn.com/articles/3759576",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时21分 ~ 20时39分]"
+        },
+        {
           "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
           "url": "https://www.cls.cn/detail/2202991",
           "source": "财联社热门",
@@ -43,19 +56,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时24分 ~ 12时22分]"
-        },
-        {
-          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
-          "url": "https://wallstreetcn.com/articles/3759576",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时21分 ~ 18时22分]"
         },
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -207,7 +207,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -221,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "家得宝第三季度同店销售增长0.2％，预估增长1.36％。 第三季度销售净额413.5亿美元，同比增长2.8%，预估409.7亿美元。 第三季度调整后每股收益3.74美元，上年同期3.78美元，预估3.84美元。 第三季度每股收益3.62美元，上年同期3.67美元。 家得宝预计2026年营收大约增长3％，此前预计大约增长2.8％ 家得宝预计2026营业利益率大约12.6％，此前预计大约13％，市场预估13.3％。 家得宝美股盘前跌近2%。",
+          "url": "https://wallstreetcn.com/livenews/3006479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "行业ETF美股盘初多数下跌，全球科技股指数ETF跌1.03%，科技行业ETF跌0.9%，能源业ETF跌0.73%，半导体ETF跌0.63%，银行业ETF跌0.51%，网络股指数ETF则涨0.22%。 标普科技板块跌0.88%，能源板块跌0.7%，电信板块则涨2.06%。",
@@ -247,80 +258,113 @@
       ]
     },
     {
-      "keyword_group": "小米集团 泡泡玛特 POP MART",
-      "match_count": 6,
+      "keyword_group": "招股书 融资",
+      "match_count": 9,
       "titles": [
         {
-          "title": "小米集团：第三季度汽车交付总量108796辆",
-          "url": "https://wallstreetcn.com/livenews/3006423",
-          "source": "华尔街见闻-快讯",
+          "title": "独家专访刘振民：美国缺席致气候融资缺口扩大，中国将继续维护多边框架",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31973653",
+          "source": "澎湃新闻",
           "ranks": [
-            16
+            2
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 06时18分]"
+        },
+        {
+          "title": "欧洲央行银行监管委员会主席布赫：银行对基于市场的融资日益依赖，这在压力时期可能带来风险。",
+          "url": "https://flash.jin10.com/detail/20251118180308548800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
         {
-          "title": "小米集团：2025年前三季度，累计资本开支达人民币约130亿元",
-          "url": "https://wallstreetcn.com/livenews/3006422",
-          "source": "华尔街见闻-快讯",
+          "title": "非洲专家小组：二十国集团、国际货币基金组织和世界银行应为贫困国家推出一项债务再融资倡议。",
+          "url": "https://flash.jin10.com/detail/20251118203105370800",
+          "source": "金十数据",
           "ranks": [
-            17
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "20时39分"
         },
         {
-          "title": "小米集团：2025年第三季度研发开支达到人民币91亿元，同比增长52.1%",
-          "url": "https://wallstreetcn.com/livenews/3006421",
+          "title": "两市融资余额增加75.79亿元",
+          "url": "https://wallstreetcn.com/livenews/3006141",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "09时21分"
         },
         {
-          "title": "小米集团：2025年第三季度手机×AIoT分部收入同比增长1.6%",
-          "url": "https://wallstreetcn.com/livenews/3006420",
+          "title": "AI云公司Lambda融资超15亿美元，本轮融资将用于购置英伟达GPU及扩建数据中心。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3006502",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "20时39分"
         },
         {
-          "title": "小米集团：2025年Q3智能电动汽车及AI等创新业务分部首次实现单季度经营盈利",
-          "url": "https://wallstreetcn.com/livenews/3006418",
+          "title": "Thinking Machines Lab正在就融资约50亿美元展开洽谈。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3006138",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "09时21分"
         },
         {
-          "title": "小米集团第三季度营收1,131.2亿元人民币，预估1,125亿元人民币。 第三季度营业利润151.1亿元人民币，预估107.2亿元人民币。 第三季度净利润122.7亿元人民币，预估96.2亿元人民币。 第三季度调整后净利润113.1亿元人民币，预估100.5亿元人民币。 第三季度毛利率22.9％，预估22.7％。",
-          "url": "https://wallstreetcn.com/livenews/3006413",
+          "title": "大疆“密会”百家投资机构 却未提融资上市",
+          "url": "https://wallstreetcn.com/livenews/3006491",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "20时39分"
+        },
+        {
+          "title": "Databricks正洽谈新一轮融资 估值有望超1300亿美元",
+          "url": "https://flash.jin10.com/detail/20251118110632471800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "市场消息：人工智能云初创公司Lambda新一轮融资由TWG Global领投，本轮融资将用于购置英伟达GPU及扩建数据中心。",
+          "url": "https://flash.jin10.com/detail/20251118200703029800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         }
       ]
     },
     {
       "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "刘强东：京东外卖将推独立App，并推出京东点评，承诺“永不商业化”",
@@ -332,8 +376,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时21分 ~ 18时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时21分 ~ 20时39分]"
         },
         {
           "title": "如何评价京东外卖正式上线独立 App，并推出京东点评且永不商业化，背后有哪些考量？",
@@ -342,11 +386,23 @@
           "ranks": [
             12,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时27分 ~ 18时22分]"
+          "appearance_count": 7,
+          "time_info": "[14时27分 ~ 20时39分]"
+        },
+        {
+          "title": "【上线仅一天 阿里千问App已冲入App Store免费应用总榜前四】截至11月18日18时许，阿里巴巴17日推出的AI应用千问App已迅速冲入苹果App Store免费应用总榜第四位，排名超越DeepSeek。其火爆人气一度导致服务器拥堵，“阿里巴巴千问崩了”的话题登上微博热搜，官方则以“我好着呢”幽默回应，侧面印证了其公测首日的火热流量。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3006520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "刘强东：京东外卖将推出独立App",
@@ -374,6 +430,17 @@
           "time_info": "06时18分"
         },
         {
+          "title": "拼多多美股盘前跌超4%，此前一度涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3006480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌1.21%，报7760.02点。 热门中概股里，逸仙电商初步收跌20%，阿特斯太阳能跌15%，小鹏跌10%，小马智行跌6%，理想跌超4%，再鼎医药跌超3%，百胜中国、京东、文远知行至少涨超0.5%，阿里巴巴涨2.8%，金山云涨9.1%，晶科能源涨13%。 ETF中，中概互联网指数ETF（KWEB）收跌0.81%，中国科技指数ETF（CQQQ）收跌1.02%。 中国ETF-iShares MSCI（MCHI）收跌1.13%，德银嘉实沪深300指数ETF（ASHR）收跌1.09%，XtrackersHarvest中证50（ASHS）收跌0.46%。",
           "url": "https://wallstreetcn.com/livenews/3006054",
           "source": "华尔街见闻-快讯",
@@ -387,63 +454,74 @@
       ]
     },
     {
-      "keyword_group": "招股书 融资",
-      "match_count": 5,
+      "keyword_group": "小米集团 泡泡玛特 POP MART",
+      "match_count": 6,
       "titles": [
         {
-          "title": "独家专访刘振民：美国缺席致气候融资缺口扩大，中国将继续维护多边框架",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31973653",
-          "source": "澎湃新闻",
+          "title": "小米集团：第三季度汽车交付总量108796辆",
+          "url": "https://wallstreetcn.com/livenews/3006423",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 06时18分]"
-        },
-        {
-          "title": "欧洲央行银行监管委员会主席布赫：银行对基于市场的融资日益依赖，这在压力时期可能带来风险。",
-          "url": "https://flash.jin10.com/detail/20251118180308548800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
         {
-          "title": "两市融资余额增加75.79亿元",
-          "url": "https://wallstreetcn.com/livenews/3006141",
+          "title": "小米集团：2025年前三季度，累计资本开支达人民币约130亿元",
+          "url": "https://wallstreetcn.com/livenews/3006422",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "18时22分"
         },
         {
-          "title": "Thinking Machines Lab正在就融资约50亿美元展开洽谈。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3006138",
+          "title": "小米集团：2025年第三季度研发开支达到人民币91亿元，同比增长52.1%",
+          "url": "https://wallstreetcn.com/livenews/3006421",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "18时22分"
         },
         {
-          "title": "Databricks正洽谈新一轮融资 估值有望超1300亿美元",
-          "url": "https://flash.jin10.com/detail/20251118110632471800",
-          "source": "金十数据",
+          "title": "小米集团：2025年第三季度手机×AIoT分部收入同比增长1.6%",
+          "url": "https://wallstreetcn.com/livenews/3006420",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时22分"
+          "time_info": "18时22分"
+        },
+        {
+          "title": "小米集团：2025年Q3智能电动汽车及AI等创新业务分部首次实现单季度经营盈利",
+          "url": "https://wallstreetcn.com/livenews/3006418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "小米集团第三季度营收1,131.2亿元人民币，预估1,125亿元人民币。 第三季度营业利润151.1亿元人民币，预估107.2亿元人民币。 第三季度净利润122.7亿元人民币，预估96.2亿元人民币。 第三季度调整后净利润113.1亿元人民币，预估100.5亿元人民币。 第三季度毛利率22.9％，预估22.7％。",
+          "url": "https://wallstreetcn.com/livenews/3006413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         }
       ]
     },
@@ -460,8 +538,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时21分 ~ 18时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时21分 ~ 20时39分]"
         },
         {
           "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
@@ -573,7 +651,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         }
