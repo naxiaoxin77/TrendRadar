@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T02:28:13.340377+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2025-11-19T04:22:27.253224+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时22分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时22分]"
         },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 04时22分]"
         },
         {
           "title": "纳斯达克综合指数跌超2%，纳指跌2%，标普跌1.4%，道指跌648点跌幅1.4%，半导体指数跌3.2%。",
@@ -83,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "美股银行股濒临跌破关键支撑位 将对整体股市发出严重警告",
+          "url": "https://flash.jin10.com/detail/20251119025030602800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         }
       ]
     },
@@ -108,7 +119,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         },
@@ -119,7 +130,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         },
@@ -130,7 +141,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         },
@@ -141,7 +152,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         }
@@ -180,7 +191,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         }
@@ -191,6 +202,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "如何评价京东外卖正式上线独立 App，并推出京东点评且永不商业化，背后有哪些考量？",
+          "url": "https://www.zhihu.com/question/1974050220569540112",
+          "source": "知乎",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 04时22分]"
+        },
+        {
           "title": "如何评价京东外卖正式上线独立App，并推出京东点评且永不商业化，背后有哪些考量？",
           "url": "https://www.zhihu.com/question/1974050220569540112",
           "source": "知乎",
@@ -200,17 +223,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 02时28分]"
-        },
-        {
-          "title": "如何评价京东外卖正式上线独立 App，并推出京东点评且永不商业化，背后有哪些考量？",
-          "url": "https://www.zhihu.com/question/1974050220569540112",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
         }
       ]
     },
@@ -226,8 +238,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时22分]"
         }
       ]
     }
