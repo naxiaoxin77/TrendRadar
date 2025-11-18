@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T04:22:27.253224+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2025-11-19T06:19:00.023566+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 8,
+      "match_count": 19,
       "titles": [
         {
           "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 06时18分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -26,19 +26,53 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 06时18分]"
+        },
+        {
+          "title": "花旗集团欧洲、中东和非洲股票交易主管David Haldane：（美股）市场已经反弹并创下新高。 我们正处于散户、对冲基金和资产管理公司都活跃的交汇点上。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3006756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
           "url": "https://www.cls.cn/detail/2204220",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时18分]"
+        },
+        {
+          "title": "人工智能热大行其道，美股交易员收入创出二十年之最",
+          "url": "https://wallstreetcn.com/livenews/3006755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "周二（11月18日）纽约尾盘，标普500股指期货最终下跌0.98%，道指期货跌1.19%，纳斯达克100股指期货跌1.43%。 罗素2000股指期货跌0.08%。",
+          "url": "https://wallstreetcn.com/livenews/3006754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         },
         {
           "title": "纳斯达克综合指数跌超2%，纳指跌2%，标普跌1.4%，道指跌648点跌幅1.4%，半导体指数跌3.2%。",
@@ -63,6 +97,61 @@
           "time_info": "00时26分"
         },
         {
+          "title": "（美股）费城金银指数收涨1.18%，报292.90点。 纽约证交所ARCA金矿开采商指数收平，报2124.04点，北京时间22:30美股开盘之前跌至2110点下方，随后反弹至接近2140点的水平，之后出现V形反转——00:03曾跌至2093.40点刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3006750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "美股收盘：担忧情绪持续发酵 三大指数齐跌 道指、纳指跌超1%",
+          "url": "https://www.cls.cn/detail/2204381",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "周二（11月18日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨1.25%，报93120美元，日内交投于89325-93960美元区间。 CME以太币期货DCR主力合约涨4.09%，报3129.50美元，日内交投于2948-3175.50美元区间。 美股加密货币与加密货币关联指数收涨2.74%，报65.33点。 MarketVector数字资产100小盘指数最近24小时涨约2.90%，暂报19435.73点。",
+          "url": "https://wallstreetcn.com/livenews/3006744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "半导体ETF收跌超2%，领跌美股行业ETF，银行ETF涨超0.8%，标普可选消费板块跌2.5%",
+          "url": "https://wallstreetcn.com/livenews/3006743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "道琼斯指数11月18日（周二）收盘下跌498.50点，跌幅1.07%，报46091.74点；<br/>标普500指数11月18日（周二）收盘下跌涨55.09点，跌幅0.83%，报6617.32点；<br/>纳斯达克综合指数11月18日（周二）收盘下跌275.23点，跌幅1.21%，报22432.85点。",
+          "url": "https://flash.jin10.com/detail/20251119051601297800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
           "title": "房地美股价触及盘中高点，上涨2.2%。",
           "url": "https://flash.jin10.com/detail/20251118235722721800",
           "source": "金十数据",
@@ -85,15 +174,48 @@
           "time_info": "00时26分"
         },
         {
+          "title": "金十图示：2025年11月18日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251119050528422800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "金十图示：2025年11月18日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251119050517257800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
           "title": "美股银行股濒临跌破关键支撑位 将对整体股市发出严重警告",
           "url": "https://flash.jin10.com/detail/20251119025030602800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "美国债市冲高回落，美股抛售一度带来避险需求",
+          "url": "https://wallstreetcn.com/livenews/3006725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         }
       ]
     },
@@ -160,7 +282,7 @@
     },
     {
       "keyword_group": "招股书 融资",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "市场消息：瑞典AI编程初创公司Lovable接近按60亿美元估值完成最新一轮融资，年化持续收入达到2亿美元。",
@@ -185,6 +307,28 @@
           "time_info": "00时26分"
         },
         {
+          "title": "Kraken完成新一轮融资，估值达200亿美元",
+          "url": "https://wallstreetcn.com/livenews/3006745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "芯片初创公司TenStorrent洽谈融资至少8亿美元，由富达Fidelity牵头讨论。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3006736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
           "title": "据知情人士透露，英伟达和微软承诺，将参与Anthropic的下一轮融资。（路透）",
           "url": "https://wallstreetcn.com/livenews/3006661",
           "source": "华尔街见闻-快讯",
@@ -199,7 +343,7 @@
     },
     {
       "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何评价京东外卖正式上线独立 App，并推出京东点评且永不商业化，背后有哪些考量？",
@@ -223,6 +367,62 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 02时28分]"
+        },
+        {
+          "title": "拼多多收跌7.3%，创5月27日以来最差单日表现。",
+          "url": "https://wallstreetcn.com/livenews/3006731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "美股收盘：三大股指齐挫 拼多多跌超7%",
+          "url": "https://flash.jin10.com/detail/20251119050132552800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数收涨0.42%，报7793.00点。 热门中概股里，大全新能源初步收跌6.7%，阿特斯太阳能跌6.7%，晶科能源跌6.1%，亚朵跌2.9%，再鼎医药跌2.2%，蔚来跌1.5%，百胜中国、新东方涨超2.6%。 ETF中，XtrackersHarvest中证50（ASHS）收跌0.41%，德银嘉实沪深300指数ETF（ASHR）收跌0.06%。 中国ETF-iShares MSCI（MCHI）收跌0.57%，中概互联网指数ETF（KWEB）收跌0.24%，中国科技指数ETF（CQQQ）收跌0.13%。",
+          "url": "https://wallstreetcn.com/livenews/3006727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金价格下跌 国内投资者怎么办",
+          "url": "https://www.toutiao.com/trending/7574003822264061446/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         }
       ]
     },
@@ -238,8 +438,25 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 06时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财报 季报 年报",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759633",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         }
       ]
     }
