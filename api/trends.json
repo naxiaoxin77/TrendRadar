@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T20:39:03.544112+08:00",
-  "total_titles_processed": 1387,
+  "generated_at": "2025-11-19T22:18:58.395321+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
@@ -93,11 +93,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 20时39分]"
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 22时18分]"
         },
         {
           "title": "花旗将携程美股目标价由85美元上调至86美元，预计携程出境业务营收仍能维持中双位数增长。",
@@ -151,9 +152,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3007260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "美股科技股遭抛售 英伟达跌近3%",
@@ -173,7 +185,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -195,7 +207,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -217,7 +229,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -324,7 +336,7 @@
     },
     {
       "keyword_group": "招股书 融资",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "据华尔街日报：消息人士称，xAI正与投资者进行高级别谈判，以筹集150亿美元，此轮融资将使xAI的估值达到2300亿美元。",
@@ -336,6 +348,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "AI音乐平台Suno按24.5亿美元估值融资2.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3007269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "市场消息：瑞典AI编程初创公司Lovable接近按60亿美元估值完成最新一轮融资，年化持续收入达到2亿美元。",
@@ -358,6 +381,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（11月18日）担保隔夜融资利率（SOFR）报3.94%，之前一天报4.00%。 上个交易日有效的联邦基金利率报3.88%，之前一天报3.88%。",
+          "url": "https://wallstreetcn.com/livenews/3007264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "Kraken完成新一轮融资，估值达200亿美元",
@@ -399,7 +433,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -472,7 +506,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -497,6 +531,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Meta Google",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
+          "url": "https://www.zhihu.com/question/1974273046480184125",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "谷歌：即日起，美国地区的Google AI Pro和Ultra订阅用户可以使用Gemini 3 Pro。",
+          "url": "https://flash.jin10.com/detail/20251119000659140800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "Meta在美国联邦贸易委员会（FTC）针对Instagram和WhatsApp交易的2020年诉讼中胜诉。 美国法院裁定，交易并没有违反反垄断法。",
+          "url": "https://wallstreetcn.com/livenews/3006677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "Meta旗下Vibes AI至11月9日的日活用户数Wie200万。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3006673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "meta跌幅收窄至0.5%，此前法官裁定Meta公司收购Instagram和WhatsApp并未违反反垄断规定。",
+          "url": "https://flash.jin10.com/detail/20251119020042234800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "Meta首席营收官John Hegeman离职，扎克伯格正在改组领导层。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3006660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
         }
       ]
     },
@@ -562,67 +668,6 @@
       ]
     },
     {
-      "keyword_group": "Meta Google",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "谷歌：即日起，美国地区的Google AI Pro和Ultra订阅用户可以使用Gemini 3 Pro。",
-          "url": "https://flash.jin10.com/detail/20251119000659140800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "Meta在美国联邦贸易委员会（FTC）针对Instagram和WhatsApp交易的2020年诉讼中胜诉。 美国法院裁定，交易并没有违反反垄断法。",
-          "url": "https://wallstreetcn.com/livenews/3006677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "Meta旗下Vibes AI至11月9日的日活用户数Wie200万。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3006673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "meta跌幅收窄至0.5%，此前法官裁定Meta公司收购Instagram和WhatsApp并未违反反垄断规定。",
-          "url": "https://flash.jin10.com/detail/20251119020042234800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "Meta首席营收官John Hegeman离职，扎克伯格正在改组领导层。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3006660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "财报 季报 年报",
       "match_count": 5,
       "titles": [
@@ -634,8 +679,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时21分 ~ 20时39分]"
+          "appearance_count": 8,
+          "time_info": "[09时21分 ~ 22时18分]"
         },
         {
           "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
@@ -669,11 +714,12 @@
           "url": "https://wallstreetcn.com/articles/3759693",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 22时18分]"
         },
         {
           "title": "小米盘中一度跌超6%，目前跌幅收窄至3.5%。此前小米公布三季度财报，花旗调低目标价。",
