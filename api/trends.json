@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T14:28:20.272817+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2025-11-19T16:25:34.529368+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
@@ -354,7 +354,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         }
@@ -444,7 +444,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -466,7 +466,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -545,6 +545,57 @@
       ]
     },
     {
+      "keyword_group": "小米集团 泡泡玛特 POP MART",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "小米集团股价跌破40港元，较6月最高点已跌超30%",
+          "url": "https://www.cls.cn/detail/2204599",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 16时25分]"
+        },
+        {
+          "title": "小米集团股价跌破40港元",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E8%82%A1%E4%BB%B7%E8%B7%8C%E7%A0%B440%E6%B8%AF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 16时25分]"
+        },
+        {
+          "title": "港股收盘，恒生指数收跌0.38%，恒生科技指数收跌0.69%。周大福、紫金矿业涨超2%；小米集团跌超4%，翰森制药跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3007063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "大和证券：将小米集团(01810.HK)目标价从68港元下调至55港元。",
+          "url": "https://flash.jin10.com/detail/20251119134420812800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "财报 季报 年报",
       "match_count": 4,
       "titles": [
@@ -556,8 +607,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 14时28分]"
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 16时25分]"
+        },
+        {
+          "title": "英伟达财报倒计时！期权市场暗示：史上最大单日市值巨震要来了？",
+          "url": "https://www.cls.cn/detail/2204561",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 16时25分]"
         },
         {
           "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
@@ -569,20 +633,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时18分 ~ 14时28分]"
-        },
-        {
-          "title": "英伟达财报倒计时！期权市场暗示：史上最大单日市值巨震要来了？",
-          "url": "https://www.cls.cn/detail/2204561",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[06时18分 ~ 16时25分]"
         },
         {
           "title": "小米盘中一度跌超6%，目前跌幅收窄至3.5%。此前小米公布三季度财报，花旗调低目标价。",
@@ -594,45 +646,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米集团 泡泡玛特 POP MART",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "小米集团股价跌破40港元，较6月最高点已跌超30%",
-          "url": "https://www.cls.cn/detail/2204599",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "小米集团股价跌破40港元",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E8%82%A1%E4%BB%B7%E8%B7%8C%E7%A0%B440%E6%B8%AF%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "大和证券：将小米集团(01810.HK)目标价从68港元下调至55港元。",
-          "url": "https://flash.jin10.com/detail/20251119134420812800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
         }
       ]
     },
@@ -658,7 +671,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         }
