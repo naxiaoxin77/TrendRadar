@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T02:25:35.665595+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2025-11-22T04:21:23.603101+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 04时21分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 04时21分]"
         },
         {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 04时21分]"
         },
         {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
@@ -49,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 04时21分]"
         },
         {
           "title": "美股为何高台跳水？华尔街分析师：五大力量共同作用",
@@ -60,8 +60,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 04时21分]"
+        },
+        {
+          "title": "标普500指数、纳斯达克100指数攀升至盘中高点。",
+          "url": "https://flash.jin10.com/detail/20251122025907221800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "标普500指数和纳斯达克指数一度创下两个多月来的新低。",
@@ -103,9 +114,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "英伟达股价短线拉升，日内整体上涨1.9%，美股早盘一度下跌超4%。 标普500指数上涨1.75%，道指涨811点涨幅1.77%，纳指涨399点涨幅1.81%，纳斯达克100指数涨406点涨幅1.66%，半导体指数涨1.99%。",
+          "url": "https://wallstreetcn.com/livenews/3008862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "纳指涨幅扩大至1%，英伟达转涨，半导体指数涨幅扩大至1.2%。 标普500指数涨1.2%，道指涨637点涨幅1.4%，纳斯达克100指数涨1%。",
@@ -114,7 +136,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -136,7 +158,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -147,7 +169,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -165,6 +187,34 @@
       ]
     },
     {
+      "keyword_group": "Meta Google",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
+          "url": "https://flash.jin10.com/detail/20251122020035429800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "Meta进军电力交易以支持AI扩张，应对供电挑战",
+          "url": "https://wallstreetcn.com/livenews/3008857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -176,8 +226,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 04时21分]"
         },
         {
           "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
@@ -187,8 +237,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 04时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴 京东 拼多多 冬海",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数涨超2%，热门中概股阿特斯太阳能涨超6.4%，亚朵、斗鱼、蔚来、唯品会涨超4%，理想涨2.9%，京东、百胜中国、百度涨超2%，小鹏、网易至多涨1.8%，阿里巴巴涨0.9%。 ETF中，KWEB涨1.3%，CQQQ涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3008869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         }
       ]
     },
@@ -204,25 +271,25 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 04时21分]"
         }
       ]
     },
     {
-      "keyword_group": "Meta Google",
+      "keyword_group": "招股书 融资",
       "match_count": 1,
       "titles": [
         {
-          "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
-          "url": "https://flash.jin10.com/detail/20251122020035429800",
-          "source": "金十数据",
+          "title": "阿根廷经济部长Caputo驳斥政府与银行业讨论200亿美元融资的说法。",
+          "url": "https://wallstreetcn.com/livenews/3008851",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时25分"
+          "time_info": "04时21分"
         }
       ]
     }
