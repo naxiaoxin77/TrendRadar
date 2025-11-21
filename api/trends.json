@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T16:26:12.323192+08:00",
-  "total_titles_processed": 1275,
+  "generated_at": "2025-11-21T18:20:14.833865+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时20分 ~ 16时26分]"
+        },
+        {
+          "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
+          "url": "https://wallstreetcn.com/articles/3759840",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 18时20分]"
         },
         {
           "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
@@ -33,17 +46,18 @@
           "time_info": "[11时10分 ~ 16时26分]"
         },
         {
-          "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
-          "url": "https://wallstreetcn.com/articles/3759840",
-          "source": "华尔街见闻",
+          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
+          "url": "https://www.cls.cn/detail/2206941",
+          "source": "财联社热门",
           "ranks": [
-            5,
+            10,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 16时26分]"
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 18时20分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -68,8 +82,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 16时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 18时20分]"
         },
         {
           "title": "美股收盘：英伟达财报未能稳住市场 三大指数集体收跌 纳指大跌逾2%",
@@ -95,19 +109,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时24分 ~ 06时17分]"
-        },
-        {
-          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
-          "url": "https://www.cls.cn/detail/2206941",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 16时26分]"
         },
         {
           "title": "纳斯达克金龙中国指数跌超2.7%。",
@@ -138,9 +139,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
+          "url": "https://wallstreetcn.com/articles/3759849",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 18时20分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -155,16 +168,15 @@
           "time_info": "[14时29分 ~ 16时26分]"
         },
         {
-          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
-          "url": "https://wallstreetcn.com/articles/3759849",
-          "source": "华尔街见闻",
+          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
+          "url": "https://www.cls.cn/detail/2207216",
+          "source": "财联社热门",
           "ranks": [
-            9,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时29分 ~ 16时26分]"
+          "time_info": "[18时19分 ~ 18时20分]"
         },
         {
           "title": "科兴生物被美股“劝退”",
@@ -188,6 +200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "美股期货短线跳水，纳指期货日内跌幅扩大至0.8%，标普500指数期货跌0.38%，道指期货日内涨0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3008616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "美股大跌 英伟达跌超3%",
@@ -267,6 +290,17 @@
           "time_info": "04时22分"
         },
         {
+          "title": "标普500指数期货转跌，纳斯达克100指数期货下跌0.26%。英伟达盘前跌幅扩大至近2%。",
+          "url": "https://wallstreetcn.com/livenews/3008598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "标普500指数跌幅扩大至1%，道指下跌318点、跌幅0.7%，纳指跌295点跌幅1.3%，纳斯达克100指数跌376点跌幅1.5%，半导体指数跌3%。 比特币日内大跌5000美元，跌幅5.64%，现报86400美元/枚。",
           "url": "https://wallstreetcn.com/livenews/3008112",
           "source": "华尔街见闻-快讯",
@@ -287,6 +321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "标普500指数期货转跌，纳斯达克100指数期货下跌0.26%。英伟达(NVDA.O)盘前跌幅扩大至近2%。",
+          "url": "https://flash.jin10.com/detail/20251121174806133800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "半导体ETF收跌超4.2%，领跌美股行业ETF",
@@ -437,7 +482,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -459,7 +504,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         }
@@ -467,7 +512,7 @@
     },
     {
       "keyword_group": "海底捞 颐海国际 霸王茶姬 瑞幸咖啡 蜜雪冰城",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "霸王茶姬张俊杰将迎娶“光伏二代”高海纯？天合光能回应：已登记结婚",
@@ -496,6 +541,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时24分 ~ 09时20分]"
+        },
+        {
+          "title": "信达生物将被纳入恒生指数； 中国宏桥、信达生物、百胜中国将被纳入恒生中国企业指数；海底捞、新东方、新奥能源将被从恒生中国企业指数中剔除； 零跑科技将被纳入恒生科技指数，ASMPT将被从恒生科技指数中剔除。",
+          "url": "https://wallstreetcn.com/livenews/3008617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "面包界真的需要一个蜜雪冰城",
@@ -536,8 +592,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 16时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 18时20分]"
         },
         {
           "title": "英伟达财报提振效果昙花一现，标普500指数转跌，美债上扬，比特币跌破9万关口",
@@ -615,8 +671,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时10分 ~ 16时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时10分 ~ 18时20分]"
         },
         {
           "title": "比强劲的财报更重要，高盛：英伟达管理层解答了三个“关键问题”",
@@ -688,6 +744,23 @@
       ]
     },
     {
+      "keyword_group": "小米集团 泡泡玛特 POP MART",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小米集团公关部总经理王化确认转岗小米武汉总部",
+          "url": "https://wallstreetcn.com/livenews/3008577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Meta Google",
       "match_count": 1,
       "titles": [
@@ -718,6 +791,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "交易员表示，印度央行可能在美元兑卢比汇率接近89.50时进行了干预，以阻止卢比进一步下跌。",
+          "url": "https://flash.jin10.com/detail/20251121173341974800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         }
       ]
     }
