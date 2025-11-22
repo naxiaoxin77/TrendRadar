@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T04:19:35.190766+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2025-11-23T06:17:26.164428+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
@@ -14,22 +14,24 @@
           "ranks": [
             4,
             5,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 06时17分]"
         },
         {
           "title": "霸王茶姬创始人辟谣",
           "url": "https://www.cls.cn/detail/2207934",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 06时17分]"
         }
       ]
     },
@@ -46,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 06时17分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -57,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 06时17分]"
         }
       ]
     },
@@ -74,8 +76,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 06时17分]"
         }
       ]
     },
@@ -91,8 +93,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 06时17分]"
         }
       ]
     }
