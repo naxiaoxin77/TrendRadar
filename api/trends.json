@@ -1,546 +1,61 @@
 {
-  "generated_at": "2025-11-22T22:15:46.442517+08:00",
-  "total_titles_processed": 1395,
+  "generated_at": "2025-11-23T00:21:26.289059+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "海底捞 颐海国际 霸王茶姬 瑞幸咖啡 蜜雪冰城",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "霸王茶姬的张俊杰为什么能成功？",
+          "url": "https://www.zhihu.com/question/666723937",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "霸王茶姬创始人辟谣",
+          "url": "https://www.cls.cn/detail/2207934",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 28,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：美联储“鸽声”提振市场 三大指数集体反弹 道指涨超1%",
           "url": "https://www.cls.cn/detail/2207916",
           "source": "财联社热门",
           "ranks": [
-            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时18分 ~ 22时15分]"
-        },
-        {
-          "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
-          "url": "https://wallstreetcn.com/articles/3759847",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 09时18分]"
-        },
-        {
-          "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
-          "url": "https://wallstreetcn.com/articles/3759840",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 06时18分]"
-        },
-        {
-          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
-          "url": "https://wallstreetcn.com/articles/3759849",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 09时18分]"
-        },
-        {
-          "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2207754",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 09时18分]"
-        },
-        {
-          "title": "兆威机电、迈威生物港股IPO获中国证监会备案",
-          "url": "https://flash.jin10.com/detail/20251122152827880800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 18时18分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.82%，报284.12点，本周累计下跌3.50%，11月20日美股早盘出现一波显著的下跌行情。 纽约证交所ARCA金矿开采商指数收跌0.11%，报2063.11点，本周累跌4.41%。",
-          "url": "https://wallstreetcn.com/livenews/3008920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时18分 ~ 11时03分]"
-        },
-        {
-          "title": "兆威机电、迈威生物港股IPO获中国证监会备案",
-          "url": "https://wallstreetcn.com/livenews/3008968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 18时18分]"
-        },
-        {
-          "title": "小盘股指ETF收涨超3.8%，和地产ETF领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3008935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时18分 ~ 14时25分]"
-        },
-        {
-          "title": "周五（11月21日）纽约尾盘，标普500股指期货最终上涨1.15%，道指期货涨1.20%，纳斯达克100股指期货涨0.93%。 罗素2000股指期货涨2.89%。",
-          "url": "https://wallstreetcn.com/livenews/3008934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时18分 ~ 14时25分]"
-        },
-        {
-          "title": "美股为何高台跳水？华尔街分析师：五大力量共同作用",
-          "url": "https://www.cls.cn/detail/2207612",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 06时18分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
           "url": "https://wallstreetcn.com/articles/3759920",
           "source": "华尔街见闻",
           "ranks": [
-            9,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 22时15分]"
-        },
-        {
-          "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
-          "url": "https://wallstreetcn.com/livenews/3008932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 12时21分]"
-        },
-        {
-          "title": "标普500指数、纳斯达克100指数攀升至盘中高点。",
-          "url": "https://flash.jin10.com/detail/20251122025907221800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 06时18分]"
-        },
-        {
-          "title": "美股深夜反弹 中国资产爆发",
-          "url": "https://www.toutiao.com/trending/7575388560119827987/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
-        },
-        {
-          "title": "标普500指数和纳斯达克指数一度创下两个多月来的新低。",
-          "url": "https://flash.jin10.com/detail/20251121234437184800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "美股半导体ETF跌约3.9%，英伟达大跌4.2%",
-          "url": "https://wallstreetcn.com/livenews/3008802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "高盛合伙人：美股出现多头缴械迹象，市场似乎正进入AI周期的新阶段",
-          "url": "https://wallstreetcn.com/livenews/3008798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "金十图示：2025年11月21日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251122013313400800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "英伟达股价短线拉升，日内整体上涨1.9%，美股早盘一度下跌超4%。 标普500指数上涨1.75%，道指涨811点涨幅1.77%，纳指涨399点涨幅1.81%，纳斯达克100指数涨406点涨幅1.66%，半导体指数涨1.99%。",
-          "url": "https://wallstreetcn.com/livenews/3008862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "纳指涨幅扩大至1%，英伟达转涨，半导体指数涨幅扩大至1.2%。 标普500指数涨1.2%，道指涨637点涨幅1.4%，纳斯达克100指数涨1%。",
-          "url": "https://wallstreetcn.com/livenews/3008821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "纳斯达克100指数再度转跌。",
-          "url": "https://wallstreetcn.com/livenews/3008790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "金十图示：2025年11月21日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251122013041840800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "美股V形反转，道指涨约1%",
-          "url": "https://wallstreetcn.com/livenews/3008815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "标普500指数收涨64.23点，涨幅0.98%，报6602.99点。 道琼斯工业平均指数收涨493.15点，涨幅1.08%，报46245.41点。 纳斯达克综合指数（纳指）收涨195.035点，涨幅0.88%，报22273.083点。 纳斯达克100指数收涨185.194点，涨幅0.77%，报24239.573点。 纳斯达克生物科技指数收涨1.74%，报5603.87点。 费城半导体指数收涨0.86%，报6406.432点。 费城证交所KBW银行指数收涨1.48%，报148.14点。 道琼斯KBW地区银行指数收涨3.39%，报118.61点。",
-          "url": "https://wallstreetcn.com/livenews/3008899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "美股泡沫离破裂还有多久",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%A6%BB%E7%A0%B4%E8%A3%82%E8%BF%98%E6%9C%89%E5%A4%9A%E4%B9%85",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        },
-        {
-          "title": "纳斯达克100指数反弹，涨幅扩大至0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3008781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "金十图示：2025年11月21日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251122093221566800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "招股书 融资",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "欧盟气候专员霍克斯特拉：我们在适应气候变化的融资方面迈出了非常重要的一步。",
-          "url": "https://flash.jin10.com/detail/20251122220848948800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "北京“十四五”期间企业直接融资超5.6万亿元",
-          "url": "https://wallstreetcn.com/livenews/3008980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 20时32分]"
-        },
-        {
-          "title": "二十国集团峰会：南非总统拉马福萨表示，我们必须增加对发展中国家的气候融资投入。",
-          "url": "https://flash.jin10.com/detail/20251122164825283800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "阿根廷经济部长Caputo驳斥政府与银行业讨论200亿美元融资的说法。",
-          "url": "https://wallstreetcn.com/livenews/3008851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "海底捞 颐海国际 霸王茶姬 瑞幸咖啡 蜜雪冰城",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "霸王茶姬创始人辟谣",
-          "url": "https://www.cls.cn/detail/2207934",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时03分 ~ 22时15分]"
-        },
-        {
-          "title": "如何看待霸王茶姬创始人张俊杰将和天合光能联席董事长高海纯结婚？商界「联姻」中感情和利益可以兼得吗？",
-          "url": "https://www.zhihu.com/question/1974860032370820006",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 11时03分]"
-        },
-        {
-          "title": "霸王茶姬创始人辟谣：此前未有过婚姻",
-          "url": "https://www.baidu.com/s?wd=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%BE%9F%E8%B0%A3%EF%BC%9A%E6%AD%A4%E5%89%8D%E6%9C%AA%E6%9C%89%E8%BF%87%E5%A9%9A%E5%A7%BB",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 12时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "比亚迪法务部发文称「王悟空说车」侵权被判公开道歉并赔偿 31.38 万元，怎么看车企用法律手段维权行为？",
-          "url": "https://www.zhihu.com/question/1974789487952360596",
-          "source": "知乎",
-          "ranks": [
-            3,
-            6,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时18分 ~ 12时21分]"
-        },
-        {
-          "title": "理想汽车被曝大反思，承认产品节奏变慢，后续产品有望不再「套娃」，理想当前面临哪些困境？会带来哪些改变？",
-          "url": "https://www.zhihu.com/question/1974778440168273303",
-          "source": "知乎",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 20时32分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.23%，报7514.31点。 热门中概股里，网易有道初步收涨6.7%，阿特斯太阳能涨5.3%，亚朵涨4.9%，蔚来涨3.4%，腾讯音乐涨2.6%，理想涨2.1%，小马智行则跌1.3%。 ETF中，中概互联网指数ETF（KWEB）收涨0.63%，中国科技指数ETF（CQQQ）收跌0.22%，XtrackersHarvest中证50（ASHS）收跌2.08%，德银嘉实沪深300指数ETF（ASHR）收跌1.18%。 本周，CQQQ累跌5.24%（此前三周先后跌0.78%、1.84%、3.41%），ASHS累跌5.21%，KWEB累跌4.65%连跌四周（之前三周先后跌1.53%、2.45%、1.87%），ASHR累跌3.37%。",
-          "url": "https://wallstreetcn.com/livenews/3008897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美联储高官安抚市场，美股指数集体高开，美债走高，礼来市值破万亿美元，比特币短线反弹3000美元，金银跌幅收窄",
-          "url": "https://wallstreetcn.com/articles/3759842",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 06时18分]"
-        },
-        {
-          "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 06时18分]"
-        },
-        {
-          "title": "两年期美债收益率周五跌超2.5个基点，本周累跌超9.8个基点",
-          "url": "https://wallstreetcn.com/livenews/3008925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 12时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Meta Google",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
-          "url": "https://flash.jin10.com/detail/20251122020035429800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "Meta进军电力交易以支持AI扩张，应对供电挑战",
-          "url": "https://wallstreetcn.com/livenews/3008857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "00时21分"
         }
       ]
     },
@@ -553,28 +68,28 @@
           "url": "https://wallstreetcn.com/livenews/3009005",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数涨超2%，热门中概股阿特斯太阳能涨超6.4%，亚朵、斗鱼、蔚来、唯品会涨超4%，理想涨2.9%，京东、百胜中国、百度涨超2%，小鹏、网易至多涨1.8%，阿里巴巴涨0.9%。 ETF中，KWEB涨1.3%，CQQQ涨0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3008869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "00时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "招股书 融资",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧盟气候专员霍克斯特拉：我们在适应气候变化的融资方面迈出了非常重要的一步。",
+          "url": "https://flash.jin10.com/detail/20251122220848948800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
         }
       ]
     }
