@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T18:18:22.036878+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2025-11-23T20:32:27.255178+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
@@ -92,6 +92,34 @@
       ]
     },
     {
+      "keyword_group": "招股书 融资",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "欧盟气候专员霍克斯特拉：我们在适应气候变化的融资方面迈出了非常重要的一步。",
+          "url": "https://flash.jin10.com/detail/20251122220848948800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 06时17分]"
+        },
+        {
+          "title": "南非总统：二十国集团峰会承认需要从所有渠道加大气候融资力度。",
+          "url": "https://flash.jin10.com/detail/20251123192402666800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "品牌出海 跨境电商",
       "match_count": 1,
       "titles": [
@@ -113,19 +141,36 @@
       ]
     },
     {
-      "keyword_group": "招股书 融资",
+      "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
       "match_count": 1,
       "titles": [
         {
-          "title": "欧盟气候专员霍克斯特拉：我们在适应气候变化的融资方面迈出了非常重要的一步。",
-          "url": "https://flash.jin10.com/detail/20251122220848948800",
-          "source": "金十数据",
+          "title": "理想汽车范皓宇：VLA大模型可视化是理想聚焦用户价值的体现",
+          "url": "https://wallstreetcn.com/livenews/3009069",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            17
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财报 季报 年报",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "下周重磅日程：阿里美团财报、美国对乌“最后通牒日”、“美联储最爱通胀指标”",
+          "url": "https://wallstreetcn.com/articles/3759866",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         }
       ]
     }
