@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T04:20:33.740212+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2025-11-24T06:17:57.334408+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5%E8%83%8C%E5%90%8E%E7%9A%84%E6%9C%AA%E6%9D%A5AI%E5%AF%86%E7%A0%81",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "下周重磅日程：阿里美团财报、美国对乌“最后通牒日”、“美联储最爱通胀指标”",
@@ -26,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 06时17分]"
         }
       ]
     }
