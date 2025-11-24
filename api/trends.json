@@ -1,453 +1,100 @@
 {
-  "generated_at": "2025-11-24T22:19:45.098074+08:00",
-  "total_titles_processed": 1518,
+  "generated_at": "2025-11-25T00:22:13.509306+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股 纳斯达克 港股 中概股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美股高开，中概指数早盘涨超2%跑赢大盘，比特币持续位于8.7万美元下方",
+          "url": "https://wallstreetcn.com/articles/3759998",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "降息预期重燃市场信心 美股三大期指集体走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2209422",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时22分]"
+        },
+        {
+          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
+          "url": "https://wallstreetcn.com/articles/3759968",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "减肥药概念股涨跌各异，ANAB美股盘初涨4.7%，Hims & Hers涨4.3%，渤健BIIB涨2.7%，礼来则微跌，雅培跌超0.6%，诺和诺德ADR跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/3009662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，半导体ETF涨2.43%，网络股指数ETF、科技行业ETF、生物科技指数ETF、可选消费ETF至多涨1.48%，能源业ETF则跌1.29%。",
+          "url": "https://wallstreetcn.com/livenews/3009660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股 上证 深证",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
         {
           "title": "A股三大指数全线收涨，阿里概念股大涨，港股高开高走，恒科指涨超2%，科网、新能源车反弹",
           "url": "https://wallstreetcn.com/articles/3759974",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 22时19分]"
-        },
-        {
-          "title": "A股三大指数翻红，创业板涨近1%，阿里概念股大涨，港股高开高走，恒指、恒科指涨超2%，科网、新能源车反弹",
-          "url": "https://wallstreetcn.com/articles/3759974",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "A股三大指数翻红，创业板涨近1%，AI应用领涨，港股高开高走，恒指、恒科指涨超2%，科网、新能源车反弹",
-          "url": "https://wallstreetcn.com/articles/3759974",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "上证指数早盘收报3821.68点，跌0.34%。 深证成指早盘收报12463.79点，跌0.59%。 创业板指早盘收报2897.68点，跌0.77%。 沪深300早盘收报4427.55点，跌0.59%。 科创50早盘收报1280.64点，跌0.40%。 中证500早盘收报6804.37点，跌0.19%。 中证1000早盘收报7071.44点，涨0.05%。",
-          "url": "https://wallstreetcn.com/livenews/3009330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "A股三大指数午后再度翻红，中船系、军工装备、智谱AI板块涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3009370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "A股三大指数集体翻绿，创业板指此前一度涨超1%，锂矿、海南、磷化工、燃气等板块跌幅居前，沪深京三市下跌个股超2100只。",
-          "url": "https://wallstreetcn.com/livenews/3009289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "A股三大指数集体高开",
-          "url": "https://wallstreetcn.com/livenews/3009262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "A股收盘：三大指数小幅上涨，军工板块集体爆发",
-          "url": "https://wallstreetcn.com/livenews/3009419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
-          "url": "https://wallstreetcn.com/articles/3759968",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时29分 ~ 22时19分]"
-        },
-        {
-          "title": "美股期货延续涨势，欧股上涨，黄金下跌0.2%，比特币月内创三年最差表现",
-          "url": "https://wallstreetcn.com/articles/3759998",
-          "source": "华尔街见闻",
-          "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "美股盘前：中概股、科技股普涨",
-          "url": "https://wallstreetcn.com/livenews/3009505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "诺和诺德美股盘前跌超11%，其Ozempic片剂未能缓解阿尔茨海默病",
-          "url": "https://wallstreetcn.com/livenews/3009588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时38分"
-        },
-        {
-          "title": "深交所：港股通标的证券名单调整，调入三一重工、剑桥科技，11月24日起生效。",
-          "url": "https://wallstreetcn.com/livenews/3009238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "港股半导体股下跌，华虹半导体跌超11%，中芯国际跌近6%。",
-          "url": "https://wallstreetcn.com/livenews/3009362",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "诺和诺德美股盘前跌近12%，公司阿尔茨海默病相关试验失败",
-          "url": "https://wallstreetcn.com/livenews/3009588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "消息人士：京东工业拟于下周启动IPO，寻求最多筹资5亿美元",
-          "url": "https://wallstreetcn.com/livenews/3009472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "恒生科技指数涨3%，恒生指数涨2.1%。文远知行涨约12%，快手涨约8%，网易涨约6%，阿里巴巴涨约5%。",
-          "url": "https://wallstreetcn.com/livenews/3009390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "京东工业通过港交所聆讯 刘强东将迎第六家上市公司",
-          "url": "https://www.cls.cn/detail/2208322",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 14时29分]"
-        },
-        {
-          "title": "港股快速拉升，恒生科技指数涨幅扩大至2%，恒指涨1.4%。阿里巴巴快速拉升涨超4%，快手涨近5%。",
-          "url": "https://wallstreetcn.com/livenews/3009299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 12时33分]"
-        },
-        {
-          "title": "市场消息：京东工业计划于12月8日确定发行价格，并于12月11日上市，将在香港启动规模最高达5亿美元的首次公开募股。",
-          "url": "https://flash.jin10.com/detail/20251124160544994800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "京东工业开始评估投资者对香港IPO的兴趣。",
-          "url": "https://wallstreetcn.com/livenews/3009223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "00时22分"
         }
       ]
     },
     {
       "keyword_group": "招股书 融资",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "惠誉评级：亚太发达市场金融公司增长温和，融资支持减弱。",
-          "url": "https://flash.jin10.com/detail/20251124113125132800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "拓竹科技创始人陶冶：目前没有进行中的融资",
-          "url": "https://wallstreetcn.com/livenews/3009331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "两市融资余额减少290.60亿元",
-          "url": "https://wallstreetcn.com/livenews/3009241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "拓竹回应：新一轮融资消息不实",
-          "url": "https://wallstreetcn.com/livenews/3009360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财报 季报 年报",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "英伟达财报背后的未来AI密码",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5%E8%83%8C%E5%90%8E%E7%9A%84%E6%9C%AA%E6%9D%A5AI%E5%AF%86%E7%A0%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            7,
-            4,
-            9,
-            19,
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 16时27分]"
-        },
-        {
-          "title": "本周重磅日程：阿里美团财报、美国对乌“最后通牒日”、“美联储最爱通胀指标”",
-          "url": "https://wallstreetcn.com/articles/3759866",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 14时29分]"
-        },
-        {
-          "title": "下周重磅日程：阿里美团财报、美国对乌“最后通牒日”、“美联储最爱通胀指标”",
-          "url": "https://wallstreetcn.com/articles/3759866",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 06时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Meta Google",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国参议员呼吁联邦贸易委员会（FTC）和证券交易委员会（SEC）对Meta平台上的诈骗广告进行调查。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3009596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 22时19分]"
-        },
-        {
-          "title": "中信证券：英伟达指引、Google Gemini 3超预期 持续看好AI PCB板块",
-          "url": "https://wallstreetcn.com/livenews/3009237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "海底捞 颐海国际 霸王茶姬 瑞幸咖啡 蜜雪冰城",
       "match_count": 1,
       "titles": [
         {
-          "title": "蜜雪冰城的幸运咖全球门店突破一万家，紧追瑞幸和库迪",
-          "url": "https://wallstreetcn.com/livenews/3009341",
+          "title": "新一轮AI超级周期正在开启，汇丰预计OpenAI到2030年或需高达2070亿美元新融资",
+          "url": "https://wallstreetcn.com/livenews/3009672",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米集团 泡泡玛特 POP MART",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小米集团：控股股东雷军斥资超1亿港元增持本公司股份",
-          "url": "https://wallstreetcn.com/livenews/3009560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【恒指高开0.92%，恒生科技指数涨1.13%】蔚来涨超4%，网易涨超3%，百度、腾讯音乐涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3009258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "交易员：印度央行很可能在当地现货市场开盘前出手干预，以支撑卢比汇率。印度卢比兑美元现报89.26，此前曾跌至接近89.50。",
-          "url": "https://flash.jin10.com/detail/20251124111934407800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
+          "time_info": "00时22分"
         }
       ]
     }
