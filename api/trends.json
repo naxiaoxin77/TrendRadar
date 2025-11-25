@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T16:26:56.024195+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2025-11-25T18:22:23.874826+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
@@ -103,6 +103,17 @@
           "time_info": "06时18分"
         },
         {
+          "title": "美股三大股指期货跌幅扩大，道指期货跌0.19%，标普500指数期货跌0.28%，纳斯达克100指数期货跌0.46%。",
+          "url": "https://wallstreetcn.com/livenews/3010137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "（美股）费城金银指数收涨5.51%，报299.78点。 纽约证交所ARCA金矿开采商指数收涨4.86%，报2163.29点，北京时间22:30美股开盘之前维持微幅上涨状态、持续交投于2070点附近，随后迅速扩大涨幅，并持续走高。",
           "url": "https://wallstreetcn.com/livenews/3009777",
           "source": "华尔街见闻-快讯",
@@ -178,6 +189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "分析：美股若震荡加剧，或迫使美联储降息",
+          "url": "https://flash.jin10.com/detail/20251125180247597800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超6.8%，谷歌A涨6.3%",
@@ -259,6 +281,125 @@
       ]
     },
     {
+      "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "蔚来汽车(NIO.N)：2025年第三季度净亏损为34.805亿元人民币（约合4.889亿美元），同比降31.2%，环比下降30.3%。",
+          "url": "https://flash.jin10.com/detail/20251125181350635800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "蔚来汽车(NIO.N)：2025年第三季度运营亏损为人民币35.215亿元（合4.947亿美元），同比下降32.8%，环比下降28.3%。",
+          "url": "https://flash.jin10.com/detail/20251125181320182800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "网传长城汽车控股的毫末智行已停工解散，具体情况如何？这对智驾行业会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1976227203042797070",
+          "source": "知乎",
+          "ranks": [
+            7,
+            11,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 09时21分]"
+        },
+        {
+          "title": "蔚来汽车(NIO.N)盘前涨近7%，公司三季度营收创历史新高。",
+          "url": "https://flash.jin10.com/detail/20251125181212962800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "蔚来汽车(NIO.N)：展望第四季度总营收将在327.58亿元至340.39亿元之间。",
+          "url": "https://flash.jin10.com/detail/20251125181022170800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "蔚来汽车(NIO.N)：2025年第三季度共交付了87,071辆汽车，较2024年第三季度增长40.8%，较2025年第二季度增长20.8%。",
+          "url": "https://flash.jin10.com/detail/20251125180955079800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "蔚来汽车(NIO.N)：预计2025年第四季度的汽车交付量将在120,000辆至125,000辆之间。",
+          "url": "https://flash.jin10.com/detail/20251125180939166800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "蔚来汽车(NIO.N)2025年Q3营收218亿元，较2024年第三季度增长16.7%，较2025年第二季度增长14.7%，上年同期为186.7亿元。",
+          "url": "https://flash.jin10.com/detail/20251125180859626800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "是否有研发飞行汽车？比亚迪回应：适时推出符合需求的产品",
+          "url": "https://wallstreetcn.com/livenews/3010110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "欧洲汽车制造商协会：比亚迪10月欧盟新车注册量增长195%。",
+          "url": "https://flash.jin10.com/detail/20251125130233844800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股 上证 深证",
       "match_count": 4,
       "titles": [
@@ -321,7 +462,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -347,11 +488,12 @@
           "url": "https://wallstreetcn.com/livenews/3010089",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 18时22分]"
         },
         {
           "title": "小米集团涨4.5%",
@@ -359,37 +501,6 @@
           "source": "微博",
           "ranks": [
             30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "网传长城汽车控股的毫末智行已停工解散，具体情况如何？这对智驾行业会产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1976227203042797070",
-          "source": "知乎",
-          "ranks": [
-            7,
-            11,
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时28分 ~ 09时21分]"
-        },
-        {
-          "title": "欧洲汽车制造商协会：比亚迪10月欧盟新车注册量增长195%。",
-          "url": "https://flash.jin10.com/detail/20251125130233844800",
-          "source": "金十数据",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -451,6 +562,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Meta Google",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
+          "url": "https://www.cls.cn/detail/2210305",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         }
       ]
     },
