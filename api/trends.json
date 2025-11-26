@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T14:29:19.500955+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2025-11-26T16:25:54.758257+08:00",
+  "total_titles_processed": 1246,
   "failed_sources": [],
   "trends": [
     {
@@ -107,7 +107,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -181,7 +181,7 @@
     },
     {
       "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "阿里巴巴Q3营收同比增长4.8%，云业务收入激增34%，即时零售强劲增长60% | 财报见闻",
@@ -192,8 +192,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 14时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 16时25分]"
         },
         {
           "title": "京东首车遭退定",
@@ -219,13 +219,24 @@
           "time_info": "[00时25分 ~ 06时18分]"
         },
         {
+          "title": "恒生指数收盘涨0.13%，恒生科技指数涨0.11%。美团涨近6%，恒瑞医药涨近5%，万国数据涨超3%，京东集团涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3010760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "摩根大通：将阿里巴巴(BABA.N)目标价从240美元下调至230美元。",
           "url": "https://flash.jin10.com/detail/20251126133307848800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -236,7 +247,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         }
@@ -244,7 +255,7 @@
     },
     {
       "keyword_group": "Meta Google",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
@@ -279,6 +290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        },
+        {
+          "title": "谷歌状态页面显示亚洲地区谷歌会议（Google Meet）服务出现问题。",
+          "url": "https://flash.jin10.com/detail/20251126154853273800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         }
       ]
     },
@@ -295,8 +317,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 16时25分]"
         },
         {
           "title": "两年期美债收益率跌超4个基点，报道称哈塞特在美联储主席候选人中领先优势明显",
@@ -349,8 +371,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时21分 ~ 14时29分]"
+          "appearance_count": 6,
+          "time_info": "[09时21分 ~ 16时25分]"
         }
       ]
     },
@@ -379,6 +401,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上证指数早盘收报3875.48点，涨0.14%。 深证成指早盘收报12982.74点，涨1.61%。 创业板指早盘收报3063.09点，涨2.76%。 沪深300早盘收报4527.22点，涨0.82%。 科创50早盘收报1319.35点，涨1.32%。 中证500早盘收报7013.45点，涨0.85%。 中证1000早盘收报7299.43点，涨0.68%。",
+          "url": "https://wallstreetcn.com/livenews/3010596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "上证指数收报3864.18点，跌0.15%。 深证成指收报12907.83点，涨1.02%。 创业板指收报3044.69点，涨2.14%。 沪深300收报4517.63点，涨0.61%。 科创50收报1315.04点，涨0.99%。 中证500收报6965.05点，涨0.15%。 中证1000收报7248.45点，跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3010713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         }
       ]
     },
@@ -412,26 +462,20 @@
       ]
     },
     {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 1,
+      "keyword_group": "财报 季报 年报",
+      "match_count": 2,
       "titles": [
         {
-          "title": "上证指数早盘收报3875.48点，涨0.14%。 深证成指早盘收报12982.74点，涨1.61%。 创业板指早盘收报3063.09点，涨2.76%。 沪深300早盘收报4527.22点，涨0.82%。 科创50早盘收报1319.35点，涨1.32%。 中证500早盘收报7013.45点，涨0.85%。 中证1000早盘收报7299.43点，涨0.68%。",
-          "url": "https://wallstreetcn.com/livenews/3010596",
-          "source": "华尔街见闻-快讯",
+          "title": "阿里财报后为何“高开低走”？高盛：AI和云业务超预期，但电话会“短期波动”说法加剧电商忧虑",
+          "url": "https://wallstreetcn.com/articles/3760129",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财报 季报 年报",
-      "match_count": 1,
-      "titles": [
+          "time_info": "16时25分"
+        },
         {
           "title": "财报公布后，惠普(HPQ.N)盘后下跌7.3%。",
           "url": "https://flash.jin10.com/detail/20251126052029128800",
