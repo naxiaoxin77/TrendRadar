@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T12:25:34.661725+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2025-11-26T14:29:19.500955+08:00",
+  "total_titles_processed": 1109,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 12时25分]"
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 14时29分]"
         },
         {
           "title": "美国9月PPI同比增长2.7% 美股期指涨跌不一 | 今夜看点",
@@ -101,6 +101,17 @@
           "time_info": "06时18分"
         },
         {
+          "title": "港股万科企业跌近5%。",
+          "url": "https://wallstreetcn.com/livenews/3010667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "区域银行ETF收涨超2.8%，领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3010410",
           "source": "华尔街见闻-快讯",
@@ -170,7 +181,7 @@
     },
     {
       "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "阿里巴巴Q3营收同比增长4.8%，云业务收入激增34%，即时零售强劲增长60% | 财报见闻",
@@ -181,8 +192,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 12时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 14时29分]"
         },
         {
           "title": "京东首车遭退定",
@@ -206,6 +217,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时25分 ~ 06时18分]"
+        },
+        {
+          "title": "摩根大通：将阿里巴巴(BABA.N)目标价从240美元下调至230美元。",
+          "url": "https://flash.jin10.com/detail/20251126133307848800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "京东竞购香港中环建设银行大厦50%股权。（HK01）",
+          "url": "https://wallstreetcn.com/livenews/3010624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         }
       ]
     },
@@ -262,8 +295,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 12时25分]"
+          "appearance_count": 4,
+          "time_info": "[09时22分 ~ 14时29分]"
         },
         {
           "title": "两年期美债收益率跌超4个基点，报道称哈塞特在美联储主席候选人中领先优势明显",
@@ -316,8 +349,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 12时25分]"
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 14时29分]"
         }
       ]
     },
@@ -389,7 +422,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         }
