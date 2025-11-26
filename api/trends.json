@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T09:22:12.146991+08:00",
-  "total_titles_processed": 740,
+  "generated_at": "2025-11-26T11:14:20.296971+08:00",
+  "total_titles_processed": 880,
   "failed_sources": [],
   "trends": [
     {
@@ -17,19 +17,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 09时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 11时14分]"
         },
         {
           "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
           "url": "https://www.cls.cn/detail/2210921",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 09时22分]"
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 11时14分]"
         },
         {
           "title": "周二（11月25日）纽约尾盘，标普500股指期货最终涨0.89%，道指期货涨1.46%，纳斯达克100股指期货涨0.49%。 罗素2000股指期货涨2.17%。",
@@ -81,11 +82,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%B0%B7%E6%AD%8C%E5%B8%82%E5%80%BC%E9%80%BC%E8%BF%914%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 09时22分]"
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 11时14分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.68%，报301.82点。 纽约证交所ARCA金矿开采商指数收涨0.77%，报2179.87点；北京时间22:30美股开盘之前持稳于2172点附近——保持微幅上涨状态、之后出现一波V形反转行情。",
@@ -179,8 +181,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 09时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 11时14分]"
         },
         {
           "title": "京东首车遭退定",
@@ -256,11 +258,12 @@
           "url": "https://wallstreetcn.com/articles/3760086",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 11时14分]"
         },
         {
           "title": "两年期美债收益率跌超4个基点，报道称哈塞特在美联储主席候选人中领先优势明显",
@@ -308,11 +311,12 @@
           "url": "https://www.zhihu.com/question/1975625921290592742",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 09时22分]"
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 11时14分]"
         }
       ]
     },
@@ -327,7 +331,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -367,7 +371,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         }
