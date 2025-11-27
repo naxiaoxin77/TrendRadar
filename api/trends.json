@@ -1,12 +1,36 @@
 {
-  "generated_at": "2025-11-27T09:21:06.489390+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2025-11-27T11:11:04.388185+08:00",
+  "total_titles_processed": 877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
       "match_count": 20,
       "titles": [
+        {
+          "title": "【早报】美股斩获四连阳；事关促消费，利好来了",
+          "url": "https://www.cls.cn/detail/2212138",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时20分 ~ 11时11分]"
+        },
+        {
+          "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2212003",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 11时11分]"
+        },
         {
           "title": "降息预期升温，全球股市齐涨，美股集体高开，甲骨文涨超6%",
           "url": "https://wallstreetcn.com/articles/3760164",
@@ -20,30 +44,6 @@
           "time_info": "[00时25分 ~ 06时18分]"
         },
         {
-          "title": "【早报】美股斩获四连阳；事关促消费，利好来了",
-          "url": "https://www.cls.cn/detail/2212138",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 09时21分]"
-        },
-        {
-          "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2212003",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 09时21分]"
-        },
-        {
           "title": "美股收盘：三大指数连涨四日 芯片股全线走强",
           "url": "https://www.cls.cn/detail/2212125",
           "source": "财联社热门",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 09时21分]"
+          "appearance_count": 4,
+          "time_info": "[09时20分 ~ 11时11分]"
         },
         {
           "title": "Tilray Brands Inc.美股盘后跌20%。",
@@ -72,7 +72,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -85,8 +85,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 09时21分]"
+          "appearance_count": 3,
+          "time_info": "[06时18分 ~ 11时11分]"
         },
         {
           "title": "金十图示：2025年11月26日（周三）美股热门股票行情一览（美股盘中）",
@@ -247,8 +247,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 09时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 11时11分]"
         },
         {
           "title": "阿里巴巴(BABA.N)美股短线跳水，现跌近3%。",
@@ -286,7 +286,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -319,6 +319,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "阿里发布 2026 财年 Q2 季报，外卖大战成果出炉，如何评价阿里在外卖大战中的成果？",
+          "url": "https://www.zhihu.com/question/1976952719236363849",
+          "source": "知乎",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时18分 ~ 11时11分]"
+        },
+        {
           "title": "阿里财报后为何“高开低走”？高盛：AI和云业务超预期，但电话会“短期波动”说法加剧电商忧虑",
           "url": "https://wallstreetcn.com/articles/3760129",
           "source": "华尔街见闻",
@@ -331,18 +343,6 @@
           "time_info": "[00时25分 ~ 06时18分]"
         },
         {
-          "title": "阿里发布 2026 财年 Q2 季报，外卖大战成果出炉，如何评价阿里在外卖大战中的成果？",
-          "url": "https://www.zhihu.com/question/1976952719236363849",
-          "source": "知乎",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时18分 ~ 09时21分]"
-        },
-        {
           "title": "摩根大通私人银行：基本假设是，标普500指数2026年将上涨至7400点，那将意味着有望较当前水平涨约9%。 如果经济重新加速增长、企业财报强劲、AI稳步发展等尾部风险足够强劲，可看涨至8200点，意味着有望上涨20%。 看好科技股和公用事业板块。",
           "url": "https://wallstreetcn.com/livenews/3010972",
           "source": "华尔街见闻-快讯",
@@ -352,6 +352,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "安踏体育 李宁 特步国际 华熙生物",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "安踏体育正在探索对PUMA的潜在收购。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3011226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "市场消息：安踏体育(02020.HK)正在探索对彪马的潜在收购。",
+          "url": "https://flash.jin10.com/detail/20251127105805516800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
         }
       ]
     },
@@ -370,8 +398,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 09时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 11时11分]"
         },
         {
           "title": "获德银“买入”评级，蔚来Q3毛利率改善强劲，Q4营收指引居新势力之首",
