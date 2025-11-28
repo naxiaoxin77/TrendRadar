@@ -1,11 +1,61 @@
 {
-  "generated_at": "2025-11-28T06:18:00.000628+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2025-11-28T09:20:08.253379+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股 纳斯达克 港股 中概股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2025-11-28）",
+          "url": "https://flash.jin10.com/detail/20251128091341192800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
+          "url": "https://wallstreetcn.com/articles/3760251",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "阿维塔递交港股IPO申请",
+          "url": "https://wallstreetcn.com/livenews/3011592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "提醒：美股周四休市，周五将提前三个小时收盘",
+          "url": "https://wallstreetcn.com/livenews/3011578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "招股书 融资",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "首次迎来百亿成交！“人气牛”股价7连涨，融资客回流电子板块，这些股已获加仓",
@@ -19,6 +69,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时23分 ~ 06时17分]"
+        },
+        {
+          "title": "两市融资余额增加27.41亿元",
+          "url": "https://wallstreetcn.com/livenews/3011745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "据知情人士透露，印度电商平台Meesho Ltd.寻求通过IPO融资至多540亿卢比（折合6.05亿美元）。 日本软银集团有投资该公司。（彭博）",
@@ -45,6 +106,37 @@
       ]
     },
     {
+      "keyword_group": "阿里巴巴 京东 拼多多 冬海",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待阿里最新财报，闪购营销费用增加 300 多亿收入却仅增 80 多亿，核心电商持续被抖音和拼多多赶超？",
+          "url": "https://www.zhihu.com/question/1977091164105638048",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时17分]"
+        },
+        {
+          "title": "阿里电商业务会被拼多多“偷家”吗",
+          "url": "https://www.toutiao.com/trending/7577248258641559602/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "海底捞 颐海国际 霸王茶姬 瑞幸咖啡 蜜雪冰城",
       "match_count": 2,
       "titles": [
@@ -55,11 +147,12 @@
           "ranks": [
             14,
             7,
-            8
+            8,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 09时20分]"
         },
         {
           "title": "官方回应蜜雪冰城要卖早餐",
@@ -76,50 +169,19 @@
       ]
     },
     {
-      "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "阿维塔递交港股IPO申请",
-          "url": "https://wallstreetcn.com/livenews/3011592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "提醒：美股周四休市，周五将提前三个小时收盘",
-          "url": "https://wallstreetcn.com/livenews/3011578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴 京东 拼多多 冬海",
+      "keyword_group": "安踏体育 李宁 特步国际 华熙生物",
       "match_count": 1,
       "titles": [
         {
-          "title": "如何看待阿里最新财报，闪购营销费用增加 300 多亿收入却仅增 80 多亿，核心电商持续被抖音和拼多多赶超？",
-          "url": "https://www.zhihu.com/question/1977091164105638048",
-          "source": "知乎",
+          "title": "花旗：李宁中期内不太可能收购海外品牌",
+          "url": "https://wallstreetcn.com/livenews/3011747",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            7,
-            6,
-            10
+            6
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         }
       ]
     }
