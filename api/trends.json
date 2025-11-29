@@ -1,12 +1,37 @@
 {
-  "generated_at": "2025-11-29T12:22:17.207896+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2025-11-29T14:27:03.687432+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
       "match_count": 17,
       "titles": [
+        {
+          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
+          "url": "https://www.cls.cn/detail/2214656",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时20分 ~ 14时27分]"
+        },
+        {
+          "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2214556",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 14时27分]"
+        },
         {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251129013457427800",
@@ -78,18 +103,6 @@
           "time_info": "00时23分"
         },
         {
-          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
-          "url": "https://www.cls.cn/detail/2214656",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 12时22分]"
-        },
-        {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251129031455925800",
           "source": "金十数据",
@@ -143,18 +156,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时20分 ~ 09时20分]"
-        },
-        {
-          "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2214556",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 06时17分]"
         },
         {
           "title": "黄金ETF收涨超1.2%，和布油基金领跑美股大类资产类ETF，黄金ETF今年已涨超60%",
@@ -227,11 +228,23 @@
           "url": "https://www.zhihu.com/question/1977807580899275657",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时10分 ~ 12时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时10分 ~ 14时27分]"
+        },
+        {
+          "title": "小鹏汽车：车展色情视频系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%EF%BC%9A%E8%BD%A6%E5%B1%95%E8%89%B2%E6%83%85%E8%A7%86%E9%A2%91%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时10分 ~ 14时27分]"
         },
         {
           "title": "如何评价理想汽车为 i6 欣旺达电池额外赠送 2 年 4 万公里质保？",
@@ -240,17 +253,6 @@
           "ranks": [
             10,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时10分 ~ 12时22分]"
-        },
-        {
-          "title": "小鹏汽车：车展色情视频系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%EF%BC%9A%E8%BD%A6%E5%B1%95%E8%89%B2%E6%83%85%E8%A7%86%E9%A2%91%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -271,7 +273,7 @@
     },
     {
       "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收涨0.5%。 热门中概股里，小米ADR涨3.4%，小鹏涨3.2%，文远知行涨2.3%，京东涨1.2%，蔚来涨0.7%。",
@@ -283,6 +285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "美团 2025 年 Q3 季报出炉，本地市场业务亏损约 141 亿，低于京东和阿里，如何评价其在外卖大战中的成果？",
+          "url": "https://www.zhihu.com/question/1977830541605766570",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 14时27分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.54%，报7792.89点，本周累计上涨3.71%，11月份累计下跌5.81%。 热门中概股里，小米ADR涨3.4%，小鹏涨3.2%，文远知行涨2.3%，京东涨1.2%，蔚来涨0.7%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.41%，德银嘉实沪深300指数ETF（ASHR）收涨0.87%，中国科技指数ETF（CQQQ）收涨0.61%，中概互联网指数ETF（KWEB）收涨0.19%。 本周，CQQQ反弹4.38%（结束此前连跌四周的趋势），ASHS反弹3.86%，KWEB反弹3.04%（结束此前连跌四周的趋势），ASHR反弹2.49%。 11月份，ASHR跌1.36%，结束此前连续六个月上涨的趋势；ASHS跌2.70%，连续第二个月下跌；KWEB跌5.96%，延续之前一个月跌4.90%的表现；CQQQ跌6.22%，延续之前一个月跌4.91%的表现；",
@@ -338,8 +351,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 12时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 14时27分]"
         },
         {
           "title": "A股多个重要指数将迎重大调整",
@@ -425,8 +438,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 12时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 14时27分]"
         }
       ]
     }
