@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T14:27:03.687432+08:00",
-  "total_titles_processed": 915,
+  "generated_at": "2025-11-29T16:23:24.338618+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时20分 ~ 14时27分]"
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 16时23分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -29,8 +29,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 14时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 16时23分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股盘中）",
@@ -229,11 +229,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时10分 ~ 14时27分]"
+          "appearance_count": 7,
+          "time_info": "[11时10分 ~ 16时23分]"
         },
         {
           "title": "小鹏汽车：车展色情视频系AI生成",
@@ -243,8 +244,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时10分 ~ 14时27分]"
+          "appearance_count": 7,
+          "time_info": "[11时10分 ~ 16时23分]"
         },
         {
           "title": "如何评价理想汽车为 i6 欣旺达电池额外赠送 2 年 4 万公里质保？",
@@ -291,11 +292,12 @@
           "url": "https://www.zhihu.com/question/1977830541605766570",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 16时23分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.54%，报7792.89点，本周累计上涨3.71%，11月份累计下跌5.81%。 热门中概股里，小米ADR涨3.4%，小鹏涨3.2%，文远知行涨2.3%，京东涨1.2%，蔚来涨0.7%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.41%，德银嘉实沪深300指数ETF（ASHR）收涨0.87%，中国科技指数ETF（CQQQ）收涨0.61%，中概互联网指数ETF（KWEB）收涨0.19%。 本周，CQQQ反弹4.38%（结束此前连跌四周的趋势），ASHS反弹3.86%，KWEB反弹3.04%（结束此前连跌四周的趋势），ASHR反弹2.49%。 11月份，ASHR跌1.36%，结束此前连续六个月上涨的趋势；ASHS跌2.70%，连续第二个月下跌；KWEB跌5.96%，延续之前一个月跌4.90%的表现；CQQQ跌6.22%，延续之前一个月跌4.91%的表现；",
@@ -351,8 +353,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 14时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 16时23分]"
         },
         {
           "title": "A股多个重要指数将迎重大调整",
@@ -438,8 +440,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 14时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 16时23分]"
         }
       ]
     }
