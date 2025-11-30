@@ -1,8 +1,25 @@
 {
-  "generated_at": "2025-11-30T12:33:34.399237+08:00",
-  "total_titles_processed": 682,
+  "generated_at": "2025-11-30T14:27:53.522077+08:00",
+  "total_titles_processed": 779,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "阿里巴巴 京东 拼多多 冬海",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "京东首车埃安 UT Super 交付遭退订，被指宣传与实际不符，问题可能出在哪里？会有哪些影响？",
+          "url": "https://www.zhihu.com/question/1977337131882996421",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        }
+      ]
+    },
     {
       "keyword_group": "海底捞 颐海国际 霸王茶姬 瑞幸咖啡 蜜雪冰城",
       "match_count": 1,
