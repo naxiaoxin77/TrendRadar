@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T20:34:25.663162+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2025-11-30T22:17:01.268105+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时27分 ~ 20时34分]"
+          "appearance_count": 6,
+          "time_info": "[14时27分 ~ 22时17分]"
         }
       ]
     },
@@ -56,6 +56,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "招股书 融资",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "20股本月录得翻倍行情，电力设备股数量最多，这些标的获融资客加仓",
+          "url": "https://www.cls.cn/detail/2215018",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
         }
       ]
     }
