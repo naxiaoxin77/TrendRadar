@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T06:17:54.323547+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2025-11-30T09:39:27.764893+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时21分 ~ 06时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股指数重大调整！涉及胜宏科技、中际旭创等",
+          "url": "https://wallstreetcn.com/articles/3760373",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
         }
       ]
     }
