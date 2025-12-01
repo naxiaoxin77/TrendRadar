@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T22:20:57.924109+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2025-12-02T00:27:16.716056+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -14,394 +14,37 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "中兴通讯港股短线拉升涨超10%。A股中兴通讯封板涨停，成交额超131亿元。",
-          "url": "https://wallstreetcn.com/livenews/3012742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            19
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时48分]"
+          "time_info": "[00时26分 ~ 00时27分]"
         },
         {
           "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
           "url": "https://wallstreetcn.com/articles/3760444",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，比特币下跌",
-          "url": "https://wallstreetcn.com/articles/3760444",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-12-01）",
-          "url": "https://flash.jin10.com/detail/20251201214154979800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "港股TATA健康复牌大涨超700%。",
-          "url": "https://wallstreetcn.com/livenews/3012815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "美股盘前，科技股多数下跌，英伟达跌超1%，谷歌、苹果跌近1%，特斯拉跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3012928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "美股疫苗股盘前下跌，Moderna跌超3%，BioNTech、诺瓦瓦克斯跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3013007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "比特币跌破8.6万美元，24小时跌幅近6%。 美股期货跌幅逐步扩大，纳斯达克100指数期货跌近0.9%，标普500股指期货跌近0.7%，道琼斯指数期货跌0.45%。",
-          "url": "https://wallstreetcn.com/livenews/3012789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
+          "time_info": "00时27分"
         }
       ]
     },
     {
       "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
         {
-          "title": "蔚来公司11月同比增长76.3%，乐道品牌交付同比增长132.1%",
-          "url": "https://wallstreetcn.com/livenews/3012959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "小鹏汽车：2025年11月交付智能电动汽车36,728辆，同比增长19%。 2025年1月至11月，累计交付量达391,937辆，同比增长156%。",
-          "url": "https://wallstreetcn.com/livenews/3012957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "比亚迪汽车（日本）：在日本推出插电式混合动力SUV“海狮6（SEALION 6）”，将于1月下旬开始交付。",
-          "url": "https://flash.jin10.com/detail/20251201111003612800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时48分]"
-        },
-        {
-          "title": "蔚来：11月交付36,275辆汽车，同比增长76.3%",
-          "url": "https://flash.jin10.com/detail/20251201173117698800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "小鹏汽车(09868.HK)2025年1月至11月累计交付量达391,937辆，同比增长156%。",
-          "url": "https://flash.jin10.com/detail/20251201173034335800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "小鹏汽车(09868.HK)2025年11月交付智能电动汽车36,728辆，同比增长19%。",
-          "url": "https://flash.jin10.com/detail/20251201173009694800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "长城汽车11月汽车销量133216辆，上年同期127394辆；11月新能源汽车销量40113辆。",
-          "url": "https://wallstreetcn.com/livenews/3013024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "比亚迪：11月新能源汽车产量47.42万辆，销量48.02万辆；本年累计产量411.76万辆，累计同比7.29%，累计销量418.2万辆，累计同比11.30%。",
-          "url": "https://wallstreetcn.com/livenews/3013009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴 京东 拼多多 冬海",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "京东首车埃安 UT Super 交付遭退订，被指宣传与实际不符，问题可能出在哪里？会有哪些影响？",
-          "url": "https://www.zhihu.com/question/1977337131882996421",
+          "title": "怎么评价 2025 年 11 月比亚迪销量 48 万同比下滑 5.24%？",
+          "url": "https://www.zhihu.com/question/1978913416493158831",
           "source": "知乎",
           "ranks": [
-            1,
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 06时17分]"
-        },
-        {
-          "title": "恒指高开0.34%，报25945.87点；恒生科技指数涨0.21%。美团跌2.3%，此前发布财报；网易涨1.3%，阿里巴巴涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/3012665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "翱捷科技：阿里巴巴网络技术有限公司11月24日至12月1日减持1.3%公司股份。",
-          "url": "https://wallstreetcn.com/livenews/3013068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米集团 泡泡玛特 POP MART",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "月产5000万只！当Labubu不再稀缺，泡泡玛特拿什么接棒？",
-          "url": "https://wallstreetcn.com/articles/3760437",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "人民日报谈小米集团高质量发展",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B0%88%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "小米集团称12月1日回购1,000万股B类普通股，耗资约4亿港元。",
-          "url": "https://wallstreetcn.com/livenews/3012998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "上证指数早盘收报3904.90点，涨0.42%。 深证成指早盘收报13106.95点，涨0.95%。 创业板指早盘收报3080.16点，涨0.90%。 沪深300早盘收报4560.67点，涨0.75%。 科创50早盘收报1337.35点，涨0.77%。 中证500早盘收报7086.13点，涨0.78%。 中证1000早盘收报7381.69点，涨0.65%。",
-          "url": "https://wallstreetcn.com/livenews/3012767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时48分]"
-        },
-        {
-          "title": "上证指数开盘报3894.21点，涨0.14%。 深证成指开盘报13038.16点，涨0.42%。 创业板指开盘报3060.56点，涨0.26%。 沪深300开盘报4539.19点，涨0.28%。 科创50开盘报1329.42点，涨0.17%。 中证500开盘报7053.85点，涨0.32%。 中证1000开盘报7356.51点，涨0.30%。",
-          "url": "https://wallstreetcn.com/livenews/3012669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "上证指数收报3914.01点，涨0.65%。 深证成指收报13146.72点，涨1.25%。 创业板指收报3092.50点，涨1.31%。 沪深300收报4576.49点，涨1.10%。 科创50收报1336.76点，涨0.72%。 中证500收报7101.83点，涨1.00%。 中证1000收报7386.68点，涨0.72%。",
-          "url": "https://wallstreetcn.com/livenews/3012862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "招股书 融资",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "20股本月录得翻倍行情，电力设备股数量最多，这些标的获融资客加仓",
-          "url": "https://www.cls.cn/detail/2215018",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 09时46分]"
-        },
-        {
-          "title": "天风证券低开近9％，公司因涉嫌信息披露违法违规、违法提供融资被证监会立案。",
-          "url": "https://wallstreetcn.com/livenews/3012672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美债收益率升至盘中高位；10年期收益率逼近4.06%。",
-          "url": "https://flash.jin10.com/detail/20251201213622180800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "印尼央行官员：明年印尼盾兑美元汇率会涨至1美元兑16,500卢比，甚至是1美元兑16,400卢比，承诺进一步稳定印尼盾汇率。",
-          "url": "https://flash.jin10.com/detail/20251201110006206800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财报 季报 年报",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "12月1日投资避雷针：两公司年报造假 另有三公司实控人被证监会立案调查",
-          "url": "https://www.cls.cn/detail/2215286",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时50分 ~ 16时29分]"
+          "time_info": "[00时26分 ~ 00时27分]"
         }
       ]
     }
