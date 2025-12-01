@@ -1,8 +1,132 @@
 {
-  "generated_at": "2025-12-01T16:29:42.091801+08:00",
-  "total_titles_processed": 1089,
+  "generated_at": "2025-12-01T18:22:47.796196+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "蔚来公司11月同比增长76.3%，乐道品牌交付同比增长132.1%",
+          "url": "https://wallstreetcn.com/livenews/3012959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "小鹏汽车：2025年11月交付智能电动汽车36,728辆，同比增长19%。 2025年1月至11月，累计交付量达391,937辆，同比增长156%。",
+          "url": "https://wallstreetcn.com/livenews/3012957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "比亚迪汽车（日本）：在日本推出插电式混合动力SUV“海狮6（SEALION 6）”，将于1月下旬开始交付。",
+          "url": "https://flash.jin10.com/detail/20251201111003612800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 12时48分]"
+        },
+        {
+          "title": "蔚来：11月交付36,275辆汽车，同比增长76.3%",
+          "url": "https://flash.jin10.com/detail/20251201173117698800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "小鹏汽车(09868.HK)2025年1月至11月累计交付量达391,937辆，同比增长156%。",
+          "url": "https://flash.jin10.com/detail/20251201173034335800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "小鹏汽车(09868.HK)2025年11月交付智能电动汽车36,728辆，同比增长19%。",
+          "url": "https://flash.jin10.com/detail/20251201173009694800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 纳斯达克 港股 中概股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中兴通讯港股短线拉升涨超10%。A股中兴通讯封板涨停，成交额超131亿元。",
+          "url": "https://wallstreetcn.com/livenews/3012742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 12时48分]"
+        },
+        {
+          "title": "港股TATA健康复牌大涨超700%。",
+          "url": "https://wallstreetcn.com/livenews/3012815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "美股盘前，科技股多数下跌，英伟达跌超1%，谷歌、苹果跌近1%，特斯拉跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3012928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "比特币跌破8.6万美元，24小时跌幅近6%。 美股期货跌幅逐步扩大，纳斯达克100指数期货跌近0.9%，标普500股指期货跌近0.7%，道琼斯指数期货跌0.45%。",
+          "url": "https://wallstreetcn.com/livenews/3012789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        }
+      ]
+    },
     {
       "keyword_group": "A股 上证 深证",
       "match_count": 3,
@@ -37,49 +161,9 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中兴通讯港股短线拉升涨超10%。A股中兴通讯封板涨停，成交额超131亿元。",
-          "url": "https://wallstreetcn.com/livenews/3012742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时48分]"
-        },
-        {
-          "title": "港股TATA健康复牌大涨超700%。",
-          "url": "https://wallstreetcn.com/livenews/3012815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "比特币跌破8.6万美元，24小时跌幅近6%。 美股期货跌幅逐步扩大，纳斯达克100指数期货跌近0.9%，标普500股指期货跌近0.7%，道琼斯指数期货跌0.45%。",
-          "url": "https://wallstreetcn.com/livenews/3012789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
         }
       ]
     },
@@ -139,24 +223,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "比亚迪汽车（日本）：在日本推出插电式混合动力SUV“海狮6（SEALION 6）”，将于1月下旬开始交付。",
-          "url": "https://flash.jin10.com/detail/20251201111003612800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时48分]"
         }
       ]
     },
