@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T00:27:16.716056+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-02T02:31:11.281712+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 2,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时31分]"
         },
         {
           "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
@@ -25,9 +25,64 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时31分]"
+        },
+        {
+          "title": "金十图示：2025年12月01日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251202013128346800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "02时31分"
+        },
+        {
+          "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251202013125562800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "纳斯达克100指数指数转涨，此前一度下跌1.1%",
+          "url": "https://wallstreetcn.com/livenews/3013174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数涨幅重新扩大至超过1%。",
+          "url": "https://wallstreetcn.com/livenews/3013173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "纳斯达克生物科技指数跌超2%。 成分股Sutro Biopharma目前下跌12.98%，Kyverna Therapeutics跌10.95%，Grail跌10.01%，Pyxis Oncology跌9.34%。 Ironwood医药则涨4.44%，Arrowhead Pharmaceuticals涨4.63%，Neumora Therapeutics涨6.92%，Q32 Bio涨92.69%。",
+          "url": "https://wallstreetcn.com/livenews/3013172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         }
       ]
     },
@@ -40,11 +95,12 @@
           "url": "https://www.zhihu.com/question/1978913416493158831",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时31分]"
         }
       ]
     }
