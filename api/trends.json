@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T12:30:34.385052+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2025-12-02T14:30:54.987661+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
@@ -28,19 +28,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 12时30分]"
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 14时30分]"
         },
         {
           "title": "美股收盘：三大指数“五连阳”戛然而止 中国资产逆势走强",
           "url": "https://www.cls.cn/detail/2216490",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 14时30分]"
+        },
+        {
+          "title": "日本央行加息预期飙升，加密货币大跌，标普连涨终结，中概股逆市上涨，铜银钴走强",
+          "url": "https://wallstreetcn.com/articles/3760444",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时23分 ~ 12时30分]"
+          "time_info": "[09时23分 ~ 14时30分]"
         },
         {
           "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
@@ -52,17 +64,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 06时17分]"
-        },
-        {
-          "title": "日本央行加息预期飙升，加密货币大跌，标普连涨终结，中概股逆市上涨，铜银钴走强",
-          "url": "https://wallstreetcn.com/articles/3760444",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 12时30分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）美股热门股票行情一览（美股盘中）",
@@ -226,11 +227,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 12时30分]"
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 14时30分]"
         },
         {
           "title": "比亚迪：方程豹汽车11月销售37405辆，同比增长339%",
@@ -267,7 +269,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
         },
@@ -374,7 +376,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
         }
