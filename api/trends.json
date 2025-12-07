@@ -1,8 +1,48 @@
 {
-  "generated_at": "2025-12-07T06:17:45.651633+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2025-12-07T09:39:48.149585+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "王传福坦言技术领先度不及以往，比亚迪的护城河还在吗？你认为是什么？",
+          "url": "https://www.zhihu.com/question/1980308534362144772",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "王传福：比亚迪是龙头老大，可以被别人欺负一下，但不能欺负别人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32118009",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 09时39分]"
+        },
+        {
+          "title": "如何看待 11 月份比亚迪海外销量?",
+          "url": "https://www.zhihu.com/question/1979174855929770210",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
       "match_count": 2,
@@ -23,28 +63,40 @@
           "url": "https://www.cls.cn/detail/2221625",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 09时39分]"
         }
       ]
     },
     {
-      "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
-      "match_count": 1,
+      "keyword_group": "招股书 融资",
+      "match_count": 2,
       "titles": [
         {
-          "title": "王传福：比亚迪是龙头老大，可以被别人欺负一下，但不能欺负别人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32118009",
-          "source": "澎湃新闻",
+          "title": "马斯克：有关SpaceX以8000亿美元估值进行融资的传闻不准确",
+          "url": "https://flash.jin10.com/detail/20251207091937087800",
+          "source": "金十数据",
           "ranks": [
-            20
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "09时39分"
+        },
+        {
+          "title": "马斯克：有很多媒体报道称SpaceX正以8000亿美元的估值进行融资，这一说法并不准确。",
+          "url": "https://flash.jin10.com/detail/20251207083014951800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
         }
       ]
     }
