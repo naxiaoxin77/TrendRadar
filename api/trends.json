@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T16:22:36.027207+08:00",
-  "total_titles_processed": 886,
+  "generated_at": "2025-12-07T18:17:49.862111+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             9,
             16,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 16时22分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 18时17分]"
         },
         {
           "title": "马斯克：有关SpaceX以8000亿美元估值进行融资的传闻不准确",
@@ -40,11 +41,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            13
+            13,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 16时22分]"
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 18时17分]"
         },
         {
           "title": "马斯克：有很多媒体报道称SpaceX正以8000亿美元的估值进行融资，这一说法并不准确。",
@@ -70,11 +72,12 @@
           "url": "https://www.zhihu.com/question/1980308534362144772",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时39分 ~ 16时22分]"
+          "appearance_count": 6,
+          "time_info": "[09时39分 ~ 18时17分]"
         },
         {
           "title": "如何看待 11 月份比亚迪海外销量?",
