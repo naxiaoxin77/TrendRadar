@@ -1,55 +1,23 @@
 {
-  "generated_at": "2025-12-07T12:32:26.279534+08:00",
-  "total_titles_processed": 684,
+  "generated_at": "2025-12-07T14:26:41.430378+08:00",
+  "total_titles_processed": 782,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
-      "match_count": 3,
+      "keyword_group": "招股书 融资",
+      "match_count": 4,
       "titles": [
         {
-          "title": "王传福坦言技术领先度不及以往，比亚迪的护城河还在吗？你认为是什么？",
-          "url": "https://www.zhihu.com/question/1980308534362144772",
-          "source": "知乎",
+          "title": "印度清洁能源部：未发布任何暂停或停止新增清洁能源融资的指导意见。",
+          "url": "https://flash.jin10.com/detail/20251207134543949800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时39分 ~ 12时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         },
-        {
-          "title": "如何看待 11 月份比亚迪海外销量?",
-          "url": "https://www.zhihu.com/question/1979174855929770210",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时39分 ~ 12时32分]"
-        },
-        {
-          "title": "王传福：比亚迪是龙头老大，可以被别人欺负一下，但不能欺负别人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32118009",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 11时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "招股书 融资",
-      "match_count": 3,
-      "titles": [
         {
           "title": "马斯克：有关SpaceX以8000亿美元估值进行融资的传闻不准确",
           "url": "https://flash.jin10.com/detail/20251207091937087800",
@@ -69,11 +37,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 14时26分]"
         },
         {
           "title": "马斯克：有很多媒体报道称SpaceX正以8000亿美元的估值进行融资，这一说法并不准确。",
@@ -87,6 +56,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时39分 ~ 12时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "王传福坦言技术领先度不及以往，比亚迪的护城河还在吗？你认为是什么？",
+          "url": "https://www.zhihu.com/question/1980308534362144772",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时39分 ~ 14时26分]"
+        },
+        {
+          "title": "如何看待 11 月份比亚迪海外销量?",
+          "url": "https://www.zhihu.com/question/1979174855929770210",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时39分 ~ 14时26分]"
+        },
+        {
+          "title": "王传福：比亚迪是龙头老大，可以被别人欺负一下，但不能欺负别人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32118009",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 11时26分]"
         }
       ]
     },
@@ -115,8 +128,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 12时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 14时26分]"
         }
       ]
     },
@@ -131,7 +144,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         }
