@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T16:28:03.940442+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2025-12-09T18:23:31.366663+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
@@ -113,6 +113,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "A股震荡调整，创业板涨0.61%，算力硬件领涨，商业航天冲高回落，中际旭创新高，港股走低，恒指、科指跌超1%，有色弱势",
+          "url": "https://wallstreetcn.com/articles/3760975",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "英伟达美股盘后涨1.4%。英特尔涨0.37%，AMD涨0.67%。",
@@ -289,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "港股新股宝济药业-B暗盘一度涨超100%。",
+          "url": "https://wallstreetcn.com/livenews/3017538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         }
       ]
     },
@@ -354,6 +376,56 @@
       ]
     },
     {
+      "keyword_group": "小米集团 泡泡玛特 POP MART",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "小米集团(01810.HK)12月9日以2.971亿港元回购720万股B类股份。",
+          "url": "https://flash.jin10.com/detail/20251209175458955800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "小米集团：12月9日回购720万股B类股，耗资约3亿港元。",
+          "url": "https://wallstreetcn.com/livenews/3017587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "泡泡玛特4个月跌近44%",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B94%E4%B8%AA%E6%9C%88%E8%B7%8C%E8%BF%9144%25%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "泡泡玛特盘中重挫9%！美国“黑五”销售疑不及预期，做空比例创两年新高",
+          "url": "https://wallstreetcn.com/articles/3760916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股 上证 深证",
       "match_count": 4,
       "titles": [
@@ -399,7 +471,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         }
@@ -418,8 +490,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 16时28分]"
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 18时23分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
@@ -478,6 +550,23 @@
       ]
     },
     {
+      "keyword_group": "阿里巴巴 京东 拼多多 冬海",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股盘前，英伟达延续昨日涨势，现涨超2%，英特尔涨超1%。热门中概股涨跌互现，阿里巴巴跌1%，百度跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3017543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "海底捞 颐海国际 霸王茶姬 瑞幸咖啡 蜜雪冰城",
       "match_count": 1,
       "titles": [
@@ -495,23 +584,6 @@
       ]
     },
     {
-      "keyword_group": "小米集团 泡泡玛特 POP MART",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "泡泡玛特盘中重挫9%！美国“黑五”销售疑不及预期，做空比例创两年新高",
-          "url": "https://wallstreetcn.com/articles/3760916",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "TikTok Shopee",
       "match_count": 1,
       "titles": [
@@ -523,8 +595,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 18时23分]"
         }
       ]
     },
