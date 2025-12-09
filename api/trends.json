@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-09T12:29:03.067321+08:00",
-  "total_titles_processed": 969,
+  "generated_at": "2025-12-09T14:31:19.335150+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
       "match_count": 25,
       "titles": [
+        {
+          "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
+          "url": "https://wallstreetcn.com/articles/3760893",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 14时31分]"
+        },
         {
           "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
           "url": "https://www.cls.cn/detail/2223257",
@@ -21,18 +34,6 @@
           "time_info": "[00时26分 ~ 12时29分]"
         },
         {
-          "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
-          "url": "https://wallstreetcn.com/articles/3760893",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 12时29分]"
-        },
-        {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
           "url": "https://www.cls.cn/detail/2223379",
           "source": "财联社热门",
@@ -41,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 12时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 14时31分]"
         },
         {
           "title": "静待美联储决议，美股高开，10年期日债收益率创18年新高，铜价再创新高",
@@ -76,7 +77,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -361,11 +362,12 @@
           "url": "https://wallstreetcn.com/articles/3760903",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 12时29分]"
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 14时31分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
@@ -415,7 +417,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -445,8 +447,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 12时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 14时31分]"
         },
         {
           "title": "比亚迪 11 月首次跻身韩国进口车汽车月销量前五，超越雷克萨斯、丰田、大众，这释放了哪些信号？",
@@ -477,6 +479,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 00时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米集团 泡泡玛特 POP MART",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "泡泡玛特盘中重挫9%！美国“黑五”销售疑不及预期，做空比例创两年新高",
+          "url": "https://wallstreetcn.com/articles/3760916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         }
       ]
     },
