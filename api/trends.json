@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T20:40:53.839538+08:00",
-  "total_titles_processed": 1578,
+  "generated_at": "2025-12-10T22:22:07.397233+08:00",
+  "total_titles_processed": 1704,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
@@ -87,8 +87,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 20时40分]"
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 22时22分]"
         },
         {
           "title": "A股震荡分化，创业板涨0.61%，算力领涨，光伏拉升，中际旭创新高，港股恒指、科指跌超1%，有色弱势",
@@ -111,6 +111,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3018491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-10）",
+          "url": "https://flash.jin10.com/detail/20251210214414427800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "周二（12月9日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨2.12%，报92915美元。 CME以太币期货DCR主力合约涨5.97%，报3330.50美元。 美股加密货币与加密货币关联指数涨3.59%，报72.92点，美股开盘后至北京时间01:00持续走高，之后高位震荡。 最近24小时，MarketVector数字资产100小盘指数涨1.28%，暂报4209.80点。",
@@ -225,8 +247,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时25分 ~ 20时40分]"
+          "appearance_count": 8,
+          "time_info": "[09时25分 ~ 22时22分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -257,7 +279,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -279,7 +301,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -298,7 +320,7 @@
     },
     {
       "keyword_group": "小米集团 泡泡玛特 POP MART",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "泡泡玛特股价近 4 个月跌 40% ，为何突遭看空？是短期情绪影响还是行业趋势变化的信号？",
@@ -340,6 +362,17 @@
           "time_info": "[16时27分 ~ 18时22分]"
         },
         {
+          "title": "LV大中华区总裁加入泡泡玛特董事会",
+          "url": "https://s.weibo.com/weibo?q=%23LV%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%8C%BA%E6%80%BB%E8%A3%81%E5%8A%A0%E5%85%A5%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E8%91%A3%E4%BA%8B%E4%BC%9A%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时22分]"
+        },
+        {
           "title": "泡泡玛特：LVMH大中华区集团总裁吴越获委任为公司非执行董事",
           "url": "https://wallstreetcn.com/livenews/3018349",
           "source": "华尔街见闻-快讯",
@@ -368,6 +401,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "王传福回应比亚迪国内销量下滑，他称后面会有重磅技术发布，这会是怎样的技术？能否扭转其在国内的颓势？",
+          "url": "https://www.zhihu.com/question/1981134593068390187",
+          "source": "知乎",
+          "ranks": [
+            13,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 22时22分]"
+        },
+        {
           "title": "恒指开盘持平，报25435.49点；恒生科技指数微跌0.04%。美团涨1.1%，百度涨0.9%；网易、比亚迪电子跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3018001",
           "source": "华尔街见闻-快讯",
@@ -379,28 +424,17 @@
           "time_info": "09时25分"
         },
         {
-          "title": "王传福回应比亚迪国内销量下滑，他称后面会有重磅技术发布，这会是怎样的技术？能否扭转其在国内的颓势？",
-          "url": "https://www.zhihu.com/question/1981134593068390187",
-          "source": "知乎",
-          "ranks": [
-            13,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 20时40分]"
-        },
-        {
           "title": "警方通报“小鹏汽车车展不雅视频”",
           "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E8%BD%A6%E5%B1%95%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
             14,
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 20时40分]"
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 22时22分]"
         },
         {
           "title": "警方通报“小鹏汽车车展不雅视频”",
@@ -408,11 +442,101 @@
           "source": "今日头条",
           "ranks": [
             11,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 20时40分]"
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 22时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Meta Google",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "市场消息：Meta Platforms CEO扎克伯格指示Meta公司放弃开源人工智能。",
+          "url": "https://flash.jin10.com/detail/20251210220230917800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "据Business Insider：Meta公司计划上调其VR设备的价格。",
+          "url": "https://flash.jin10.com/detail/20251210213125623800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "Meta计划上调其VR设备的价格。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3018481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨将近1.3%，Meta跌约1.5%",
+          "url": "https://wallstreetcn.com/livenews/3017889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴 京东 拼多多 冬海",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "知情人士称，Meta公司使用阿里巴巴的通义大模型对新AI模型进行了微调。 阿里巴巴(BABA.N)盘前涨逾4%，Meta Platforms(META.O)跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251210220349529800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "阿里巴巴美股盘前涨超4%，百度涨2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3018495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "报道：Meta使用了阿里巴巴通义千问QWEN来优化其新的AI模型",
+          "url": "https://wallstreetcn.com/livenews/3018493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         }
       ]
     },
@@ -438,7 +562,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -469,23 +593,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Meta Google",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨将近1.3%，Meta跌约1.5%",
-          "url": "https://wallstreetcn.com/livenews/3017889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
         }
       ]
     },
