@@ -1,8 +1,71 @@
 {
-  "generated_at": "2025-12-11T00:26:59.943934+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-11T02:28:51.852767+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股 纳斯达克 港股 中概股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
+          "url": "https://wallstreetcn.com/articles/3761064",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时28分]"
+        },
+        {
+          "title": "纳斯达克100指数跌0.5%，刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3018549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时28分]"
+        },
+        {
+          "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2225788",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251211013428018800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "金十图示：2025年12月10日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251211013034126800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        }
+      ]
+    },
     {
       "keyword_group": "蔚来 小鹏汽车 理想汽车 长城汽车 比亚迪",
       "match_count": 3,
@@ -15,19 +78,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时28分]"
         },
         {
           "title": "警方通报“小鹏汽车车展不雅视频”",
           "url": "https://www.toutiao.com/trending/7582161338932186634/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时28分]"
         },
         {
           "title": "警方通报“小鹏汽车车展不雅视频”",
@@ -35,34 +99,6 @@
           "source": "百度热搜",
           "ranks": [
             28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "纳斯达克100指数跌0.5%，刷新日低。",
-          "url": "https://wallstreetcn.com/livenews/3018549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
-          "url": "https://wallstreetcn.com/articles/3761064",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -79,11 +115,12 @@
           "url": "https://wallstreetcn.com/articles/3761127",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时28分]"
         }
       ]
     },
@@ -96,11 +133,12 @@
           "url": "https://wallstreetcn.com/articles/3760999",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时28分]"
         }
       ]
     },
