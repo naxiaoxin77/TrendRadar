@@ -1,12 +1,46 @@
 {
-  "generated_at": "2025-12-11T04:23:01.341178+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2025-12-11T06:20:04.488758+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 纳斯达克 港股 中概股",
-      "match_count": 5,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "周三（12月10日）纽约尾盘，标普500股指期货最终涨0.67%，道指期货涨1.15%，纳斯达克100股指期货涨0.40%。 罗素2000股指期货涨1.60%。",
+          "url": "https://wallstreetcn.com/livenews/3018685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "周三（12月10日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌0.63%，报92755美元，在美联储宣布降息、鲍威尔新闻发布会、美股收盘之后这段时间冲高回落。 CME以太币期货DCR主力合约涨0.82%，报3364.50美元，鲍威尔新闻发布会临近结束时也一度刷新日高。 美股加密货币与加密货币关联指数跌1.47%，报71.88点。 最近24小时，MarketVector数字资产100小盘指数跌0.86%，暂报4175.18点，曾在鲍威尔新闻发布会临近结束时刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3018682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2225788",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时28分 ~ 06时20分]"
+        },
         {
           "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
           "url": "https://wallstreetcn.com/articles/3761064",
@@ -16,19 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 04时23分]"
-        },
-        {
-          "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2225788",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 06时20分]"
         },
         {
           "title": "纳斯达克100指数跌0.5%，刷新日低。",
@@ -43,6 +66,28 @@
           "time_info": "[00时26分 ~ 02时28分]"
         },
         {
+          "title": "（美股）费城金银指数收涨1.43%，报326.61点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.50%，报2326.70点。",
+          "url": "https://wallstreetcn.com/livenews/3018679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "Gemini Space Station Inc.（GEMI）美股盘后涨15%。",
+          "url": "https://wallstreetcn.com/livenews/3018677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
           "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251211013428018800",
           "source": "金十数据",
@@ -54,6 +99,39 @@
           "time_info": "02时28分"
         },
         {
+          "title": "区域银行ETF收涨超3.4%，在美联储降息日领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3018674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜微软收跌超2.7%，特斯拉、亚马逊至少涨1.4%",
+          "url": "https://wallstreetcn.com/livenews/3018673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "新思科技Synopsys第四财季营收22.6亿美元，同比增长38%。 预计2026财年营收95.6亿-96.6亿美元，分析师预期96.3亿美元。 预计第一财季营收23.7亿-24.2亿美元，分析师预期23.6亿美元。 新思科技美股盘后涨6%。",
+          "url": "https://wallstreetcn.com/livenews/3018670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
           "title": "金十图示：2025年12月10日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251211013034126800",
           "source": "金十数据",
@@ -63,6 +141,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251211050826516800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "金十图示：2025年12月10日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251211050549928800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.64%，报7780.13点。 热门中概股里，阿特斯太阳能初步收涨6.1%，贝壳、小马智行、晶科能源涨超3%，世纪互联则跌4.3%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.12%，德银嘉实沪深300指数ETF（ASHR）收涨0.42%。 中国科技指数ETF（CQQQ）收涨0.74%，中概互联网指数ETF（KWEB）收涨0.35%。",
+          "url": "https://wallstreetcn.com/livenews/3018660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "标普500指数收涨46.17点，涨幅0.67%，报6886.68点，逼近10月28日所创收盘历史最高位6890.89点和10月29日所创盘中历史最高位6920.34点。 道琼斯工业平均指数收涨497.46点，涨幅1.05%，报48057.75点。 纳斯达克综合指数（纳指）收涨77.669点，涨幅0.33%，报23654.155点。 纳斯达克100指数收涨107.75点，涨幅0.42%，报25776.437点。",
+          "url": "https://wallstreetcn.com/livenews/3018658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 银行股走强",
+          "url": "https://flash.jin10.com/detail/20251211050116386800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         }
       ]
     },
@@ -88,11 +221,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 06时20分]"
         },
         {
           "title": "警方通报“小鹏汽车车展不雅视频”",
@@ -104,6 +238,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Meta Google",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "甲骨文：Oracle Pro得到与Meta和英伟达合同的提振。",
+          "url": "https://wallstreetcn.com/livenews/3018684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
+          "url": "https://wallstreetcn.com/articles/3761127",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 06时20分]"
         }
       ]
     },
@@ -120,8 +284,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 06时20分]"
         },
         {
           "title": "市场反应：美联储决议声明发布后，美债、金价走高，道指涨幅扩大",
@@ -130,7 +294,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         }
@@ -145,29 +309,12 @@
           "url": "https://s.weibo.com/weibo?q=LV%E9%AB%98%E7%AE%A1%E5%8A%A0%E5%85%A5%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 04时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Meta Google",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
-          "url": "https://wallstreetcn.com/articles/3761127",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[04时22分 ~ 06时20分]"
         }
       ]
     },
