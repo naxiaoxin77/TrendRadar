@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T14:31:26.711718+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2025-12-12T16:28:13.966866+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
@@ -103,7 +103,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -267,8 +267,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[09时26分 ~ 16时28分]"
         },
         {
           "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
@@ -278,8 +278,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 14时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 16时28分]"
         },
         {
           "title": "博通财报电话会实录：业绩强劲也撑不起股价？高管强调积压订单量有望再增长",
@@ -287,11 +287,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 14时31分]"
+          "appearance_count": 4,
+          "time_info": "[12时33分 ~ 16时28分]"
         },
         {
           "title": "Lululemon(LULU.O)股价在财报发布上涨，涨幅达7%。",
@@ -358,8 +359,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 16时28分]"
         },
         {
           "title": "消费者称蜜雪冰城早餐有点贵",
@@ -400,8 +401,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 14时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 16时28分]"
         },
         {
           "title": "A股三大指数集体翻红。",
@@ -484,7 +485,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         }
