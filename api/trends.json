@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T20:36:16.946441+08:00",
-  "total_titles_processed": 1270,
+  "generated_at": "2025-12-13T22:17:37.392240+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2228565",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时21分 ~ 20时36分]"
+          "appearance_count": 10,
+          "time_info": "[09时21分 ~ 22时17分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -334,8 +335,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 20时36分]"
+          "appearance_count": 3,
+          "time_info": "[20时35分 ~ 22时17分]"
         },
         {
           "title": "捷克候任总理巴比什：捷克共和国不会为乌克兰融资提供担保，欧盟委员会必须另寻替代方案。",
@@ -344,7 +345,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
