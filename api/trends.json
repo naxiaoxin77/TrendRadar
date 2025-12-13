@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T14:28:13.541554+08:00",
-  "total_titles_processed": 933,
+  "generated_at": "2025-12-13T16:23:20.509895+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时21分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[09时21分 ~ 16时23分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -359,11 +359,12 @@
           "url": "https://www.cls.cn/detail/2227945",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 16时23分]"
         },
         {
           "title": "中网投、蚂蚁领投人脸机器人企业，首形科技完成新一轮融资",
@@ -462,8 +463,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 16时23分]"
         }
       ]
     },
