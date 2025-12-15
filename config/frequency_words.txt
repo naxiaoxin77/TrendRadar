@@ -102,10 +102,6 @@ sora
 claude
 Anthropic
 
-ai
-!gai
-人工智能
-
 美国
 日本
 韩国
