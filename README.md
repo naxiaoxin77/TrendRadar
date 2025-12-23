@@ -1,7 +1,5 @@
 <div align="center" id="trendradar">
 
-> **📢 公告：** **v4.0.0** 版本已发布！包含存储架构重构、数据库优化、模块化改进等重大更新
-
 <a href="https://github.com/sansan0/TrendRadar" title="TrendRadar">
   <img src="/_image/banner.webp" alt="TrendRadar Banner" width="80%">
 </a>
@@ -10,14 +8,13 @@
 
 <a href="https://trendshift.io/repositories/14726" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14726" alt="sansan0%2FTrendRadar | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
-<a href="https://share.302.ai/mEOUzG" target="_blank" title="一站式 AI 模型和 API 平台"><img src="_image/302ai.png" alt="302.AI logo" height="50"/></a>
-<a href="https://shandianshuo.cn" target="_blank" title="AI 语音输入，比打字快 4 倍 ⚡"><img src="_image/shandianshuo.png" alt="闪电说 logo" height="51"/></a>
+<a href="https://shandianshuo.cn" target="_blank" title="AI 语音输入，比打字快 4 倍 ⚡"><img src="_image/shandianshuo.png" alt="闪电说 logo" height="55"/></a>
 
 [![GitHub Stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat-square&logo=github&color=yellow)](https://github.com/sansan0/TrendRadar/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/sansan0/TrendRadar?style=flat-square&logo=github&color=blue)](https://github.com/sansan0/TrendRadar/network/members)
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/version-v4.0.0-blue.svg)](https://github.com/sansan0/TrendRadar)
-[![MCP](https://img.shields.io/badge/MCP-v1.1.0-green.svg)](https://github.com/sansan0/TrendRadar)
+[![Version](https://img.shields.io/badge/version-v4.0.3-blue.svg)](https://github.com/sansan0/TrendRadar)
+[![MCP](https://img.shields.io/badge/MCP-v1.1.1-green.svg)](https://github.com/sansan0/TrendRadar)
 
 [![企业微信通知](https://img.shields.io/badge/企业微信-通知-00D4AA?style=flat-square)](https://work.weixin.qq.com/)
 [![个人微信通知](https://img.shields.io/badge/个人微信-通知-00D4AA?style=flat-square)](https://weixin.qq.com/)
@@ -60,47 +57,15 @@
 
 * **适用**：有自己的服务器、NAS 或长期运行的电脑。
 
-* 👉 [跳转到 Docker 部署教程](#6-docker-部署)
+👉 **[跳转到 Docker 部署教程](#6-docker-部署)**
 
 ---
 
 #### 🅱️ 方案二：GitHub Actions 部署（已恢复 ✅）
 
-* **特点**：数据不再直接写入仓库（Git Commit），而是存储在 **远程云存储**（支持 S3 兼容协议：Cloudflare R2、阿里云 OSS、腾讯云 COS 等）。
+* **特点**：数据不再直接写入仓库（Git Commit），而是存储在 **远程云存储**。
 
-* **门槛**：**必须**配置一个 S3 兼容的对象存储服务（推荐免费的 Cloudflare R2）。
-
-> **⚠️ 注意**：选择此方案，请务必执行以下两步配置：
-
-#### 1. 🚀 推荐的开始方式：Use this template
-
-为了保持仓库整洁，避免继承冗余的历史记录，我**建议**你使用 Template 模式：
-
-1.  **点击**原仓库页面右上角的绿色 **[Use this template]** 按钮。
-
-2.  **选择** "Create a new repository"。
-
-> **💡 为什么要这样做？**
-> * **Use this template**：创建一个全新的、干净的仓库，没有历史包袱。
-> * **Fork**：会保留完整的提交历史和关联关系，占用 GitHub 更多资源。
-
-#### 2. ☁️ 关于 GitHub Actions 必配的远程存储
-
-如果你选择 **方案二 (GitHub Actions)**，则必须配置一个 S3 兼容的对象存储服务。
-
-**支持的存储服务：**
-- **Cloudflare R2**（推荐，免费额度充足）
-- 其他 S3 兼容服务
-
-**⚠️ 以 Cloudflare R2 为例的配置前置条件：**
-
-根据 Cloudflare 平台规则，开通 R2 需绑定支付方式。
-
-* **目的**：仅作身份验证（Verify Only），**不产生扣费**。
-
-* **支付**：支持双币信用卡或国区 PayPal。
-
-* **用量**：R2 的免费额度（10GB存储/月）足以覆盖本项目日常运行，无需担心付费。
+* **推荐**：配置一个远程云存储服务（Cloudflare R2、阿里云 OSS、腾讯云 COS 等）。
 
 👉 **[点击查看详细配置教程](#-快速开始)**
 
@@ -411,15 +376,11 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 - **大版本升级**：从 v1.x 升级到 v2.y，建议删除现有 fork 后重新 fork，这样更省力且避免配置冲突
 
 
-### 2025/12/13 - v4.0.0
 
-**🎉 重大更新：全面重构存储和核心架构**
+### 2025/12/20 - v4.0.3
 
-- **多存储后端支持**：引入全新的存储模块，支持本地 SQLite 和远程云存储（S3 兼容协议，推荐免费的 Cloudflare R2），适应 GitHub Actions、Docker 和本地环境。
-- **数据库结构优化**：重构 SQLite 数据库表结构，提升数据效率和查询能力。
-- **核心代码模块化**：将主程序逻辑拆分为 trendradar 包的多个模块，显著提升代码可维护性。
-- **增强功能**：实现日期格式标准化、数据保留策略、时区配置支持、时间显示优化，并修复远程存储数据持久化问题，确保数据合并的准确性。
-- **清理和兼容**：移除了大部分历史兼容代码，统一了数据存储和读取方式。
+- 新增 URL 标准化功能，解决微博等平台因动态参数（如 `band_rank`）导致的重复推送问题
+- 修复增量模式检测逻辑，正确识别历史标题
 
 
 ### 2025/12/13 - mcp-v1.1.0
@@ -434,6 +395,24 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 
 <details>
 <summary>👉 点击展开：<strong>历史更新</strong></summary>
+
+
+
+### 2025/12/17 - v4.0.1
+
+- StorageManager 添加推送记录代理方法
+- S3 客户端切换至 virtual-hosted style 以提升兼容性（支持腾讯云 COS 等更多服务）
+
+
+### 2025/12/13 - v4.0.0
+
+**🎉 重大更新：全面重构存储和核心架构**
+
+- **多存储后端支持**：引入全新的存储模块，支持本地 SQLite 和远程云存储（S3 兼容协议，推荐免费的 Cloudflare R2），适应 GitHub Actions、Docker 和本地环境。
+- **数据库结构优化**：重构 SQLite 数据库表结构，提升数据效率和查询能力。
+- **核心代码模块化**：将主程序逻辑拆分为 trendradar 包的多个模块，显著提升代码可维护性。
+- **增强功能**：实现日期格式标准化、数据保留策略、时区配置支持、时间显示优化，并修复远程存储数据持久化问题，确保数据合并的准确性。
+- **清理和兼容**：移除了大部分历史兼容代码，统一了数据存储和读取方式。
 
 
 ### 2025/12/03 - v3.5.0
@@ -896,71 +875,82 @@ frequency_words.txt 文件增加了一个【必须词】功能，使用 + 号
 
 > **📖 提醒**：Fork 用户建议先 **[查看最新官方文档](https://github.com/sansan0/TrendRadar?tab=readme-ov-file)**，确保配置步骤是最新的。
 
-### ⚠️ GitHub Actions 使用说明
+1️⃣ **获取项目代码**
 
-**v4.0.0 重要变更**：引入「活跃度检测」机制，GitHub Actions 需定期签到以维持运行。
+   点击本仓库页面右上角的绿色 **[Use this template]** 按钮 → 选择 "Create a new repository"。
 
-#### 🔄 签到续期机制
+   > ⚠️ 提醒：
+   > - 后续文档中提到的 "Fork" 均可理解为 "Use this template"
+   > - 使用 Fork 可能导致运行异常，详见 [Issue #606](https://github.com/sansan0/TrendRadar/issues/606)
 
-- **运行周期**：有效期为 **7 天**，倒计时结束后服务将自动挂起。
-- **续期方式**：在 Actions 页面手动触发 "Check In" workflow，即可重置 7 天有效期。
-- **操作路径**：`Actions` → `Check In` → `Run workflow`
-- **设计理念**：
-    - 如果 7 天都忘了签到，或许这些资讯对你来说并非刚需。适时的暂停，能帮你从信息流中抽离，给大脑留出喘息的空间。
-    - GitHub Actions 是宝贵的公共计算资源。引入签到机制旨在避免算力的无效空转，确保资源能分配给真正活跃且需要的用户。感谢你的理解与支持。
-
-#### 📦 数据存储（必需配置）
-
-GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼容协议，推荐免费的 Cloudflare R2），不会污染仓库（见下方 **必需配置：远程云存储**）
-
-#### 🚀 推荐：Docker 部署
-
-如需长期稳定运行，建议使用 [Docker 部署](#6-docker-部署)，数据存储在本地，无需签到，不过需要额外付费购买云服务器。
-
-<br>
-
-> 🎉 **已支持：多云存储方案**
->
-> 本项目现已支持 S3 兼容协议，你可以选择：
-> - **Cloudflare R2**（推荐，免费额度充足）
-> - 其他 S3 兼容存储服务
->
-> 只需配置对应的 `S3_ENDPOINT_URL`、`S3_BUCKET_NAME` 等环境变量即可切换。
-
----
-
-1. **Fork 本项目**到你的 GitHub 账户
-
-   - 点击本页面右上角的"Fork"按钮
-
-2. **设置 GitHub Secrets（必需 + 可选平台）**:
+2️⃣ **设置 GitHub Secrets（必需 + 可选平台）**:
 
    在你 Fork 后的仓库中，进入 `Settings` > `Secrets and variables` > `Actions` > `New repository secret`
 
+   **⚠️ GitHub Actions 使用说明**
+
+   **v4.0.0 重要变更**：引入「活跃度检测」机制，GitHub Actions 需定期签到以维持运行。
+
+   **🔄 签到续期机制**：
+   - **运行周期**：有效期为 **7 天**，倒计时结束后服务将自动挂起。
+   - **续期方式**：在 Actions 页面手动触发 "Check In" workflow，即可重置 7 天有效期。
+   - **操作路径**：`Actions` → `Check In` → `Run workflow`
+   - **设计理念**：
+     - 如果 7 天都忘了签到，或许这些资讯对你来说并非刚需。适时的暂停，能帮你从信息流中抽离，给大脑留出喘息的空间。
+     - GitHub Actions 是宝贵的公共计算资源。引入签到机制旨在避免算力的无效空转，确保资源能分配给真正活跃且需要的用户。感谢你的理解与支持。
+
    **📌 重要说明（请务必仔细阅读）：**
 
-   - ✅ **一个 Name 对应一个 Secret**：每添加一个配置项，点击一次"New repository secret"按钮，填写一对"Name"和"Secret"
-   - ✅ **保存后看不到值是正常的**：出于安全考虑，保存后重新编辑时，只能看到 Name（名称），看不到 Secret（值）的内容
-   - ⚠️ **严禁自创名称**：Secret 的 Name（名称）必须**严格使用**下方列出的名称（如 `WEWORK_WEBHOOK_URL`、`FEISHU_WEBHOOK_URL` 等），不能自己随意修改或创造新名称，否则系统无法识别
-   - 💡 **可以同时配置多个平台**：系统会向所有配置的平台发送通知
+   - **一个 Name 对应一个 Secret**：每添加一个配置项，点击一次"New repository secret"按钮，填写一对"Name"和"Secret"
+   - **保存后看不到值是正常的**：出于安全考虑，保存后重新编辑时，只能看到 Name（名称），看不到 Secret（值）的内容
+   - **严禁自创名称**：Secret 的 Name（名称）必须**严格使用**下方列出的名称（如 `WEWORK_WEBHOOK_URL`、`FEISHU_WEBHOOK_URL` 等），不能自己随意修改或创造新名称，否则系统无法识别
+   - **可以同时配置多个平台**：系统会向所有配置的平台发送通知
 
-   **📌 多账号推送说明（v3.5.0 新增）：**
+   <details>
+   <summary>👉 点击展开：<strong>轻量模式 vs 完整模式 + AI分析</strong></summary>
+   <br>
 
-   - ✅ **支持多账号配置**：所有推送渠道（飞书、钉钉、企业微信、Telegram、ntfy、Bark、Slack）均支持配置多个账号
-   - ✅ **配置方式**：使用英文分号 `;` 分隔多个账号值
-   - ✅ **示例**：`FEISHU_WEBHOOK_URL` 的 Secret 值填写 `https://webhook1;https://webhook2`
-   - ⚠️ **配对配置**：Telegram 和 ntfy 需要保证配对参数数量一致（如 token 和 chat_id 都是 2 个）
-   - ⚠️ **数量限制**：默认每个渠道最多 3 个账号，超出部分被截断
+**两种部署模式：**
 
-   **多账号配置示例**：
+| 模式 | 配置要求 | 功能范围 |
+|------|---------|---------|
+| **轻量模式** | 无需配置存储 | 实时抓取 + 关键词筛选 + 多渠道推送 |
+| **完整模式** | 配置远程云存储 | 轻量模式 + 新增检测 + 趋势追踪 + 增量推送 + AI分析 |
 
-   | Name（名称） | Secret（值）示例 |
-   |-------------|-----------------|
-   | `FEISHU_WEBHOOK_URL` | `https://webhook1;https://webhook2;https://webhook3` |
-   | `TELEGRAM_BOT_TOKEN` | `token1;token2` |
-   | `TELEGRAM_CHAT_ID` | `chatid1;chatid2` |
-   | `NTFY_TOPIC` | `topic1;topic2` |
-   | `NTFY_TOKEN` | `;token2`（第一个无 token 时留空占位） |
+**轻量模式说明**：
+- ✅ 可用：实时新闻抓取、关键词筛选、热点权重排序、当前榜单推送
+- ❌ 不可用：新增新闻检测(🆕)、热度趋势追踪、增量模式、每日汇总累积、MCP AI分析
+
+**完整模式说明**：
+配置远程云存储后解锁全部功能（见下方 **推荐配置：远程云存储**）
+
+**🚀 推荐：Docker 部署**
+
+如需长期稳定运行，建议使用 [Docker 部署](#6-docker-部署)，数据存储在本地，无需签到，不过需要额外付费购买云服务器。
+
+   </details>
+
+   <details>
+   <summary>👉 点击展开：<strong>多账号推送说明（v3.5.0 新增）</strong></summary>
+   <br>
+
+- **支持多账号配置**：所有推送渠道（飞书、钉钉、企业微信、Telegram、ntfy、Bark、Slack）均支持配置多个账号
+- **配置方式**：使用英文分号 `;` 分隔多个账号值
+- **示例**：`FEISHU_WEBHOOK_URL` 的 Secret 值填写 `https://webhook1;https://webhook2`
+- **配对配置**：Telegram 和 ntfy 需要保证配对参数数量一致（如 token 和 chat_id 都是 2 个）
+- **数量限制**：默认每个渠道最多 3 个账号，超出部分被截断
+
+**多账号配置示例**：
+
+| Name（名称） | Secret（值）示例 |
+|-------------|-----------------|
+| `FEISHU_WEBHOOK_URL` | `https://webhook1;https://webhook2;https://webhook3` |
+| `TELEGRAM_BOT_TOKEN` | `token1;token2` |
+| `TELEGRAM_CHAT_ID` | `chatid1;chatid2` |
+| `NTFY_TOPIC` | `topic1;topic2` |
+| `NTFY_TOKEN` | `;token2`（第一个无 token 时留空占位） |
+
+   </details>
 
    **配置示例：**
 
@@ -973,50 +963,61 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
    <br>
 
    <details>
-   <summary>⚠️ <strong>必需配置：远程云存储</strong>（GitHub Actions 环境必需，推荐 Cloudflare R2）</summary>
+   <summary>👉 点击展开：<strong>推荐配置：远程云存储</strong></summary>
    <br>
 
-    **GitHub Secret 配置（⚠️ 以下 4 个配置项都是必需的）：**
+**⚠️ 以 Cloudflare R2 为例的配置前置条件：**
 
-    | Name（名称） | Secret（值）说明 |
-    |-------------|-----------------|
-    | `S3_BUCKET_NAME` | 存储桶名称（如 `trendradar-data`） |
-    | `S3_ACCESS_KEY_ID` | 访问密钥 ID（Access Key ID） |
-    | `S3_SECRET_ACCESS_KEY` | 访问密钥（Secret Access Key） |
-    | `S3_ENDPOINT_URL` | S3 API 端点（如 R2：`https://<account-id>.r2.cloudflarestorage.com`） |
+根据 Cloudflare 平台规则，开通 R2 需绑定支付方式。
 
-    <br>
+* **目的**：仅作身份验证（Verify Only），**不产生扣费**。
+* **支付**：支持双币信用卡或国区 PayPal。
+* **用量**：R2 的免费额度（10GB存储/月）足以覆盖本项目日常运行，无需担心付费。
 
-    **如何获取凭据（以 Cloudflare R2 为例）：**
+---
 
-    1. **进入 R2 概览**：
-    - 登录 [Cloudflare Dashboard](https://dash.cloudflare.com/)。
-    - 在左侧侧边栏找到并点击 `R2对象存储`。
+**GitHub Secret 配置：**
 
-    <br>
+**必需配置（4 项）：**
 
-    2. **创建存储桶**：
-    - 点击`概述`
-    - 点击右上角的 `创建存储桶` (Create bucket)。
-    - 输入名称（例如 `trendradar-data`），点击 `创建存储桶`。
+| Name（名称） | Secret（值）说明 |
+|-------------|-----------------|
+| `S3_BUCKET_NAME` | 存储桶名称（如 `trendradar-data`） |
+| `S3_ACCESS_KEY_ID` | 访问密钥 ID（Access Key ID） |
+| `S3_SECRET_ACCESS_KEY` | 访问密钥（Secret Access Key） |
+| `S3_ENDPOINT_URL` | S3 API 端点（如 R2：`https://<account-id>.r2.cloudflarestorage.com`） |
 
-    <br>
+**可选配置：**
 
-    3. **创建 API 令牌**：
-    - 回到 **概述**页面。
-    - 点击**右下角** `Account Details `找到并点击 `Manage` (Manage R2 API Tokens)。
-    - 同时你会看到 `S3 API`：`https://<account-id>.r2.cloudflarestorage.com`(这就是 S3_ENDPOINT_URL)
-    - 点击 `创建 Account APl 令牌` 。
-    - **⚠️ 关键设置**：
-        - **令牌名称**：随意填写（如 `github-action-write`）。
-        - **权限**：选择 `管理员读和写` 。
-        - **指定存储桶**：为了安全，建议选择 `仅适用于指定存储桶` 并选中你的桶（如 `trendradar-data`）。
-    - 点击 `创建 API 令牌`，**立即复制** 显示的 `Access Key ID` 和 `Secret Access Key`（只显示一次！）。
+| Name（名称） | Secret（值）说明 |
+|-------------|-----------------|
+| `S3_REGION` | 区域（默认 `auto`，部分服务商可能需要指定） |
 
-    <br>
+> 💡 **更多存储配置选项**：参见 [存储配置详解](#11-存储配置)
 
-    - **R2 免费额度**：每月 10GB 存储 + 100万次读取，对本项目来说非常充足。
-    - **支付验证**：开通 R2 即使是免费额度，Cloudflare 也要求绑定 PayPal 或信用卡进行身份验证（不会实际扣费，除非超过额度）。
+<br>
+
+**如何获取凭据（以 Cloudflare R2 为例）：**
+
+1. **进入 R2 概览**：
+   - 登录 [Cloudflare Dashboard](https://dash.cloudflare.com/)。
+   - 在左侧侧边栏找到并点击 `R2对象存储`。
+
+2. **创建存储桶**：
+   - 点击`概述`
+   - 点击右上角的 `创建存储桶` (Create bucket)。
+   - 输入名称（例如 `trendradar-data`），点击 `创建存储桶`。
+
+3. **创建 API 令牌**：
+   - 回到 **概述**页面。
+   - 点击**右下角** `Account Details `找到并点击 `Manage` (Manage R2 API Tokens)。
+   - 同时你会看到 `S3 API`：`https://<account-id>.r2.cloudflarestorage.com`(这就是 S3_ENDPOINT_URL)
+   - 点击 `创建 Account APl 令牌` 。
+   - **⚠️ 关键设置**：
+     - **令牌名称**：随意填写（如 `github-action-write`）。
+     - **权限**：选择 `管理员读和写` 。
+     - **指定存储桶**：为了安全，建议选择 `仅适用于指定存储桶` 并选中你的桶（如 `trendradar-data`）。
+   - 点击 `创建 API 令牌`，**立即复制** 显示的 `Access Key ID` 和 `Secret Access Key`（只显示一次！）。
 
    </details>
 
@@ -1283,6 +1284,7 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
    | **搜狐邮箱** | sohu.com | smtp.sohu.com | 465 | SSL |
    | **天翼邮箱** | 189.cn | smtp.189.cn | 465 | SSL |
    | **阿里云邮箱** | aliyun.com | smtp.aliyun.com | 465 | TLS |
+   | **Yandex邮箱** | yandex.com | smtp.yandex.com | 465 | TLS |
 
    > **自动识别**：使用以上邮箱时，无需手动配置 `EMAIL_SMTP_SERVER` 和 `EMAIL_SMTP_PORT`，系统会自动识别。
    >
@@ -1293,6 +1295,7 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
    > **特别感谢**：
    > - 感谢 [@DYZYD](https://github.com/DYZYD) 贡献天翼邮箱（189.cn）配置并完成自发自收测试 ([#291](https://github.com/sansan0/TrendRadar/issues/291))
    > - 感谢 [@longzhenren](https://github.com/longzhenren) 贡献阿里云邮箱（aliyun.com）配置并完成测试 ([#344](https://github.com/sansan0/TrendRadar/issues/344))
+   > - 感谢 [@ACANX](https://github.com/ACANX) 贡献 Yandex 邮箱（yandex.com）配置并完成测试 ([#663](https://github.com/sansan0/TrendRadar/issues/663))
 
    **常见邮箱设置：**
 
@@ -1600,11 +1603,11 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
 
    </details>
 
-3. **手动测试新闻推送**：
+3️⃣ **手动测试新闻推送**：
 
-   > 💡 **完成第1-2步后，请立即测试！** 测试成功后再根据需要调整配置（第4步）。
-   >
-   > ⚠️ **重要提醒：请进入你自己 fork 的项目，不是本项目！**
+   > ⚠️ 提醒：
+   > - 完成第 1-2 步后，请立即测试！测试成功后再根据需要调整配置（第 4 步）
+   > - 请进入你自己的项目，不是本项目！
 
    **如何找到你的 Actions 页面**：
 
@@ -1623,44 +1626,42 @@ GitHub Actions 环境下，数据存储在 **远程云存储**（支持 S3 兼�
 
    <br>
 
-   > ⏱️ **测试提示**：
+   > ⚠️ 提醒：
    > - 手动测试不要太频繁，避免触发 GitHub Actions 限制
-   > - 点击 Run workflow 后需要**刷新浏览器页面**才能看到新的运行记录
+   > - 点击 Run workflow 后需要刷新浏览器页面才能看到新的运行记录
 
-4. **配置说明（可选）**：
+4️⃣ **配置说明（可选）**：
 
-    > 💡 **默认配置已可正常使用**，如需个性化调整，了解以下三个文件即可
+   默认配置已可正常使用，如需个性化调整，了解以下三个文件即可：
 
-    | 文件 | 作用 |
-    |------|------|
-    | `config/config.yaml` | 主配置文件：推送模式、时间窗口、平台列表、热点权重等 |
-    | `config/frequency_words.txt` | 关键词文件：设置你关心的词汇，筛选推送内容 |
-    | `.github/workflows/crawler.yml` | 执行频率：控制多久运行一次（⚠️ 谨慎修改） |
+   | 文件 | 作用 |
+   |------|------|
+   | `config/config.yaml` | 主配置文件：推送模式、时间窗口、平台列表、热点权重等 |
+   | `config/frequency_words.txt` | 关键词文件：设置你关心的词汇，筛选推送内容 |
+   | `.github/workflows/crawler.yml` | 执行频率：控制多久运行一次（⚠️ 谨慎修改） |
 
-    👉 **详细配置教程**：[配置详解](#配置详解)
+   👉 **详细配置教程**：[配置详解](#配置详解)
 
-5. **🎉 部署成功！分享你的使用体验**
+5️⃣ **🎉 部署成功！分享你的使用体验**
 
    恭喜你完成了 TrendRadar 的配置！现在你可以开始追踪热点资讯了。
 
-   💬 **有更多小伙伴在公众号交流使用心得，期待你的分享~**
+   💬 有更多小伙伴在公众号交流使用心得，期待你的分享~
 
    - 想了解更多玩法和高级技巧？
    - 遇到问题需要快速解答？
    - 有好的想法想要交流？
 
-   👉 **欢迎关注公众号「硅基茶水间」**，你的点赞和留言都是项目持续更新的动力。
+   👉 欢迎关注公众号「**[硅基茶水间](#问题答疑与交流)**」，你的点赞和留言都是项目持续更新的动力。
 
-   详细的交流方式，请查看 → [问题答疑与交流](#问题答疑与交流)
-
-6. **想要更智能的分析？试试 AI 增强功能**（可选）
+6️⃣ **想要更智能的分析？试试 AI 增强功能**（可选）
 
    基础配置已经能满足日常使用，但如果你想要：
 
-   - 📊 让 AI 自动分析热点趋势和数据洞察
-   - 🔍 通过自然语言搜索和查询新闻
-   - 💡 获得情感分析、话题预测等深度分析
-   - ⚡ 在 Claude、Cursor 等 AI 工具中直接调用数据
+   - 让 AI 自动分析热点趋势和数据洞察
+   - 通过自然语言搜索和查询新闻
+   - 获得情感分析、话题预测等深度分析
+   - 在 Claude、Cursor 等 AI 工具中直接调用数据
 
    👉 **了解更多**：[AI 智能分析](#-ai-智能分析) — 解锁项目的隐藏能力，让热点追踪更高效！
 
@@ -3135,7 +3136,7 @@ Cherry Studio 提供 GUI 配置界面，5 分钟快速部署，复杂的部分�
 
 > 💡 **提示**：实际不建议一次性问多个问题。如果你选择的 AI 模型连下图的按顺序调用都无法做到，建议换一个。
 
-<img src="/_image/ai3.png" alt="mcp 使用效果图" width="600">
+<img src="/_image/ai2.png" alt="mcp 使用效果图" width="600">
 
 </details>
 
@@ -3540,52 +3541,6 @@ MCP Inspector 是官方调试工具，用于测试 MCP 连接：
 
 
 ## 🪄 赞助商
-
-> **302.AI** 是按用量付费的企业级 AI 资源平台      
-> 提供市场上最新、最全面的 **AI 模型**和 **API**，以及多种开箱即用的在线 AI 应用
-
-<div align="center">
-
-[![注册领取](https://img.shields.io/badge/注册_302.AI-领取_1_美元免费测试额度-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)](https://share.302.ai/mEOUzG)
-<a href="https://share.302.ai/mEOUzG" target="_blank">
-  <img src="_image/banner-302ai-zh.jpg" alt="302.AI" width="700"/>
-</a>
-</div>
-
-
-<details id="sponsor-tutorial">
-<summary>👉 点击展开：<b>302.AI 使用教程</b></summary>
-<br>
-
-> 领取的 1 美元可用于调用各种 AI 大模型（如 Claude、GPT 等）
-> 本项目 AI 分析功能需配置大模型使用，配置教程详见 [AI 智能分析](#-ai-智能分析)
-
-### 第 1 步：获取 API Key
-
-1. 注册后，进入右上角 [管理后台](https://302.ai/dashboard/overview)
-2. 点击左侧 [API Keys](https://302.ai/apis/list)
-3. 在页面下方找到默认 API KEY，**点击眼睛图标查看**，然后复制
-   （⚠️ 注意：不是点最右侧的复制按钮）
-
-
-### 第 2 步：在 Cherry Studio 中配置
-
-1. 打开 Cherry Studio，进入设置
-2. 模型提供商选择 **"302.AI"**
-3. 粘贴刚才复制的 API Key
-4. 点击**管理**，现在可以使用所有支持的 AI 模型了
-
-**提示：** Cherry Studio 已原生集成 302.AI，配置后即可看到完整模型列表。
-
-
-**Q: 1 美元免费额度能用多久？**
-A: 取决于使用频率和模型选择，可以进行多次测试体验。
-
-**Q: 免费额度用完后怎么办？**
-A: 可以按需充值，按量付费。目前大厂模型价格已相对亲民。
-
-</details>
-
 
 > 每天追踪这么多热点，写报告、回复消息是否让手腕疲惫？        
 > 试试「闪电说」AI 语音输入法 —— 用说的，比打字快 4 倍 ⚡ 。从看热点到输出内容，让效率翻倍 👇
