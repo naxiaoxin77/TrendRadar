@@ -94,6 +94,7 @@ AMD
 
 meta
 facebook
+!metal
 
 谷歌
 google
