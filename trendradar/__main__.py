@@ -23,6 +23,7 @@ from trendradar.ai import AIAnalyzer, AIAnalysisResult
 from trendradar.core.scheduler import ResolvedSchedule
 from trendradar.commands import check_all_versions, run_doctor, run_test_notification, handle_status_commands
 from trendradar.commands.version import _fetch_remote_version, _parse_version
+from trendradar.report.archive import archive_enabled, publish_report
 
 
 
@@ -789,6 +790,41 @@ class NewsAnalyzer:
 
         return stats, html_file, ai_result, rss_items, standalone_data, rss_new_items
 
+    def _prepare_push_report(self, stats, failed_ids, new_titles, id_to_name, mode):
+        report_data = self.ctx.prepare_report(
+            stats, failed_ids, new_titles, id_to_name, mode, frequency_file=self.frequency_file,
+        )
+        report_data.update({
+            "hotlist_total": self._hotlist_total_count,
+            "platform_total": len(self.ctx.platform_ids),
+            "rss_matched_count": self._rss_matched_count,
+            "rss_total_count": self._rss_total_count,
+            "rss_source_total": self._rss_source_total,
+            "rss_source_failed": self._rss_source_failed,
+        })
+        return report_data
+
+    def _archive_push_report(self, report_data, report_type, mode, rss_items=None,
+                             rss_new_items=None, standalone_data=None, ai_result=None):
+        """Archive before notification decisions, including empty/failed pushes."""
+        try:
+            dispatcher = self.ctx.create_notification_dispatcher()
+            batches = dispatcher.prepare_feishu_archive(
+                report_data, report_type,
+                self.update_info if self.ctx.config["SHOW_VERSION_UPDATE"] else None,
+                mode, rss_items, rss_new_items, ai_result, standalone_data,
+            )
+            manifest = publish_report(
+                self.storage_manager.get_backend(), report_data=report_data,
+                batches=batches, generated_at=self.ctx.get_time(),
+                report_type=report_type, mode=mode, rss_items=rss_items,
+                rss_new_items=rss_new_items, standalone_data=standalone_data,
+            )
+            print(f"[报告归档] R2 已保存完整报告: {manifest['report_id']} ({manifest['status']})")
+        except Exception as exc:
+            # Avoid leaking endpoint or credential information through exceptions.
+            print(f"[报告归档] 失败 ({type(exc).__name__})，R2 最新报告指针未推进；请检查本地 output/reports 副本")
+
     def _send_notification_if_needed(
         self,
         stats: List[Dict],
@@ -804,6 +840,7 @@ class NewsAnalyzer:
         ai_result: Optional[AIAnalysisResult] = None,
         current_results: Optional[Dict] = None,
         schedule: ResolvedSchedule = None,
+        prepared_report_data: Optional[Dict] = None,
     ) -> bool:
         """统一的通知发送逻辑，包含所有判断条件，支持热榜+RSS合并推送+AI分析+独立展示区"""
         has_notification = self._has_notification_configured()
@@ -857,15 +894,9 @@ class NewsAnalyzer:
                     )
 
             # 准备报告数据
-            report_data = self.ctx.prepare_report(stats, failed_ids, new_titles, id_to_name, mode, frequency_file=self.frequency_file)
-
-            # 注入元数据（用于推送头部展示）
-            report_data["hotlist_total"] = self._hotlist_total_count
-            report_data["platform_total"] = len(self.ctx.platform_ids)
-            report_data["rss_matched_count"] = self._rss_matched_count
-            report_data["rss_total_count"] = self._rss_total_count
-            report_data["rss_source_total"] = self._rss_source_total
-            report_data["rss_source_failed"] = self._rss_source_failed
+            report_data = prepared_report_data if prepared_report_data is not None else self._prepare_push_report(
+                stats, failed_ids, new_titles, id_to_name, mode,
+            )
 
             # 是否发送版本更新信息
             update_info_to_send = self.update_info if cfg["SHOW_VERSION_UPDATE"] else None
@@ -1578,6 +1609,18 @@ class NewsAnalyzer:
             print(f"HTML报告已生成: {html_file}")
             print(f"最新报告已更新: output/html/latest/{self.report_mode}.html")
 
+        # Full report archival is independent of channel configuration, HTTP
+        # success, and the incremental-mode decision to skip an empty push.
+        prepared_report_data = None
+        if archive_enabled():
+            prepared_report_data = self._prepare_push_report(
+                stats, failed_ids, new_titles, id_to_name, self.report_mode,
+            )
+            self._archive_push_report(
+                prepared_report_data, mode_strategy["report_type"], self.report_mode,
+                rss_items, rss_new_items, standalone_data, ai_result,
+            )
+
         # 发送通知
         if mode_strategy["should_send_notification"]:
             # standalone_data 已在分析流水线中翻译，直接复用（不再重新 prepare 原文，
@@ -1596,6 +1639,7 @@ class NewsAnalyzer:
                 ai_result=ai_result,
                 current_results=results,
                 schedule=schedule,
+                prepared_report_data=prepared_report_data,
             )
 
         # 打开浏览器（仅在非容器环境）

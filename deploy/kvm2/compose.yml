@@ -21,6 +21,7 @@ services:
     environment:
       TZ: Asia/Singapore
       STORAGE_BACKEND: remote
+      REPORT_ARCHIVE_ENABLED: "true"
       RUN_MODE: cron
       CRON_SCHEDULE: "0 */8 * * *"
       IMMEDIATE_RUN: "false"
@@ -28,7 +29,7 @@ services:
     volumes:
       - ../../config:/app/config:ro
       - /opt/trendradar/output:/app/output
-    # Reports are delivered to Feishu; no public port is required.
+    # Full push reports are privately archived in R2; no public port is required.
     healthcheck:
       test: ["CMD-SHELL", "test -s /tmp/crontab && test \"$$(cat /proc/1/comm)\" = supercronic"]
       interval: 60s

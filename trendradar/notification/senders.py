@@ -93,6 +93,21 @@ SMTP_CONFIGS = {
 }
 
 
+def build_feishu_batches(report_data, report_type, update_info=None, mode="daily", *,
+                         batch_size=29000, split_content_func=None, rss_items=None,
+                         rss_new_items=None, ai_analysis=None, standalone_data=None):
+    """Render the entire push body without contacting a notification service."""
+    ai_content = _render_ai_analysis(ai_analysis, "feishu") if ai_analysis else None
+    batches = split_content_func(
+        report_data, "feishu", update_info,
+        max_bytes=batch_size - get_max_batch_header_size("feishu"),
+        mode=mode, rss_items=rss_items, rss_new_items=rss_new_items,
+        ai_content=ai_content, standalone_data=standalone_data,
+        ai_stats=_extract_ai_stats(ai_analysis), report_type=report_type,
+    )
+    return add_batch_headers(batches, "feishu", batch_size)
+
+
 def send_to_feishu(
     webhook_url: str,
     report_data: Dict,
@@ -141,28 +156,12 @@ def send_to_feishu(
     # 日志前缀
     log_prefix = f"飞书{account_label}" if account_label else "飞书"
 
-    # 渲染 AI 分析内容并提取统计数据
-    ai_content = _render_ai_analysis(ai_analysis, "feishu") if ai_analysis else None
-    ai_stats = _extract_ai_stats(ai_analysis)
-
-    # 预留批次头部空间，避免添加头部后超限
-    header_reserve = get_max_batch_header_size("feishu")
-    batches = split_content_func(
-        report_data,
-        "feishu",
-        update_info,
-        max_bytes=batch_size - header_reserve,
-        mode=mode,
-        rss_items=rss_items,
-        rss_new_items=rss_new_items,
-        ai_content=ai_content,
-        standalone_data=standalone_data,
-        ai_stats=ai_stats,
-        report_type=report_type,
+    batches = build_feishu_batches(
+        report_data, report_type, update_info, mode,
+        batch_size=batch_size, split_content_func=split_content_func,
+        rss_items=rss_items, rss_new_items=rss_new_items,
+        ai_analysis=ai_analysis, standalone_data=standalone_data,
     )
-
-    # 统一添加批次头部（已预留空间，不会超限）
-    batches = add_batch_headers(batches, "feishu", batch_size)
 
     print(f"{log_prefix}消息分为 {len(batches)} 批次发送 [{report_type}]")
 

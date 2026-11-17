@@ -23,6 +23,7 @@ from trendradar.core.config import (
 )
 
 from .senders import (
+    build_feishu_batches,
     send_to_bark,
     send_to_dingtalk,
     send_to_email,
@@ -416,6 +417,21 @@ class NotificationDispatcher:
             rss_new_items if (show_rss and display_regions.get("NEW_ITEMS", True)) else None,
             ai_analysis if display_regions.get("AI_ANALYSIS", True) else None,
             standalone_data if display_regions.get("STANDALONE", False) else None,
+        )
+
+    def prepare_feishu_archive(self, report_data, report_type, update_info=None,
+                               mode="daily", rss_items=None, rss_new_items=None,
+                               ai_analysis=None, standalone_data=None):
+        """Use the same regions and renderer as the Feishu sender, without HTTP."""
+        rd, ri, rn, ai, sd = self._apply_display_regions(
+            report_data, self.config.get("DISPLAY", {}).get("REGIONS", {}),
+            rss_items, rss_new_items, ai_analysis, standalone_data,
+        )
+        return build_feishu_batches(
+            rd, report_type, update_info, mode,
+            batch_size=self.config.get("FEISHU_BATCH_SIZE", 29000),
+            split_content_func=self.split_content_func, rss_items=ri,
+            rss_new_items=rn, ai_analysis=ai, standalone_data=sd,
         )
 
     def _send_feishu(
