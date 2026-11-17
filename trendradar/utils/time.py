@@ -1,6 +1,8 @@
 # coding=utf-8
 """
-时间工具模块 - 统一时间处理函数
+时间工具模块
+
+本模块提供统一的时间处理函数，所有时区相关操作都应使用 DEFAULT_TIMEZONE 常量。
 """
 
 from datetime import datetime
@@ -8,7 +10,7 @@ from typing import Optional
 
 import pytz
 
-# 默认时区
+# 默认时区常量 - 仅作为 fallback，正常运行时使用 config.yaml 中的 app.timezone
 DEFAULT_TIMEZONE = "Asia/Shanghai"
 
 
@@ -89,3 +91,126 @@ def convert_time_for_display(time_str: str) -> str:
     if time_str and "-" in time_str and len(time_str) == 5:
         return time_str.replace("-", ":")
     return time_str
+
+
+def _parse_iso_time(iso_time: str) -> datetime:
+    """保留 ISO 时区和小数秒，无时区按 UTC 处理。"""
+    dt = datetime.fromisoformat(iso_time.replace("Z", "+00:00"))
+    return pytz.UTC.localize(dt) if dt.tzinfo is None else dt
+
+
+def format_iso_time_friendly(
+    iso_time: str,
+    timezone: str = DEFAULT_TIMEZONE,
+    include_date: bool = True,
+) -> str:
+    """
+    将 ISO 格式时间转换为用户时区的友好显示格式
+
+    Args:
+        iso_time: ISO 格式时间字符串，如 '2025-12-29T00:20:00' 或 '2025-12-29T00:20:00+00:00'
+        timezone: 目标时区名称
+        include_date: 是否包含日期部分
+
+    Returns:
+        友好格式的时间字符串，如 '12-29 08:20' 或 '08:20'
+    """
+    if not iso_time:
+        return ""
+
+    try:
+        dt = _parse_iso_time(iso_time)
+
+        # 转换到目标时区
+        try:
+            target_tz = pytz.timezone(timezone)
+        except pytz.UnknownTimeZoneError:
+            target_tz = pytz.timezone(DEFAULT_TIMEZONE)
+
+        dt_local = dt.astimezone(target_tz)
+
+        # 格式化输出
+        if include_date:
+            return dt_local.strftime("%m-%d %H:%M")
+        else:
+            return dt_local.strftime("%H:%M")
+
+    except Exception:
+        # 出错时返回原始字符串的简化版本
+        if "T" in iso_time:
+            parts = iso_time.split("T")
+            if len(parts) == 2:
+                date_part = parts[0][5:]  # MM-DD
+                time_part = parts[1][:5]  # HH:MM
+                return f"{date_part} {time_part}" if include_date else time_part
+        return iso_time
+
+
+def is_within_days(
+    iso_time: str,
+    max_days: int,
+    timezone: str = DEFAULT_TIMEZONE,
+) -> bool:
+    """
+    检查 ISO 格式时间是否在指定天数内
+
+    用于 RSS 文章新鲜度过滤，判断文章发布时间是否超过指定天数。
+
+    Args:
+        iso_time: ISO 格式时间字符串（如 '2025-12-29T00:20:00' 或带时区）
+        max_days: 最大天数（文章发布时间距今不超过此天数则返回 True）
+            - max_days > 0: 正常过滤，保留 N 天内的文章
+            - max_days <= 0: 禁用过滤，保留所有文章
+        timezone: 时区名称（用于获取当前时间）
+
+    Returns:
+        True 如果时间在指定天数内（应保留），False 如果超过指定天数（应过滤）
+        如果无法解析时间，返回 True（保留文章）
+    """
+    # 无时间戳或禁用过滤时，保留文章
+    if not iso_time:
+        return True
+    if max_days <= 0:
+        return True  # max_days=0 表示禁用过滤
+
+    try:
+        dt = _parse_iso_time(iso_time)
+
+        # 获取当前时间（配置的时区，带时区信息）
+        now = get_configured_time(timezone)
+
+        # 计算时间差（两个带时区的 datetime 相减会自动处理时区差异）
+        diff = now - dt
+        days_diff = diff.total_seconds() / (24 * 60 * 60)
+
+        return days_diff <= max_days
+
+    except Exception:
+        # 出错时保留文章
+        return True
+
+
+def calculate_days_old(iso_time: str, timezone: str = DEFAULT_TIMEZONE) -> Optional[float]:
+    """
+    计算 ISO 格式时间距今多少天
+
+    Args:
+        iso_time: ISO 格式时间字符串
+        timezone: 时区名称
+
+    Returns:
+        距今天数（浮点数），如果无法解析返回 None
+    """
+    if not iso_time:
+        return None
+
+    try:
+        dt = _parse_iso_time(iso_time)
+
+        now = get_configured_time(timezone)
+        diff = now - dt
+        return diff.total_seconds() / (24 * 60 * 60)
+
+    except Exception:
+        return None
+
