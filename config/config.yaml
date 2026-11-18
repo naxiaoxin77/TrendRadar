@@ -93,8 +93,6 @@ platforms:
       name: Hacker News
     - id: sspai
       name: 少数派
-    - id: 36kr-quick
-      name: 36氪
     - id: mktnews-flash
       name: MKTNews
 

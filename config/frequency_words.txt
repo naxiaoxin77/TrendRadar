@@ -5,7 +5,6 @@ DTC
 外贸
 出口
 
-vibe marketing
 content marketing
 digital marketing
 
@@ -60,6 +59,7 @@ A股
 纳斯达克
 港股
 中概股
+ETF
 
 美元
 +汇率
@@ -82,6 +82,8 @@ bytedance
 
 特斯拉
 马斯克
+spacex
+Grok
 
 微软
 Microsoft
@@ -93,6 +95,7 @@ NVIDIA
 AMD
 
 meta
+muse
 facebook
 !metal
 
@@ -102,7 +105,7 @@ gemini
 
 chatgpt
 openai
-sora
+codex
 
 claude
 Anthropic
